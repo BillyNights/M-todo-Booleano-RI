@@ -1,0 +1,30 @@
+A  quantidade  de  informação  gerada  nos  dias  de  hoje  aumenta  de  forma assustadora. São tantos dados em tantos  lugares  
+diferentes,  que não temos como acompanhar esse crescimento exponencial. Ferramentas  como  buscadores  web  ajudam  na  tarefa  de  
+encontrar  informações relevantes  ao  usuário. Porém,  mesmo  com uma  boa  precisão  na relevância  dos resultados, nem sempre 
+conseguimos o dado necessário ou precisamos procurá-lo entre milhares de outras informações. Motivada por  essa  dificuldade, surgiu  a  
+área de  recuperação  de  informação que busca  simplificar  o  processamento  de  dados  para  facilitar  a  localização  de 
+informações desejadas e até por elaborar informações que não estão inicialmente no texto, combinando dados  e  conhecimento  adquirido  
+anteriormente através do tempo. E  para  atender  essa  demanda,  este  trabalho  tem  como  finalidade  explorar  as técnicas de 
+recuperação de informação e colocar em prática, através de protótipos de  alguns  modelos,  os  conhecimentos  já  elaborados  desta  
+área  e  analisar  os modelos e abordagens conhecidas. 2.  O PROBLEMA A quantidade de informação na Internet aumenta drasticamente a 
+cada dia. Logo, é  excessivamente  lento  o  processo  de  buscar  informações  relevantes  a  sua necessidade,  sendo  que  após  o  
+processo  de  busca  ainda  é  preciso  avaliar  os resultados obtidos e verificar os documentos a procura do dado necessário. Alguns  
+modelos  de  recuperação  levam  em  consideração  questões  culturais  e semânticas,  e  segundo  Gerrand  (2007),  a  língua  inglesa  
+manteve  sua  posição dominante  na  Internet. Aproximadamente  60%  das  páginas web  são  em inglês. Isso  faz  com  que  não haja  
+tantas  pesquisas  na área  de mineração  de  textos na língua portuguesa.
+
+O termo “information retrieval” foi criado por Calvin Mooers, que o definiu tendo como  objetivo  tratar  dos  aspectos  intelectuais  
+da  informação  e  especificar  sua busca  e  também  de  qualquer  sistema,  técnicas  ou  máquinas  empregadas  para realizar  este  
+
+trabalho  (Mooers,  1951).  Ainda  é  questionado  nos  dias  de  hoje  a utilização de “informação” no termo por não recuperar a 
+informação em si, e sim documentos  ou  referências  que  podem  ser  relevantes  para  a  necessidade  do usuário. Conhecido como  IR,  
+é uma sub-área  da  ciência da  computação  que lida  com  o armazenamento  automatizado  e  recuperação  de  documentos  (Frakes,  
+1992).  A recuperação de informação  inclui conceitos de outras disciplinas  da computação, como inteligência artificial e computação 
+paralela. 
+
+ 9 Os  sistemas  de  IR  foram  concebidos  originalmente  para  ajudar  a  lidar  com  a grande literatura científica que foi 
+ desenvolvida  desde  1940,  e  ainda  hoje este é um dos usos mais comuns (Frakes, 1992). Comumente  confundida  com  um  Sistema  
+ Gerenciador  de  Banco  de  Dados (SGBD) relacional, diverge em que seus sistemas de busca não são rígidos e tem como  origem  objetos  
+ linguísticos  sem  estrutura  ou  semântica  controladas, diferente  dos  bancos  de  dados  relacionais.  Um  sistema  de  
+ recuperação  de informação  pode  ter  características  semelhantes  a  um  SGBD,  que  tem  como objetivo  recuperar  todos  os  
+ itens  que  condizem  exatamente  com  as  condições impostas na expressão de busca. Para isso seria preciso existirem regras rígidas de controle e vocabulário limitado.

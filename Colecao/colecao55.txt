@@ -1,0 +1,193 @@
+Por aproximadamente 4.000 anos o ser humano vem organizando informações para
+depois recuperá-las para o uso. O maior exemplo disto é o livro. Com o acúmulo de conteúdo,
+foi necessária a criação de estruturas que rapidamente relacionassem palavras ou conceitos a
+conteúdos maiores, indicando a localização destes. Era o início da utilização do Índice
+(RIBEIRO-NETO; BAEZA-YATES, 1999, p. 6).
+Com o advento da computação moderna, surgiram os primeiros mecanismos de
+criação automática de índices, tarefa realizada manualmente até então. A criação automática
+de índices através de sistemas foi o primeiro passo no surgimento da área de Recuperação de
+Informação (RI). A RI, contudo, trouxe problemas relacionados com a utilização de
+computadores: a construção de índices automáticos deveria ser realizada de forma eficiente, o
+processamento das consultas dos usuários deveria ser de alta performance e os resultados das
+consultas deveriam ser apresentados ordenadamente do mais relevante para o menos relevante
+com um certo grau de qualidade (RIBEIRO-NETO; BAEZA-YATES, 1999, p. 6-7). Estas
+questões propulsionam o estudo da RI ainda nos dias de hoje.
+O surgimento da Web criou novos desafios para a RI. A disponibilização de
+informações na internet, bem como o número de usuários inexperientes na tarefa de pesquisa
+na Web vem crescendo rapidamente. Os mecanismos de busca automáticos tornaram-se
+essenciais. Todavia, apenas ganham a atenção do usuário aqueles que retornam conteúdo de
+qualidade de forma ordenada como o popular Google (BRIN; PAGE, 1998).
+Diante do exposto, torna-se de extrema relevância a eficácia do resultado recuperado
+pelo sistema de RI. Consequentemente, a performance do sistema de RI depende de uma de
+suas principais fases, a indexação (SPARCK JONES; WILLET, 1997, p. 86). Indexação,
+segundo Sparck Jones e Willet (1997, p.1), refere-se a forma como documentos e
+consultas são representados para o propósito da Recuperação de Informação.
+O resultado da fase de indexação são termos indexados representando cada documento
+(SPARCK JONES; WILLET, 1997, p. 305-306). A expressão termo indexado, simplesmente
+termo neste trabalho, pode ser definida como palavra, ou palavras, cuja semântica representa
+algum dos temas principais de um documento, ou seja, uma palavra-chave de um
+documento (RIBEIRO-NETO; BAEZA-YATES, 1999, p. 24).
+A fase de indexação é composta por alguns passos, os quais variam muito entre os
+pesquisadores. Neste trabalho os passos foram definidos conforme adaptação dos estudos de
+Frakes (1992, p. 7), Lancaster e Warner (1993, p. 85), Hiemstra (2000, p. 38-41), Gonzales
+(2005, p. 18-23) e Manning, Raghavan e Schütze (2009, p. 19-34). Os passos da indexação
+são os seguintes: Pré-processamento, “Tokenização”, Remoção de “Stopwords”,
+Normalização, Formação de Termos Compostos, Cálculo da Representatividade (peso do
+termo) e a Criação da Estrutura de Índices.
+O passo de Cálculo da Representatividade, foco do trabalho, permite que os termos
+possam ser numericamente classificados de acordo com suas relevâncias em cada documento.
+Portanto, neste passo, são atribuídos a cada termo de todos os documentos da coleção, um
+peso que revela sua representatividade dentro do documento (RIBEIRO-NETO; BAEZAYATES,
+1999, p. 24).
+O Cálculo da Representatividade é realizado por funções como a popular TF.IDF
+(SALTON; BUCKLEY, 1988) e as funções BM25 (ROBERTSON et al., 1994) e BM25F
+(ROBERTSON; ZARAGOZA; TAYLOR, 2004), consideradas o estado-da-arte na área de RI
+(BARRÓN-CEDEÑO; EISELT; ROSSO, 2009; PÉREZ-AGÜERA et al., 2010). Por meio do
+cálculo da representatividade é possível ordenar os termos do mais relevante ao menos
+relevante em cada documento.
+Outro conceito utilizado neste trabalho é o de zoneamento. O zoneamento é uma
+técnica que consiste em particionar o texto em regiões (zonas) distintas que não se sobrepõem
+com o objetivo de aplicar tratamento diferenciado para cada região, como por exemplo,
+atribuir pesos maiores a termos que aparecem em uma determinada zona (RIBEIRO-NETO;
+BAEZA-YATES, 1999, p. 62; MANNING; RAGHAVAN; SCHÜTZE, 2009, p. 339-340).
+17
+PROBLEMAS IDENTIFICADOS
+Conforme aborda Lewandowski (2009), o retorno das consultas realizadas pelos
+usuários ao pesquisar em mecanismos de busca, sistemas de RI universalmente utilizados,
+ainda não é o desejável.
+Em relação ao uso de zoneamento para minimizar o problema, atualmente existem
+vários estudos sobre o tema, Manning, Raghavan e Schütze (2009, p. 110-113). Tais estudos,
+no entanto, tendo como representante principal a função BM25F, requer um tipo específico de
+documento com os campos já estabelecidos e é melhor utilizado em texto semiestruturado,
+como XML (LU; ROBERTSON; MACFARLANE, 2006).
+HIPÓTESES
+Neste trabalho serão verificadas as seguintes hipóteses:
+– O uso da técnica de funções de representatividade combinadas com o zoneamento,
+aplicada em qualquer tipo de documento texto, torna a fase de indexação de
+documentos mais eficaz, em termos de qualidade, que o uso das funções da forma
+original, como implementadas atualmente. Adicionalmente a isto, a implementação
+desta técnica simultaneamente à técnica de potencialização da primeira zona tende
+a elevar ainda mais a eficácia medida;
+– O termo que aparece distribuído em maior número de zonas do texto é mais
+representativo para o documento. Se este termo aparecer na primeira zona, ele é
+considerado ainda mais representativo.
+18
+OBJETIVOS
+Este trabalho concentra-se em combinar as funções de representatividade com o
+conceito de zoneamento objetivando melhorar a qualidade da indexação.
+Busca-se englobar um conjunto mais generalizado de documentos, como por exemplo
+mensagens de e-mail, páginas da Web, artigos científicos, livros ou qualquer outro documento
+texto, com resultados tão eficazes ou mais quanto os produzidos pela BM25F, função cujos
+resultados foram utilizados para efeito de comparação.
+O objetivo geral deste trabalho é melhorar a qualidade da indexação de
+documentos através da implementação de uma nova técnica relacionada com funções
+utilizadas nesta fase, amplamente exploradas nas pesquisas atuais. A nova técnica
+consiste em utilizar o zoneamento combinado com tais funções com o objetivo de
+recuperar as informações eficazmente.
+Os objetivos específicos são:
+– buscar técnicas para particionar documentos texto de forma satisfatória
+(implementar o zoneamento);
+– buscar técnicas para aplicação de pesos em zonas.
+METODOLOGIA
+A metodologia aplicada foi a de verificar o desempenho da execução das funções de
+representatividade, na fase de indexação, com coleções de documentos selecionadas. As
+funções foram alteradas com a inclusão do conceito de zoneamento. Foram feitos novos testes
+com as mesmas coleções de documentos, comparando os resultados com os obtidos com as
+funções originais.
+Para tornar possível o experimento, foram desenvolvidos três “scripts” na linguagem
+19
+PHP gravando resultados em um banco de dados MySQL, um “script” para cada função:
+TF.IDF, BM25 e BM25F. Os “scripts” TF.IDF-extendido e BM25-extendido foram
+desenvolvidos para a utilização com a função pura ou com a função alterada com o
+zoneamento proposto e o “script” da BM25F, função cujos resultados serviram de
+comparação, foi desenvolvido para implementar a função original sem alterações. A decisão
+de desenvolver “scripts” ao invés de utilizar as ferramentas disponíveis na comunidade
+científica foi tomada devido à flexibilidade de se alterar facilmente os códigos desenvolvidos,
+característica fundamental para a realização dos experimentos.
+A técnica de zoneamento foi implementada de forma a obter-se a melhor divisão de
+zonas possível. Para calcular esta divisão, foi o utilizado o Índice de Calinski e Harabasz
+(1974), método bastante utilizado atualmente na obtenção da quantidade ótima de “clusters”
+em análise de agrupamentos (DAVID; AVERBUCH, 2010).
+Foram usadas duas coleção de documentos de teste: a primeira formada a partir de
+cinquenta artigos científicos de várias áreas do conhecimento, escolhidos aleatoriamente na
+Web por meio de mecanismos de busca; a segunda formada por dez artigos jornalísticos em
+destaques na página de notícias do Portal IG (2011) no dia 26 de janeiro de 2011. As coleções
+foram processadas pelos “scripts” desenvolvidos, cuja saída é uma lista dos dez termos mais
+representativos de cada documento por ordem de relevância. Os resultados foram
+comparados às próprias palavras-chaves indicadas pelos autores dos artigos na primeira
+coleção de documentos, e aos tópicos indicados pelo Portal na segunda coleção de
+documentos. A decisão de usar duas coleções de documentos bem distintas tem o objetivo de
+comprovar que a técnica proposta funciona para qualquer tipo de documento.
+Uma métrica bastante utilizada na avaliação de resultados em experimentos da área de
+RI é a Precisão. Esta métrica é definida como a habilidade que o sistema possui de rejeitar
+documentos irrelevantes (LANCASTER; WARNER, 1993, p. 163).
+Para a avaliação dos resultados, foram utilizadas duas métricas, derivadas da métrica
+Precisão, bastante populares nos estudos na área de RI atualmente: Mean Average Precision
+(MAP) (BAI et al., 2009; HE at al., 2009) e Precisão em 10 (P@10) (NUNES; RIBEIRO;
+DAVID, 2009; BAI et al., 2009).
+Da análise destas métricas, foi divulgada a melhor solução para a fase de indexação e,
+consequentemente, comprovada ou não a teoria proposta.
+20
+PRINCIPAIS CONTRIBUIÇÕES
+Espera-se obter melhoria na qualidade da indexação dos documentos. Este ganho
+aliado à simplicidade da solução proposta poderá ser incorporado, sem grandes dificuldades,
+aos sistemas de RI disponíveis no mercado, beneficiando inúmeras áreas da sociedade que
+lidam com grandes volumes de informações, como bibliotecas por exemplo.
+Os mecanismos de busca na Web, utilizados intensamente por usuários de todas as
+áreas do conhecimento e dos mais variados níveis de aptidão, também poderão usufruir da
+tecnologia proposta, adaptando a teoria apresentada ao cenário de tais mecanismos.
+ORGANIZAÇÃO DO TRABALHO
+Este trabalho está estruturado em mais três capítulos e uma seção de Conclusão.
+O Capítulo 1 apresenta a Fundamentação Teórica acerca do tema Recuperação de
+Informação, descendo até o nível das funções de representatividade, tópicos alvos deste
+trabalho.
+O Capítulo 2 explicada a Técnica Proposta com a implementação das funções de
+representatividade combinadas com o conceito de zoneamento.
+O Capítulo 3 aborda detalhes dos Experimentos realizados e resultados obtidos.
+A Conclusão apresenta a comprovação das hipóteses, a consecução dos objetivos, a
+confirmação das principais contribuições e perspectiva de trabalhos futuros.
+21
+1 FUNDAMENTAÇÃO TEÓRICA
+1.1 RECUPERAÇÃO DE INFORMAÇÃO
+O termo “Recuperação de Informação” veio da expressão em inglês “Information
+Retrieval” cuja concepção foi divulgada em um artigo do cientista norte-americano Calvin
+Mooers em 1952 e popularizada pelo cientista inglês Robert Fairthorne em 1961. Em 1981,
+contudo, a inglesa Karen Sparck Jones sugeriu que a Conferência Internacional sobre
+Informação Científica, realizada em Washington, Estados Unidos, no ano de 1958 marcasse o
+início da Recuperação de Informação da forma como ela é conhecida atualmente (SPARCK
+JONES; WILLET, 1997, p. 2-3).
+Recuperação de Informação (“Information Retrieval” – “IR”) é a atividade mais
+importante exercida pelos serviços de informação. Um serviço de informação, ou centro de
+informação, é um provedor de recursos de informações para uma população de usuários. A
+biblioteca é uma entidade que fornece o serviço citado (LANCASTER; WARNER, 1993, p.
+1)
+Há pouco tempo, informação confundia-se com texto, portanto recuperação de
+informação era sinônimo de recuperação de texto. Em anos recentes, o conceito foi ampliado
+para o ambiente multimídia. Informação passou a significar, além de texto, elementos de som,
+imagem e até componentes de software. De qualquer forma, o problema consiste na busca por
+informação, texto ou outra mídia, que satisfaça às necessidades de um usuário específico
+(INGWERSEN, 2002, p. 49-50).
+Portanto a Recuperação de Informação é uma atividade na qual existem processos de
+representação, armazenamento e busca de informações relevantes para as necessidades
+requeridas por um usuário humano (INGWERSEN, 2002, p. 49).
+Um Sistema de Recuperação de Informação – Sistema RI (“IR System”) representa
+um objeto com capacidade para buscar informações sem a participação humana e apenas com
+a ajuda do computador, conforme defendeu Frants, Shapiro e Voiskunskii (1997). Um sistema
+RI é um software que armazena e manipula informações de uma coleção de documentos. Este
+tipo de sistema ajuda o usuário a localizar documentos que poderão conter informações
+relevantes em relação às necessidades do usuário (AIRES, 2005, p. 8).
+Antes da “World Wide Web” (WWW), sistemas de recuperação de informação eram
+quase exclusivos de profissionais especializados em busca e indexação da informação. Como
+exemplo, podem ser citadas as pesquisas na área médica. A diferença fundamental entre o
+profissional especializado e o usuário comum é o fato de o primeiro conhecer a coleção de
+documentos a ser pesquisada (HIEMSTRA, 2000, p. 2).
+Conforme Hiemstra (2000, p. 2), os sistemas de Recuperação de Informação atuais
+devem possuir três características: 1) devem ser aptos a receber palavras, frases ou sentenças
+da linguagem natural sem a necessidade de operadores, como os operadores booleanos, por
+exemplo; 2) devem retornar a consulta com os resultados ordenados pelo grau de relevância,
+do mais relevante ao menos relevante para determinado usuário; 3) devem suportar a
+reformulação da consulta no intuito de refinamento dos resultados.
+Um sistema RI deve, ainda, dar suporte a três processos básicos: à representação do
+conteúdo dos documentos, através da indexação, à representação das necessidades de
+informação do usuário, traduzidas em consultas, e à comparação entre as duas representações
+anteriores (HIEMSTRA, 2000, p. 3)

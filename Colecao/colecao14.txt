@@ -1,0 +1,98 @@
+MODELOS DE RECUPERAÇÃO DE INFORMAÇÃO
+Os modelos de recuperação de informação consideram que
+cada documento é descrito por palavras-chave chamadas de termos de
+indexação. Um termo de indexação é uma palavra cuja semântica ajuda a
+localizar os temas principais de um documento. Adjetivos, advérbios,
+conjunções são menos úteis como termos de indexação.
+Segundo Baeza e Ribeiro (1999), dado um conjunto de termos
+de indexação para um documento, nota-se que nem todos os termos podem
+ser usados para descrever o conteúdo do documento. Não é uma tarefa fácil
+determinar a importância de um termo de indexação em um documento.
+Considerando uma coleção com cem mil documentos, uma palavra que
+aparece em cada um dos cem mil documentos é completamente inútil como um
+termo de indexação porque ela não trás somente documentos de interesse do
+12
+usuário. Por outro lado, uma palavra que aparece em cinco documentos é
+completamente útil porque se estreita o espaço dos documentos que
+interessam na pesquisa.
+Os modelos de recuperação de informação podem ser
+descritos de acordo com a seguinte terminologia (BAEZA e RIBEIRO, 1999):
+• dj representa um documento de uma coleção;
+• q representa uma consulta;
+• t representa a quantidade de termos de índice da coleção
+de documentos;
+• ki representa um termo de índice;
+• K = {k1, ..., kt} é o conjunto de todos os termos de
+indexação;
+• wi,j > 0 é o peso associado com cada termo de indexação ki
+de um documento dj. Quando um termo de indexação não
+está contido no corpo do documento seu peso wi,j = 0;
+• sim(dj,q) representa a função utilizada para comparar a
+consulta com os documentos da coleção, retornando um
+coeficiente de similaridade (relacionamento) entre a
+consulta q e o documento dj.
+O documento dj é associado a um vetor de termos de
+indexação (dj) representado por dj = (w1,j, w2,j, ... wt,j).
+A seguir são apresentados alguns dos modelos utilizados na
+recuperação de informação. O modelo probabilístico e probabilístico
+exponencial, utilizados para a validação das técnicas de recuperação
+probabilística estendida, serão apresentados com mais detalhes no próximo
+capítulo.
+13
+3.2.1. MODELO BOOLEANO
+O Modelo Booleano é um modelo de recuperação simples
+baseado na teoria da Álgebra Booleana (BAEZA e RIBEIRO, 1999). Como seu
+conceito é bastante intuitivo, o Modelo Booleano fornece uma estrutura de fácil
+compreensão para o usuário comum de um sistema de recuperação de
+informação (IR – Information Retrieval). As consultas são estabelecidas como
+expressões booleanas com semânticas precisas. Dada a simplicidade e o
+formalismo puro, o modelo recebeu grande atenção e foi adotado por muitos
+dos primeiros sistemas bibliográficos comerciais.
+O modelo booleano considera que termos de indexação estão
+presentes ou ausentes num documento. Como um resultado, assume-se que
+os pesos dos termos indexados são todos binários. Uma consulta (query) q é
+composta de termos unidos por três tipos de operadores lógicos: NOT, AND e
+OR. Assim, “a consulta é essencialmente uma expressão booleana
+convencional que pode ser representada como uma disjunção de vetores
+conjuntivos” (BAEZA e RIBEIRO, 1999).
+Considerando uma expressão de busca q = t1 AND t2, são
+recuperados documentos indexados pelos termos t1 e t2. Essa operação
+equivale à intersecção do conjunto de documentos indexados pelo termo t1
+com o conjunto de documentos indexados pelo termo t2. Utilizando o operador
+lógico OR, é realizada a união entre o conjunto de documentos indexados
+pelos termos da consulta. Com o operador NOT, são recuperados os
+documentos que não possuem o termo da consulta.
+No modelo booleano um documento é considerado relevante
+ou não-relevante a uma consulta. Não existe resultado parcial e não há
+informação que permita a ordenação do resultado da consulta. As principais
+vantagens do modelo booleano são o formalismo claro e a simplicidade do
+modelo.
+O Modelo Booleano apresenta algumas desvantagens. Como
+principal desvantagem, a consulta pode trazer muito pouco ou muitos
+14
+documentos. Sua estratégia de recuperação é baseada no critério de decisão
+binária sem qualquer noção de balanceamento na classificação, que garanta
+um bom desempenho na recuperação. Expressões booleanas têm uma
+semântica precisa, porém, freqüentemente, não é simples de saber quão
+relevante é uma informação solicitada numa expressão booleana.
+3.2.2. MODELO BOOLEANO ESTENDIDO
+O modelo booleano estendido, proposto por Salton (1983),
+considera o peso dos termos nos documentos e permite que o usuário
+especifique as relevâncias dos termos para uma determinada consulta. Esse
+modelo se baseia na interpretação dos operadores de consulta conjuntivas e
+disjuntivas em termos de distâncias euclidianas em um espaço t-dimensional.
+Nas expressões conjuntivas o ponto (1,1) é o mais desejável,
+significa que ambos os termos de uma expressão de busca estão no
+documento. Quanto menor a distância do documento em relação a este ponto
+maior é a similaridade em relação à busca. Nas expressões disjuntivas o ponto
+(0,0) representa que nenhum dos termos da expressão de busca está presente
+no documento.
+Considerando a utilização de dois termos t1 e t2 para
+representar as consultas e documentos, é definido um espaço de busca
+bidimensional onde cada termo é associado a um eixo. Um documento é
+representado por um vetor com dois elementos contendo pesos dos
+respectivos termos. Esses pesos definem o posicionamento do documento no
+espaço euclidiano.
+A similaridade entre um documento di = (w1i, w2i) e uma
+consulta q = t1 or t2 é calculada através da equação 3.1, onde w1i e w2i
+representam os pesos de cada um dos termos de indexação do documento

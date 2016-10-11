@@ -1,0 +1,10 @@
+O modelo booleano considera uma consulta como uma expressão booleana convencional,
+que liga seus termos através de conectivos lógicos AND, OR e NOT (figura 1). No
+modelo booleano um documento é considerado relevante ou não relevante a uma consulta,
+não existe resultado parcial e não há informação que permita a ordenação do resultado da
+consulta
+As principais vantagens do modelo booleano: formalismo claro por trás do modelo e
+a sua simplicidade - facilmente programável e exato. As principais desvantagens do modelo
+booleano são: a saída pode ser nula ou possuir muitos documentos e a saída não é ordenada.
+Apesar das desvantagens serem grandes, o modelo booleano ainda é altamente utilizado em
+sistemas comerciais 

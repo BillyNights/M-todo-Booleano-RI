@@ -1,0 +1,28 @@
+No decorrer de sua história, a Ciência da Informação (CI) tem se
+deparado com problemas de difícil tratamento, sendo alguns deles: O que
+é informação? O que é relevante para o usuário? Quem é o usuário final?
+A mesma tem se empenhado na busca de soluções para tais problemas,
+configurando-se, para tanto, como um campo multi, inter e mesmo
+transdisciplinar (SARACEVIC, 1992; 1995; PINHEIRO, 2006). Dessa
+forma, utiliza-se dos conhecimentos desenvolvidos em outras ciências
+para realização de suas atividades. Algumas das áreas que se relacionam
+com a CI são: ciência da computação, ciência cognitiva, biblioteconomia,
+comunicação, entre outras (SARACEVIC, 1992; 1995).
+Um dos objetivos da CI é facilitar o acesso rápido e eficaz, para os
+usuários de Sistemas de Recuperação da Informação (SRI), às
+informações que tais sujeitos julguem ser relevantes. No entanto, as
+subjetividades que envolvem a definição de informação e o conceito de
+relevância dificultam a realização plena desse objetivo. Outro aspecto que
+prejudica a solução do problema observado por Mooers (1951 apud
+SARACEVIC, 1992), a Recuperação da Informação (RI), é a dificuldade em
+definir quem é o usuário do SRI.
+Sabe-se que cada indivíduo é constituído por características sociais,
+históricas, políticas e ideológicas distintas. Dessa forma, e em uma
+sociedade na qual este mesmo indivíduo possui formações diferenciadas
+de seus iguais, como definir o que é informação relevante para o mesmo?
+Como tratar estas diferenças em um sistema, comumente, rígido,
+fechado? Há, atualmente, o conceito de indexação livre, folksonomia, que
+dá mais liberdade para que o usuário determine o que lhe é importante
+em termos de informação. No entanto, há críticas que apontam falhas
+nesse sistema de classificação, referentes a um "caos" informativo
+(CATARINO; BAPTISTA, 2007). 

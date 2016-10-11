@@ -1,0 +1,45 @@
+A essência do conceito de biblioteca ou de qualquer outro tipo de unidade de informação é o
+compartilhamento e uso coletivo da informação para o benefício da sociedade e dos indivíduos que
+a constituem. Um dos grandes desafios enfrentados por estas instituições é a organização e a
+posterior recuperação de informações de forma eficiente, conforme ressalta Cintra et. al. (2002, p.
+33):
+Um rápido retrospecto sobre a área da documentação [e da Ciência da Informação] mostra
+que, nas décadas de 1950 e 1960, com o crescimento do conhecimento científico e
+tecnológico, houve dificuldades para armazenar e recuperar informações.
+As dificuldades referidas pela autora são causadas pelo fenômeno conhecido como "explosão da
+informação", que é definido por Saracevic (1996, p. 42) como "o irreprimível crescimento
+exponencial da informação e de seus registros, particularmente em ciência e tecnologia". Este
+fenômeno deu impulso a pesquisas de cientistas, engenheiros e empreendedores no sentido de
+buscar soluções para esse problema. No bojo destas pesquisas, surgiu, na área de Ciência da
+Informação, uma disciplina voltada especificamente para este tema, a Recuperação da Informação
+(SARACEVIC, 1996).
+Os principais questionamentos desta disciplina desde o seu início, segundo Mooers (1951) foram:
+Como descrever intelectualmente a informação?
+Como especificar intelectualmente a busca? Que sistemas, técnicas ou máquinas devem ser empregados?
+Embora outros problemas tenham surgido ao longo destes últimos 50 anos, estes três fatores
+continuam sendo os mais desafiadores até hoje. Saracevic (1996, p. 44) acrescenta que,Com o surgimento de uma preocupação sobre o processamento de informações necessárias à
+tomada de decisões em qualquer ambiente, as tecnologias de informação e comunicação
+modificaram o formato, o suporte, o processamento, a recuperação e a disseminação da informação
+e influenciaram na forma de mediação entre o profissional da informação e o usuário/cliente
+(VALENTIM, 2000; COHEN, 2002).
+Desde o surgimento dos computadores, bibliotecas e bibliotecários têm utilizado os computadores
+para serviços básicos como a catalogação, a indexação e a organização do acervo. Mas, foi o acesso
+on-line aos bancos de dados por meio das redes de telecomunicações que permitiu a dinamização
+dos processos de recuperação e disseminação da informação (OHIRA; PRADO, 2002). O difundido
+alcance e uso da Internet tem apresentado um desafio dobrado para o familiar paradigma da
+referência: a elevação dos recursos disponíveis, tanto livres como licenciados e o uso de numerosas
+tecnologias baseadas na Internet, com possíveis modos de interagir com as pessoas que apresentam
+necessidades e questões de informação (JANES, 2002).
+A barreira que uma vez fez os produtos e serviços de informação on-line um domínio do
+bibliotecário não existe mais (MERCADO, 1999). Embora o bibliotecário seja o profissional quem
+tem como uma de suas especialidades a busca e a recuperação da informação e seja, a princípio, o
+mais habilitado para a realização desta atividade, há uma forte tendência de que o usuário tenha,
+cada vez mais independência na identificação e acesso a informação de que precisa. Além disso,
+sendo o bibliotecário o principal intermediário entre o usuário e a informação, haveria uma
+demanda muito alta a ser suprida por ele. Deve-se considerar também que a explosão do número e
+dos tipos de recursos de informação eletrônica, confronta este profissional com uma miríade de
+recursos online, em CD-ROM, em base de dados de texto completo, e em outros recursos de
+informação digital, como os arquivos abertos, repositórios institucionais e as bibliotecas digitais
+(MA, 2002). Diante disto, uma pergunta pertinente a esse respeito é: os usuários/clientes ainda
+precisam de serviços de referência em bibliotecas digitais ? e, neste caso, como melhorar o
+oferecimento de tais serviços ? (CHOWDHURY, 2002).

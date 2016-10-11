@@ -1,0 +1,88 @@
+2 UM ENFOQUE DE RECUPERAÇÃO DE
+INFORMAÇÃO BASEADO EM COMPUTAÇÃO
+NEBULOSA
+Baseado no exposto na seção anterior partiu-se para a
+construção de um sistema protótipo de forma a explorar o
+comportamento de recuperação usando uma
+representação nebulosa dos documentos a serem
+indexados. O sistema pode ser esquematicamente
+representado como no modelo da figura 1.
+A seguir serão descritos tanto a representação
+nebulosa usada quanto detalhes de implementação. Estes
+detalhes dizem respeito ao tipo de estrutura de dados
+empregado na representação dos corpos textuais e ao
+interpretador simples usado para tratar as consultas do
+usuário.
+2.1 Representação Fuzzy de Documentos Parcialmente
+Estruturados.
+Uma premissa do experimento é que os arquivos
+tratados não partilham da mesma estrutura de articulação
+do texto. Cada par termo/documento (t, d) não está
+associado simplesmente a um peso F(d,t), mas a um
+conjunto de valores F1
+(d,t), … Fi
+(d,t), …, Fn
+(d,t),
+denotando o grau de significação do termo t na seção i
+(neste caso i foi escolhido como tendo três valores
+possíveis, correspondentes a: Início, Meio e Fim).
+Quanto ao critério de relevância para o usuário, ele
+baseia-se na linha iniciada por Kent et al. (Kent et alii,
+1955 apud Saracevic, 1995) que foram os primeiros a
+propor o critério de relevância e as medidas de precisão e
+relevância (mais tarde renomeado recall - recuperação)
+como métricas plausíveis do processo de recuperação. O
+valor de recall indica quantos documentos foram
+recuperados dentre o total considerado relevante na
+coleção pesquisada. A precisão ilustra qual a proporção
+entre os documentos considerados relevantes e aqueles
+efetivamente recuperados.
+O grau de significação final resultante F(d,t) é
+computado combinando os graus de significação parciais
+Fi
+(d,t) através de uma função especificada levando em
+conta a escolha pelo usuário da seção mais relevante.
+Esta função é identificada por uma variável lingüística
+representando a posição no texto a ser privilegiada, com
+os seguintes valores: início, meio e fim. Como caso
+particular é permitido ao usuário levar em conta todas as
+seções de forma conjunta.
+O sistema implementado para efetivar o experimento
+concretiza a representação nebulosa dos documentos
+através dos dados armazenados numa estrutura
+tipicamente usada em recuperação de informação,
+denominada arquivo invertido.
+O arquivo invertido guarda as palavras que foram
+indexadas. Junto com cada palavra existe uma lista de
+documentos nos quais o termo aparece. Associados a
+cada documento são armazenados dois vetores, um
+correspondente aos valores computados para o termo em
+
+cada seção do documento correspondente e o outro aos
+valores usados para normalização, usando os valores
+computados para os termos que aparecem com mais
+freqüência em cada seção. O número de documentos
+indexados por cada palavra é um dado obtido de forma
+direta desta lista.
+Este arquivo invertido foi implementado usando um
+trie (tree retrieval) (Ammeraal, 1996) cuja representação
+pode ser vista na figura 3. Nas folhas da árvore
+construída são guardados o termo referenciado, algumas
+variáveis auxiliares para o pré-processamento e um
+ponteiro para a lista de documentos que contém o termo.
+Em cada nó da lista, além do nome do documento,
+são guardados os valores dos somatórios de Fi
+para as seções correspondentes, calculados pelo
+indexador durante o pré-processamento. A escolha do trie
+foi arbitrária, podendo muito bem a estrutura estar
+baseada numa árvore-B.
+A construção de dita estrutura permite um acesso
+rápido às listas de documentos relevantes, tendo como
+custo o tempo de pré-processamento.
+Para a indexação, todas as letras do alfabeto
+português foram incluídas, além dos acentos
+correspondentes e da aceitação do traço (-) como
+elemento de composição de termos.
+Na versão atual o protótipo não permite a busca de
+frases tratadas como termos compostos, sendo, porém,
+esta alternativa de implementação relativamente imediata.

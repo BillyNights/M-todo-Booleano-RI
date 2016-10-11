@@ -1,0 +1,178 @@
+Introdução
+Cada   vez   mais,   imensos   volumes   de   informação   têm   sido   sistematicamente 
+coletados  e  armazenados  por  grandes  organizações.  A  quantidade  de  informação 
+armazenada   ultrapassa   a   habilidade   técnica   e   a   capacidade   humana   na   sua 
+interpretação.  Bancos  de  dados,  por  exemplo,  são  medidos  hoje  em  gigabytes  e 
+terabytes.
+O custo de uma má qualidade desses dados pode ser decisivo para o sucesso de uma 
+empresa. Com isso, é essencial o estudo da Administração de Dados para garantir a 
+qualidade  dos  dados  que  são  inseridos  e  recuperados  em  uma  base  de  dados.  A 
+administração  de  dados  consiste  no  desenvolvimento  e  execução  de  estratégias, 
+práticas e procedimentos para o processo de gerência do ciclo de vida completo dos 
+dados em uma empresa [DAMA International, 2006].
+1.1  Problemática
+As organizações têm se mostrado extremamente eficientes em capturar, organizar e 
+armazenar grandes quantidades de dados, obtidos de suas operações diárias. Porém, 
+a maioria delas ainda não usa adequadamente essa gigantesca massa de dados para 
+transformá-la  em  conhecimentos  que  possam  ser  utilizados  em  suas  próprias 
+atividades. Com a geração de um volume cada vez maior de informação, é essencial 
+tentar aproveitar o máximo possível desse investimento.
+Uma  excelente  prática  de  Administração  de  Dados  é  o  enriquecimento  dos  dados, 
+gerando ainda mais informação e conhecimento, melhorando assim a sua qualidade. 
+Esta  informação  preciosa  está  na  verdade  implícita  escondida  sob  uma  grande 
+massa de dados, e não pode ser descoberta utilizando-se sistemas de gerenciamento 11
+de  banco  de  dados  convencionais.  A  solução  existe,  e  chama-se  Mineração  de 
+Dados  [Navega,  2002].  Este  processo  é  uma  etapa  de  outro  conhecido  como 
+extração   de   conhecimento   em   bases   de   dados   ou   Knowledge-Discovery   in 
+Databases (KDD)Mineração de dados, ou data mining, é o processo de análise de conjuntos de dados 
+que   tem   por   objetivo   a   descoberta   de   padrões   interessantes   e   que   possam 
+representar  informações  úteis.  O  processo  de  mineração  de  dados  permite  que  se 
+investiguem  esses  dados  à  procura  de  padrões  que  tenham  valor  para  a  empresa. 
+Este  conceito  está  se  tornando  cada  vez  mais  popular  como  uma  ferramenta  de 
+gerenciamento   de   informação,   que   deve   revelar   estruturas   de   conhecimento, 
+podendo guiar decisões em condições de certeza limitada.
+Com  a utilização da mineração de dados, pode-se analisar dados comportamentais, 
+obtendo   conhecimento   que   estava   “escondido”   na   base   de   dados,   gerando 
+aprendizado e dados complementares que podem influenciar no desenvolvimento de 
+estratégias   na   organização.   Esta   tecnologia   está   sendo   usada   para   descrever 
+características  do  passado,  assim  como  predizer  tendências  para  o  futuro.  Sua 
+utilização  permite  avanços  tecnológicos  e  descobertas  científicas,  além  de  garantir 
+uma vantagem competitiva invejável [Sferra e Corrêa, 2003].
+1
+De  acordo  com  o  Wikipedia,  a  enciclopédia  livre:  Um  Sistema  Gerenciador  de  Banco  de  Dados  ou 
+Sistema  Gestor  de  Base  de  Dados  (SGBD)  é  o  conjunto  de  programas  de  computador  (software) 
+responsáveis pelo gerenciamento de uma base de dados. O principal objetivo é retirar da aplicação cliente a 
+responsabilidade de gerenciar o acesso, manipulação e organização dos dados. O SGBD disponibiliza uma 
+interface  para  que  os  seus  clientes  possam  incluir,  alterar  ou  consultar  dados.  Em  bancos  de  dados 
+relacionais a interface é constituída pelas API ou drivers do SGBD, que executam comandos na linguagem 
+SQL [Wikipedia, 2006].
+2
+ Uma definição importante para KDD foi elaborada por Usama Fayyad (Fayyad et al. 1996): "...o processo 
+não-trivial   de   identificar,   em   dados,   padrões   válidos,   novos,   potencialmente   úteis   e   ultimamente 
+compreensíveis" [Fayyad, 1996]. Objetivos da MonografiaNesta   seção   serão   apresentados   o   objetivo   principal   desse   trabalho   e   o 
+detalhamento dos objetivos específicos.
+1.2.1  Objetivo Principal  objetivo  principal  desta  monografia  é  destacar  o  tópico  da  mineração  de  dados 
+como  uma  importante  área  da  Administração  de  Dados,  sendo  um  processo  para 
+melhorar a qualidade dos dados de uma organização.
+1.2.2  Objetivos Específicos
+Ainda serão abordados assuntos específicos, com a finalidade de:
+Esclarecer  a  relevância  do  tema  como  meio  de  agregar  valor  a  diferentes 
+áreas da nossa sociedade; eAnalisar   a   utilização   de   ferramentas   para   auxiliar   no   processo   de 
+mineração de dados.
+1.3  Relevância
+Quando aplicada em uma empresa, a mineração de dados melhora a interação entre 
+empresa   e   cliente,   aumenta   vendas   e   dirige   as   estratégias   de   marketing.   A
+mineração  de  dados,  porém,  pode  ser  aplicada  a  qualquer  massa  de  dados,  sejam 
+eles oriundos da Medicina, Economia, Astronomia, Geologia, entre outras áreas de 
+estudo.    A  relevância  deste  trabalho  fundamenta-se  na  importância  da  adoção  de 
+técnicas de mineração de dados para melhorar a qualidade de dados em um SGBD, 
+como parte do trabalho de Administração de Dados. 
+A  Figura  1  mostra  o  posicionamento  lógico  de  diferentes  fases  da  tomada  de 
+decisão  com  seu  valor  potencial  para  as  dimensões  tática  e  estratégica  de  uma 
+organização.  Em  geral,  o  valor  da  informação  para  apoiar  a  tomada  de  decisão 
+aumenta a partir da base da pirâmide. Uma decisão baseada em dados nas camadas 
+mais  baixas,  onde  há  tipicamente  milhões  de  registros  de  dados,  não  possui  muito 
+valor  agregado;  já  aquela  apoiada  em  dados  altamente  resumidos  nas  camadas 
+superiores da pirâmide tem probabilidade de alto valor estratégico.
+Da  mesma  forma,  encontram-se  diferentes  usuários  nas  diferentes  camadas.  Um 
+administrador,  por  exemplo,  no  nível  operacional,  trabalha  primariamente  com 
+informações  diárias  e  operações  de  rotina,  encontradas  em  arquivos  e  bases  de 
+dados, na base da pirâmide informacional. Esses criam dados. Enquanto analistas de 
+negócios e executivos, responsáveis por indicarem direções, formulam estratégias e 
+táticas,  supervisionando  a  sua  execução,  e  estes  necessitam  de  informações  de 
+maior  qualidade.  Preocupam-se  com  tendências,  padrões,  ameaças,  pontos  fortes  e
+14
+fracos,   oportunidades,   informação   de   mercado,   entre   outros.   Necessitam   de 
+informações  internas  e  externas.  São  os  que  demandam  dados  analisados  com  alto 
+valor agregado, as do topo da pirâmide.
+1.4  Metodologia de Trabalho
+A metodologia utilizada no desenvolvimento deste trabalho se constitui das seguintes 
+fases:
+1.   Revisão  bibliográfica  dos  conceitos  e  etapas  do  processo  de  mineração 
+de  dados  –
+buscou-se  estudar  os  conceitos  da  mineração  de  dados  e  o
+aprofundamento em cada fase do processo;
+2.   Revisão   bibliográfica   das   técnicas   relacionadas   ao   processo   de 
+mineração de dados  –
+esta atividade se constituiu na análise de diferentes 
+técnicas  da mineração  de  dados,  bem  como  em  um  estudo  comparativo  da 
+relevância e utilidade de cada técnica;
+3.   Estudo  da  utilidade  da  mineração  de  dados  em  diversas  áreas  de 
+conhecimento da sociedade –
+esta etapa do estudo visou analisar as formas 
+que a mineração de dados vem agregando valor a diferentes áreas de nossa 
+sociedade, bem  como  indicar  novas  possibilidades  de  uso  da mineração  de 
+dados em outras áreas; e
+4.   Estudo   das   ferramentas   que   auxiliam   na   mineração   de   dados   –
+procurou-se  pesquisar  e  estudar  ferramentas  que  auxiliam  no  processo  de 
+mineração de dados como forma de melhorar a qualidade dos dados em um 
+SGBD.
+Organização da Monografia
+Além  deste  capítulo,  esta  monografia  encontra-se  organizada  em  mais  5  (cinco) 
+capítulos:
+O  Capítulo  2
+irá  detalhar  todo  o  processo  de  mineração  de  dados,  destacando  cada 
+fase  desse  processo,  desde  a  seleção  dos  dados  e  sua  filtragem,  aos  algoritmos  e 
+técnicas utilizadas para o reconhecimento de padrões.
+O capítulo 3
+mostrará o uso do processo de mineração de dados em diferentes áreas 
+de  conhecimento,  destacando  o  quanto  a  prática  da  administração  de  dados  focando 
+na melhoria da qualidade dos mesmos, pode agregar de valor para uma empresa e em 
+particular para a sociedade.
+apresentará  um  estudo  comparativo  de  ferramentas  de  mineração  de 
+dados disponíveis atualmente, mostrando as funcionalidades e características de cada 
+uma delas, como também as técnicas que elas utilizam.
+irá   apresentar   uma   conclusão   para   o   trabalho,   destacando   as 
+contribuições   providas   pelo   mesmo,   como   também   apresentando   sugestões   de 
+possíveis trabalhos futuros.
+Finalmente, serão listadas as referências bibliográficas utilizadas neste trabalho.
+Mineração de Dados A   Mineração   de   Dados   pode   ser   definida   como   um   conjunto   de   técnicas 
+automáticas de exploração de grandes massas de dados de forma a descobrir novos 
+padrões  e  relações  que,  devido  ao  volume  de  dados,  não  seriam  facilmente 
+descobertas  a  olho  nu  pelo  ser  humano.  De  fato,  muitas  são  as  técnicas  utilizadas, 
+porém  a  mineração  de  dados  ainda  é  mais  uma  arte  do  que  uma  ciência.  O 
+sentimento do especialista não pode ser dispensado, mesmo que as mais sofisticadas 
+técnicas sejam utilizadas.
+Ainda que as técnicas da Mineração de Dados sejam antigas, foi apenas nos últimos 
+anos  que  passaram  a  ser  usadas  como  exploração  de  dados,  por  vários  motivos
+
+O volume de dados disponível atualmente é enorme –
+Mineração de Dados é 
+uma  técnica  que  só  se  aplica  a  grandes  massas  de  dados,  pois  necessita  disto 
+para   calibrar   seus   algoritmos   e   extrair   dos   dados   conclusões   confiáveis. 
+Empresas  de  telefonia,  cartões  de  crédito,  bancos,  televisão  por  assinatura, 
+comércio   eletrônico,   entre   outras,   vem   gerando   a   cada   dia   uma   grande 
+quantidade de dados sobre seus serviços e clientes. Estes dados são passíveis de 
+análise por mineração;
+Os dados estão sendo organizados -
+Com a tecnologia do dataware house, os dados  de  várias  fontes  estão  sendo  organizados  e  padronizados  de  forma  a 
+possibilitar  sua  organização  dirigida  para  o  auxílio  à  decisão.  As  técnicas  de 
+De  acordo  com  o  Wikipedia:  Data  Warehouse  é  uma  coleção  de  dados  orientados  por  assuntos, 
+integrados, variáveis com o tempo e não voláteis, para dar suporte ao processo de tomada de decisão; Data 
+Warehousing  é  um  processo  em  andamento  que  aglutina  dados  de  fontes  heterogêneas,  incluindo  dados 
+históricos  e  dados  externos  para  atender  à  necessidade  de  consultas  estruturadas  e  ad-hoc,  relatórios 
+analíticos e de suporte a decisão [Wikipedia, 2006].
+mineração  de  dados  necessitam  de  bancos  de  dados  limpos,  padronizados  e organizados;
+Os recursos computacionais  estão cada vez mais  potentes -
+A mineração  de dados necessita de muitos recursos computacionais para operar seus algoritmos 
+sobre  grandes  quantidades  de  dados.  O  aumento  da  potência  computacional, 
+devido ao avanço tecnológico e à queda dos preços dos computadores, facilita o 
+uso  da mineração  de  dados  atualmente.  O  avanço  da  área  de  banco  de  dados, 
+construindo   bancos   de   dados   distribuídos,   também   auxiliou   em   muito   à
+mineração de dados;
+A  competição  empresarial  exige  técnicas  mais  modernas  de  decisão  -
+As empresas da  área de finanças, telecomunicações e  seguro experimentam a cada 
+dia  mais  competição.  Como  estas  empresas  sempre  detiveram  em  seus  bancos 
+de  dados  uma  enorme quantidade de  informação,  é  natural que  a mineração  de 
+dados  tenha  se  iniciado  dentro  de  seus  limites.  Atualmente,  outras  empresas 
+buscam  adquirir  dados  para  analisar  melhor  seus  caminhos  futuros  através  dos 
+sistemas de apoio à decisão. Para empresas de serviços, a aquisição de dados é 
+importante,  pois  precisam  saber  que  serviço  oferecer  a  quem.  Para  outras 
+empresas, até a venda das informações pode ser um produto; e
+Programas comerciais de mineração de dados já podem ser adquiridos -
+As técnicas   de   mineração   de   dados   são   antigas   conhecidas   da   Inteligência 
+Artificial,   porém   somente   recentemente   saíram   dos   laboratórios   para   as 
+empresas.  Alguns  pacotes  já  podem  ser  encontrados  no  comércio,  contendo 
+algumas  destas  técnicas.  As  técnicas  mais  recentes,  no  entanto,  ainda  se 
+encontram no campo acadêmico, sendo necessário que a empresa se dirija a uma 
+universidade que realize pesquisa para obter ajuda.

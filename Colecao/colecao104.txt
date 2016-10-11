@@ -1,0 +1,14 @@
+A inferência utilizada em recuperação de dados é do tipo dedutivo. Na
+recuperação da informação é muito mais comum o uso da inferência indutiva e
+as relações somente são especificadas com um grau de certeza ou de incerteza
+e, por essa razão, nossa confiança nessa inferência é variável. Essa distinção
+conduz alguém a descrever a recuperação de dados como determinística e a
+recuperação de informação como probabilística. Na recuperação de dados se
+está interessado em classificação monotética, ou seja, uma classificação com
+classes definidas por objetos que possuem atributos tanto necessários quanto
+suficientes para pertencer a uma classe. Na recuperação de informação, tal
+classificação não é de todo útil. Na verdade, o que se deseja é uma classificação
+politética. Nesse tipo de classificação, cada indivíduo em uma classe possuirá
+somente uma proporção de todos os atributos característicos de todos os
+membros de determinada classe. Por isso, nenhum atributo é necessário nem
+suficiente para agregar um objeto a uma classe. 

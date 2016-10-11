@@ -1,0 +1,71 @@
+Recuperação de informação é um termo amplo e ainda não plenamente
+definido, assim como o próprio termo "informação". Um sistema de recuperação
+de informação não informa o usuário sobre o assunto de seu questionamento, ou
+seja, não muda seu estado de conhecimento. Um sistema de recuperação de
+informação apenas informa sobre a existência ou não, e a localização de
+documentos relacionados à sua requisição. Isso exclui os sistemas de perguntas
+e respostas, além de os sistemas do tipo utilizados para acompanhamento de
+movimento em bolsas de valores.
+Cabe, nesse momento, tratar das definições dos termos “dados” e
+“informação”. Stair (1998) define dados como fatos em sua forma primária, por
+exemplo, nome de autor ou ano de publicação. Os dados representam as coisas
+no mundo real. Para Shedroff (2001), dado é matéria-prima, geralmente
+abundante no ambiente. Mesmo que tenha significado para o especialista, são,
+em sua maioria, os blocos sobre os quais se constrói a relevância.
+Já informação é um conjunto de fatos organizados de tal forma que
+adquirem valor adicional, além do valor dos fatos em si. É necessário
+estabelecer regras e relações para transformar dados em informação útil e
+valiosa. Desta forma, entende-se que informação é um conjunto de dados
+dotados com relevância e propósito. O tipo de informação criada depende da
+relação definida entre os dados existentes. Transformar dados em informações é
+um processo, ou uma série de tarefas logicamente relacionadas e executadas
+para atingir um resultado definido. Para desenvolver esse processo é necessário
+conhecimento, ou seja, é necessário ter noção do corpo ou regras, diretrizes e
+procedimentos usados para selecionar, organizar e manipular os dados.
+O diagrama a seguir (figura 46) apresenta as relações entre os conceitos
+de dado, informação, conhecimento e sabedoria como etapas sucessivas. 
+Van Rijsbergen (1979) elaborou o quadro abaixo para distingüir as
+diferenças entre as propriedades da recuperação de dados e da recuperação de
+informação. Na recuperação de dados, normalmente, a preocupação se concentra na
+adequação exata, ou seja, verifica-se se um item está, ou não está, presente em
+um arquivo. Na recuperação de informação, algumas vezes, isso pode ser
+interessante, mas de maneira mais geral o que se deseja é localizar itens que
+sejam parcialmente adequados à requisição e, a partir daí, selecionar dentre
+esses alguns poucos dos mais adequados.
+A inferência utilizada em recuperação de dados é do tipo dedutivo. Na
+recuperação da informação é muito mais comum o uso da inferência indutiva e
+as relações somente são especificadas com um grau de certeza ou de incerteza
+e, por essa razão, nossa confiança nessa inferência é variável. Essa distinção
+conduz alguém a descrever a recuperação de dados como determinística e a
+recuperação de informação como probabilística. Na recuperação de dados se
+está interessado em classificação monotética, ou seja, uma classificação com
+classes definidas por objetos que possuem atributos tanto necessários quanto
+suficientes para pertencer a uma classe. Na recuperação de informação, tal
+classificação não é de todo útil. Na verdade, o que se deseja é uma classificação
+politética. Nesse tipo de classificação, cada indivíduo em uma classe possuirá
+somente uma proporção de todos os atributos característicos de todos os
+membros de determinada classe. Por isso, nenhum atributo é necessário nem
+suficiente para agregar um objeto a uma classe.
+A linguagem de consulta para recuperação de dados, via de regra, será do
+tipo artificial, com sintaxe e vocabulário restrito. Na recuperação de informação,
+prefere-se utilizar linguagem natural, apesar de haver notáveis exceções. Na
+recuperação de dados a questão geralmente é uma especificação completa do
+que se busca. Na recuperação de informação, tal especificação é
+invariavelmente incompleta. Essa última diferença surge, em parte, do fato de
+que na recuperação da informação busca-se por documentos relevantes, em
+oposição a itens exatamente adequados. A extensão da adequação em
+recuperação de informação é assumida para indicar a probabilidade de
+relevância de determinado item. Uma conseqüência simples dessa diferença é
+que recuperação de dados é mais sensível ao erro no sentido de que, um erro
+na adequação não recuperará o item desejado, o que implica total falha do
+sistema. Na recuperação da informação pequenos erros na adequação,
+geralmente, não afetarão de maneira significativa a performance do sistema.
+Wives (2004) destaca que informação é aquilo que um agente receptor
+(uma pessoa) recebe de um agente emissor em um processo de comunicação
+(em uma mensagem). Porém, a mensagem necessita ser, primeiramente,
+compreendida e, em seguida, identificada como contendo alguma coisa nova
+(para o receptor). Caso o receptor receba uma mensagem contendo algo que já
+conhece ou que não compreende, esta mensagem não lhe transmite nenhuma
+informação.
+Com base em Stair (1998), é possível reconhecer as características da boa
+informação: 

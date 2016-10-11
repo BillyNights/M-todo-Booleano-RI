@@ -1,0 +1,10 @@
+Já informação é um conjunto de fatos organizados de tal forma que
+adquirem valor adicional, além do valor dos fatos em si. É necessário
+estabelecer regras e relações para transformar dados em informação útil e
+valiosa. Desta forma, entende-se que informação é um conjunto de dados
+dotados com relevância e propósito. O tipo de informação criada depende da
+relação definida entre os dados existentes. Transformar dados em informações é
+um processo, ou uma série de tarefas logicamente relacionadas e executadas
+para atingir um resultado definido. Para desenvolver esse processo é necessário
+conhecimento, ou seja, é necessário ter noção do corpo ou regras, diretrizes e
+procedimentos usados para selecionar, organizar e manipular os dados. 

@@ -1,0 +1,52 @@
+Por que Big Data é tão importante?
+Lidamos com dados desde os primórdios da humanidade. Acontece que, nos tempos atuais, os avanços computacionais nos permitem 
+guardar, organizar e analisar dados muito mais facilmente e com frequência muito maior.
+Este panorama está longe de deixar de ser crescente. Basta imaginar, por exemplo, que vários dispositivos em nossas casas - 
+geladeiras, TVs, lavadoras de roupa, cafeteiras, entre outros - deverão estar conectados à internet em um futuro não muito 
+distante. Esta previsão está dentro do que se conhece como Internet das Coisas.
+Se olharmos para o que temos agora, já veremos uma grande mudança em relação às décadas anteriores: tomando como base apenas a 
+internet, pense na quantidade de dados que são gerados diariamente somente nas redes sociais; repare na imensa quantidade de 
+sites na Web; perceba que você é capaz de fazer compras on-line por meio até do seu celular, quando o máximo de informatização 
+que as lojas tinham em um passado não muito distante eram sistemas isolados para gerenciar os seus estabelecimentos físicos.
+As tecnologias atuais nos permitiram - e permitem - aumentar exponencialmente a quantidade de informações no mundo e, agora, 
+empresas, governos e outras instituições precisam saber lidar com esta "explosão" de dados. O Big Data se propõe a ajudar nesta 
+tarefa, uma vez que as ferramentas computacionais usadas até então para gestão de dados, por si só, já não podem fazê-lo 
+satisfatoriamente.
+A quantidade de dados gerada e armazenada diariamente chegou a tal ponto que, hoje, uma estrutura centralizada de processamento 
+de dados já não faz mais sentido para a maioria absoluta das grandes entidades. O Google, por exemplo, possui vários data 
+centers para dar conta de suas operações, mas trata todos de maneira integrada. Este "particionamento estrutural", é bom 
+destacar, não é uma barreira para o Big Data - em tempos de computação nas nuvens, nada mas trivial.
+Os 'Vs' do Big Data: volume, velocidade, variedade, veracidade e valor
+No intuito de deixar a ideia de Big Data mais clara, alguns especialistas passaram a resumir o assunto em aspectos que conseguem 
+descrever satisfatoriamente a base do conceito: os cincos 'Vs' - volume, velocidade e variedade, com os fatores veracidade e 
+valor aparecendo posteriormente.
+O aspecto do volume (volume) você já conhece. Estamos falando de quantidades de dados realmente grandes, que crescem 
+exponencialmente e que, não raramente, são subutilizados justamente por estarem nestas condições.
+Velocidade (velocity) é outro ponto que você já assimilou. Para dar conta de determinados problemas, o tratamento dos dados (
+obtenção, gravação, atualização, enfim) deve ser feito em tempo hábil - muitas vezes em tempo real. Se o tamanho do banco de 
+dados for um fator limitante, o negócio pode ser prejudicado: imagine, por exemplo, o transtorno que uma operadora de cartão de 
+crédito teria - e causaria - se demorasse horas para aprovar um transação de um cliente pelo fato de o seu sistema de segurança 
+não conseguir analisar rapidamente todos os dados que podem indicar uma fraude.
+Variedade (variety) é outro aspecto importante. Os volume de dados que temos hoje são consequência também da diversidade de 
+informações. Temos dados em formato estruturados, isto é, armazenados em bancos como PostgreSQL e Oracle, e dados não 
+estruturados oriundos de inúmeras fontes, como documentos, imagens, áudios, vídeos e assim por diante. É necessário saber tratar 
+a variedade como parte de um todo - um tipo de dado pode ser inútil se não for associado a outros.
+O ponto de vista da veracidade (veracity) também pode ser considerado, pois não adianta muita coisa lidar com a combinação 
+"volume + velocidade + variedade" se houver dados não confiáveis. É necessário que haja processos que garantam o máximo possível 
+a consistência dos dados. Voltando ao exemplo da operadora de cartão de crédito, imagine o problema que a empresa teria se o seu 
+sistema bloqueasse uma transação genuína por analisar dados não condizentes com a realidade.
+
+Informação não é só poder, informação também é patrimônio. A combinação "volume + velocidade + variedade + veracidade", além de 
+todo e qualquer outro aspecto que caracteriza uma solução de Big Data, se mostrará inviável se o resultado não trouxer 
+benefícios significativos e que compensem o investimento. Este é o ponto de vista do valor (value).
+É claro que estes cinco aspectos não precisam ser tomados como a definição perfeita. Há quem acredite, por exemplo, que a 
+combinação "volume + velocidade + variedade" seja suficiente para transmitir uma noção aceitável do Big Data. Sob esta óptica, 
+os aspectos da veracidade e do valor seriam desnecessários, porque já estão implícitos no negócio - qualquer entidade séria sabe 
+que precisa de dados consistentes; nenhuma entidade toma decisões e investe se não houver expectativa de retorno.
+O destaque para estes dois pontos talvez seja mesmo desnecessário por fazer referência ao que parece óbvio. Por outro lado, a 
+sua consideração pode ser relevante porque reforça os cuidados necessários a estes aspectos: uma empresa pode estar analisando 
+redes sociais para obter uma avaliação da imagem que os clientes têm de seus produtos, mas será que estas informações são 
+confiáveis ao ponto de não ser necessário a adoção de procedimentos mais criteriosos? Será que não se faz necessário um estudo 
+mais profundo para diminuir os riscos de um investimento antes de efetuá-lo?
+De qualquer forma, os três primeiros 'Vs' - volume, velocidade e variedade - podem até não oferecer a melhor definição do 
+conceito, mas não estão longe de fazê-lo. Entende-se que Big Data trata apenas de enormes quantidades de dados, todavia, você pode ter um volume não muito grande, mas que ainda se encaixa no contexto por causa dos fatores velocidade e variedade.

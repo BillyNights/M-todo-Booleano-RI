@@ -1,0 +1,17 @@
+Sistemas de recuperação da informação x
+indexação
+Segundo Lancaster os itens selecionados para
+inclusão nas bases de dados serão descritos de várias formas:
+Processo de catalogação descritiva: autores,
+títulos, fontes e outros elementos bibliográficos.
+Processo de indexação: identifica o assunto de
+que trata o documento. Os termos
+selecionados serão extraídos de algum tipo de
+vocabulário controlado.
+Fonte: LANCASTER (2004, p. 4)
+Indexação de assunto x palavra-chave
+• por extração (palavras que realmente ocorrem
+no texto são selecionadas)
+• por atribuição (atribuição de termos que são
+provenientes de fontes externas (cabeça do
+indexador ou vocabulário controlado)

@@ -1,0 +1,14 @@
+A linguagem de consulta para recuperação de dados, via de regra, será do
+tipo artificial, com sintaxe e vocabulário restrito. Na recuperação de informação,
+prefere-se utilizar linguagem natural, apesar de haver notáveis exceções. Na
+recuperação de dados a questão geralmente é uma especificação completa do
+que se busca. Na recuperação de informação, tal especificação é
+invariavelmente incompleta. Essa última diferença surge, em parte, do fato de
+que na recuperação da informação busca-se por documentos relevantes, em
+oposição a itens exatamente adequados. A extensão da adequação em
+recuperação de informação é assumida para indicar a probabilidade de
+relevância de determinado item. Uma conseqüência simples dessa diferença é
+que recuperação de dados é mais sensível ao erro no sentido de que, um erro
+na adequação não recuperará o item desejado, o que implica total falha do
+sistema. Na recuperação da informação pequenos erros na adequação,
+geralmente, não afetarão de maneira significativa a performance do sistema. 

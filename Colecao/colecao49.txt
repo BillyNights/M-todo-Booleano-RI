@@ -1,0 +1,34 @@
+Como em todo processo de informatização a modelagem correta do objeto queestá para ser informatizado é uma das fases mais importantes,
+ e deve ser realizada comtodo o cuidado. Em um Sistema de Recuperação de Informações modelar a informaçãoque o sistema irá tratar é
+ extremamente importante. É necessário identificar o que érelevante (importante) em determinado tipo de informação, isto é,
+ o que caracterizadeterminada informação e pode ser utilizado para distinguí-la entre outras informações.Ou seja, é preciso
+ identificar o conteúdo real da informação, o conteúdo que realmenteconsegue descreve-la. Para isto, pode ser importante descobrir
+ como o usuáriogeralmente faz referência a esta informação.Após identificado o conteúdo e as características de determinada informação,
+ énecessário idealizar algum formalismo que possa descrevê-la e armazená-la. Emimagens, por exemplo, suas características são, 
+ entre outras coisas, as cores, as formasque a imagem contém e as texturas. Seu conteúdo é expresso através destascaracterísticas.
+ Uma forma de descrição textual para estas características pode não serboa escolha, até mesmo porque quem vai fazer a descrição 
+ textual pode não ser capaz decaptar todas as características de uma imagem. Cada um descreve uma imagem deacordo com que vê ou consegue ver.
+ Uma opção seria armazenar todos os bits da imagem e criar mecanismos oufunções capazes de detectar as características da imagem em cima destesbits.
+Assim,toda sua informação descritiva é armazenada. Quando o usuário requisitar uma consultapela característica cor uma função ou algoritmo
+é aplicado na hora, vasculhando os bits a fim de encontrá-la. Do mesmo modo podem ser identificadas as formas e texturas,
+ ou qualquer outra característica que o usuário possa precisar, desde que existam algoritmospara isto. Caso estes não existam basta criá-los,
+ e é possível criá-los pois o modelocontém todas as informações que qualquer algoritmo venha a precisar.Um exemplo da complexidade da escolha
+ correta de um modelo é apresentado em[GUP97], onde são apresentadas as necessidades de usuários que trabalham comsistemas de recuperação
+ de informações visuais. No caso é discutido o problema decomo o usuário poderia recuperar informações sobre um
+videoclip, com restrições taiscomo o tempo de duração máximo de dois segundos e surgimento de um carrovermelho,
+ que velozmente deve desaparecer da pista ao passar por trás de umamontanha.Logo, escolher um modelo que consiga armazenar
+ o conteúdo da informaçãocomo um todo é tarefa complexa e difícil, mas de extrema importância. Váriosproblemas podem surgir
+ em decorrência de uma modelagem incorreta da informação.Porém, depois de definidas as características da informação,
+ o processo de modelagempode ser realizado manualmente ou automaticamente.A Figura 1.2 demonstra o processo de abstração,
+ onde as informações sãoanalisadas manualmente ou automaticamente.
+Após a análise as características sãoarmazenadas, conforme o modelo, em uma representação interna.
+A indexação é uma das técnicas de abstração muito utilizada na área derecuperação de informações.
+É através do índice que as informações são acessadas.Portanto o índice deve ser construído com muito cuidado.
+ A não inclusão de umacaracterística importante de uma determinada informação no arquivo de índice fará comque o acesso a esta
+ informação seja deficiente, ou até mesmo, dependendo da consulta,esta informação pode não ser recuperada. Logo, este processo
+ de abstração tem seusproblemas, como dito anteriormente, e deve ser tratado com cuidado.No capítulo 2 encontra-se um pequeno
+ tutorial do processo de indexação deinformações textuais. As técnicas utilizadas são específicas para informações textuais,
+ mas servem para mostrar a importância de uma boa modelagem, onde a identificação do conteúdo que caracteriza a informação é importante. 
+ Descobrir o que é importante emuma informação nem sempre é uma tarefa fácil, mas uma vez definido, é possívelaproveitar as técnicas textuais
+ realizando algumas abstrações e modificações.
+ 

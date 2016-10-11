@@ -1,0 +1,27 @@
+Big Data é um termo amplamente utilizado na atualidade para nomear conjuntos de dados muito grandes ou complexos, que os 
+aplicativos de processamento de dados tradicionais ainda não conseguem lidar. Os desafios desta área incluem: análise, captura, 
+curadoria de dados, pesquisa, compartilhamento, armazenamento, transferência, visualização e informações sobre privacidade dos 
+dados. Este termo muitas vezes se refere ao uso de análise preditiva e de alguns outros métodos avançados para extrair valor de 
+dados, e raramente a um determinado tamanho do conjunto de dados. Maior precisão nos dados pode levar à tomada de decisões com 
+mais confiança. Além disso, melhores decisões podem significar maior eficiência operacional, redução de risco e redução de custo.
+
+A análise adequada de tais grandes conjuntos de dados permite encontrar novas correlações, como por exemplo: "tendências de 
+negócios no local, prevenção de doenças, combate à criminalidade e assim por diante". Cientistas, empresários, profissionais de 
+mídia e publicidade e Governos regularmente enfrentam dificuldades em áreas com grandes conjuntos de dados, incluindo pesquisa 
+na Internet, finanças e informática de negócios. Os cientistas, por exemplo, encontram limitações no trabalho de e-Ciência, 
+incluindo Meteorologia, Genômica, conectonomia, simulações físicas complexas, além de pesquisa biológica e ambiental.
+Tais conjuntos de dados crescem em tamanho em parte porque são cada vez mais frequentes e numerosos, uma vez que os dados 
+atualmente podem ser reunidos por dispositivos baratos de informação, tais como equipamentos de sensoriamento móveis, aéreos (
+sensoriamento remoto), logs de software, câmeras, microfones, leitor (RFID) de rádio-frequência de identificação e redes de 
+sensores sem fio. Desta forma, a capacidade per-capita tecnológico do mundo para armazenar informações praticamente tem dobrado 
+a cada 40 meses, desde a década de 1980. A partir de 2012, foram criados a cada dia 2,5 exabytes (2,5 × 1018 bytes) de dados. O 
+desafio atual para as grandes empresas é determinar quem deve possuir grandes iniciativas de dados que atravessem toda a 
+organização.
+
+Sistemas de gerenciamento de banco de dados relacional, estatísticas da área de trabalho e pacotes de visualização, muitas vezes 
+têm dificuldade em lidar com grandes volumes de dados, pois isto requer o trabalho de "software paralelo, rodando em dezenas, 
+centenas ou até mesmo milhares de servidores". O que é considerado "Big Data" varia de acordo com as capacidades dos usuários e 
+suas ferramentas. Assim, o que é considerado "grande" em um ano provavelmente se tornará usual nos anos posteriores. "Para 
+algumas organizações, que têm acesso a centenas de gigabytes de dados pela primeira vez, isto pode desencadear uma necessidade 
+de se reconsiderar as opções de gerenciamento de dados. Desta forma, na atualidade "o volume dos dados armazenados ou acessados 
+torna-se uma consideração importante.

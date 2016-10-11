@@ -1,0 +1,16 @@
+Em 1951, Calvin Mooers criou o termo “Information Retrieval” (Recuperação
+de Informação) e definiu os problemas a serem abordados por esta nova
+disciplina.
+[A Recuperação de Informação] trata dos aspectos intelectuais da descrição da informação e sua
+especificação para busca, e também de qualquer sistema, técnicas ou máquinas que são
+empregadas para realizar esta operação (MOOERS, 1951).
+Para Saracevic (1999), a Recuperação de Informação pode ser considerada
+a vertente tecnológica da Ciência da Informação e é resultado da relação
+desta com a Ciência da Computação.
+Na Ciência da Computação a Recuperação de Informação (Information
+Retrieval) se firmou como uma área de pesquisa autônoma cujo interesse
+está centrado no desenvolvimento de ferramentas para o tratamento de
+fontes de informação não estruturadas e semiestruturadas. É tema de
+interesse de uma imensa comunidade de pesquisadores de todas as partes
+do mundo e abriga uma grande quantidade de vertentes, abordagens e
+metodologias para os problemas dessa área.

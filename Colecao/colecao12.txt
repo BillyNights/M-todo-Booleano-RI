@@ -1,0 +1,58 @@
+O PROBLEMA
+O estudo consistiu em avaliar se no processo de busca e
+recuperação da informação a mineração de textos trouxe
+ganho no índice de precisão em relação à lista de palavraschave
+utilizadas na indexação manual por bibliotecários
+da Caixa. Assim, o trabalho concentrou-se em comparar
+a mineração de textos e a indexação manual, por meio da
+análise do índice de precisão de resposta no processo de
+busca e recuperação da informação.
+Além disso, interessou ao escopo da investigação verificar
+a viabilidade de propor uma sistemática de uso dos termos
+gerados a partir de mineração de textos para auxiliar o
+processo de indexação manual no aumento do índice de
+precisão de resposta na recuperação da informação.
+Como forma de operacionalização da metodologia da
+pesquisa, foi construído um protótipo cujos itens
+bibliográficos corresponderam às teses e dissertações
+contidas no Infohab, o que possibilitou o emprego do
+software BR/Search para a execução da mineração de
+textos.
+A mineração de textos consiste na extração de
+informações sobre tendências ou padrões em grandes
+volumes de documentos textuais, em que uma amostra
+significativa de informações é avaliada em textos
+contidos em bases textuais e em fontes de informação
+em linha (POLANCO; FRANÇOIS, 2000).
+As bases textuais são coleções de documentos em
+linguagem natural, sem formato predefinido para seus
+conteúdos, como acontece com as bases de dados.
+Dividem-se em bases textuais cujo conteúdo é estruturado
+de acordo com a sua localização no documento. Como
+exemplos, têm-se relatórios policiais, relatórios de
+instituições financeiras, ou seja, o conteúdo pode variar,
+mas a estrutura do documento é predefinida, e
+informações não estruturadas, em que se têm como
+exemplos os relatórios, publicações e a maioria dos
+documentos textuais (TRYBULA, 1999).
+Na figura 1, a seguir, são apresentados os fatores de
+influência nos resultados de busca e recuperação da
+informação em uma base de dados.
+Neste modelo adaptado de Lancaster (1998),
+visualizamos as peças básicas que compõem a
+problemática apresentada, em que o usuário, a partir de
+suas necessidades de informação, dá início ao processo
+de busca e recuperação da informação.
+O especialista em informação, ao qual cabe a
+responsabilidade de indexador, vale-se da compreensão
+da demanda para trazer da base de dados, na forma do
+pedido, a resposta o mais adequada possível às
+necessidades do usuário. Além disso, Lancaster (1998)
+ressalta que a qualidade da estratégia de busca e o
+vocabulário são fatores importantes para a atividade.
+Todavia, temos também as questões da precisão e da
+qualidade da própria base de dados, sem contar que o
+indexador (especialista em informação) depende dostermos autorizados no vocabulário,
+a fim de lograr êxito na
+indexação que deve alimentar e
+impactar a base.

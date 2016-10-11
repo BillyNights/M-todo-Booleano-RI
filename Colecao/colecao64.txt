@@ -1,0 +1,8 @@
+O modelo Booleano considera uma consulta (Query) como uma expressão booleana convencional, utilizando os operadores lógicos booleanos or, and e not para estabelecer relações específicas de ocorrência com as palavras-chave, de forma a especificar os documentos a serem recuperados. A sua maior desvantagem é o facto de trabalhar de forma binária, ou seja, os documentos são considerados relevantes ou não relevantes para consulta, não existem resultados parciais e não há informação que permita a ordenação dos resultados da consulta .
+
+Os principais Problemas/Vantagem do modelo booleano são:
+
+A ausência de ordem na resposta, e as respostas podem ser nulas ou muito extensas.
+No modelo booleano os documentos recuperados são apenas aqueles que contêm os termos que satisfazem a expressão lógica da consulta.
+Se o utilizador souber exactamente o que pretende é eficaz.
+A grande vantagem deste modelo é a facilidade de implementação.

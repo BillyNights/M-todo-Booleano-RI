@@ -1,0 +1,11 @@
+Sistemas para recuperação de informação baseados na web são sistemas
+complexos e exigem a soma de conhecimentos de profissionais com domínio de
+conhecimento em diversas áreas. O profissional de ciência da informação pode
+contribuir com conhecimentos específicos para a criação de bancos de dados e
+oferecer uma perspectiva técnica para indexação e recuperação de informação
+(Dzekaniak, 2004). Por sua vez, o especialista em Ergonomia e usabilidade
+poderá conduzir testes com usuários por meio da análise da tarefa e de outros
+métodos de projeto. O programador e o designer de interfaces trabalharão para
+materializar o produto com o qual os usuários irão interagir. Conhecer a forma
+como o usuário interage em um ambiente físico é a melhor maneira de se iniciar
+um projeto como o de um website para biblioteca

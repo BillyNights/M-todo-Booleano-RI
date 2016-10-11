@@ -1,0 +1,26 @@
+A CI, em sua definição clássica, é (ou busca ser) responsável pelo
+que se relaciona "à produção, seleção, organização, interpretação,
+armazenamento, recuperação, disseminação, transformação e uso da
+informação" (GRIFFITH, 1980 apud CAPURRO, 2003, p. 4). Há diversas
+discussões que se referem a cada um destes aspectos, como se observa
+na literatura da área. No entanto, neste trabalho, busca-se dar um foco
+maior às questões voltadas à Recuperação da Informação (RI). Pretendese
+apresentar alguns aspectos da RI e elencar alguns dos problemas
+enfrentados por ela, bem como apresentar o que se tem discutido como
+possíveis soluções, mas sem se esquecer de expor que estas também
+possuem suas falhas.
+Observa-se que as discussões referentes à RI estão intrinsecamente
+ligadas à noção de relevância informacional, visto que em um SRI não se
+indexa qualquer coisa, mas, sim, aquilo que é (pode ser) importante para
+o usuário e, em consequência disso, será buscado posteriormente. Esta
+observação implica outras abordagens, nesse caso, o que vem a ser
+relevância informacional.
+Ao realizar a leitura de um texto, por exemplo, cada leitor
+busca/pesquisa as informações que podem ser importantes, que
+respondem suas necessidades informacionais. Assim, a busca/pesquisa se
+dá a partir daquilo que lhe é proeminente. O profissional da informação,
+em sua função de facilitar o acesso às informações importantes aos
+usuários, reduzindo seu tempo de pesquisa e gerando resultados mais
+eficazes, tenta destacar o que se sobressai no texto, colocando, em
+evidência, tais temas através de termos previamente estabelecidos pela
+área. 

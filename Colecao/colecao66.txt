@@ -1,0 +1,9 @@
+O modelo probabilístico de recuperação de informação surgiu nos anos 70.
+Neste modelo os termos indexados dos documentos e das consultas não possuem relevância pré-definida.
+É baseado no princípio da ordenação probabilística (Probability Ranking Principle). Neste modelo, procura-se saber a probabilidade de um documento ser ou não relevante para uma consulta. Tal informação pode ser obtida assumindo-se, que a distribuição de termos na informação disponível seja capaz quantificar a relevância provável de um determinado documento.
+
+A sua principal vantagem está na sua capacidade de construir uma função de ranking, que ordene os documentos de maneira decrescente segundo sua probabilidade se serem relevantes para a consulta efectuada. Esta potencialidade fica ofuscada pelas dificuldades operativas que este modelo apresenta, entre elas :
+
+A necessidade de segmentar a priori a informação em documentos relevantes e não relevantes sem nenhuma pauta de discriminação.
+O modelo não processa a ocorrência de um termo dentro de um documento para determinar o peso deste, devido a sua atribuição binária de pesos
+A necessidade de assumir a independência na probabilidade dos termos relevantes

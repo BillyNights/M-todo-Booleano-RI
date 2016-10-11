@@ -1,0 +1,41 @@
+Vivencia-se uma transição das atividades relacionadas com a manipulação, a edição, o
+armazenamento, a distribuição e a recuperação da informação da forma impressa para a
+forma digital (LEVACOV, 1997). Com isto passou a existir a necessidade crescente de
+desenvolver meios que permitam difundir as informações de forma fácil, portátil e que
+ultrapasse o meio físico. Já em 1945 Vannevar Bush propôs o projeto Memex – “um
+dispositivo em que o indivíduo armazenará seus livros, registros, suas anotações, suas
+comunicações. O dispositivo será mecanizado de modo a poder ser consultado com
+extrema velocidade e flexibilidade” (BUSH, 1945).
+Esta velocidade e flexibilidade previstas por Bush estavam presentes em um
+importante projeto de 1969. O projeto consistia da criação de uma rede de interligação
+dos computadores do departamento da computação de algumas universidades dos
+Estados Unidos da América. Esta rede compatibilizou a comunicação e transmissão de
+dados entre todos os computadores das instituições participantes de maneira igualitária,
+interligando pesquisadores e universitários. Foi inicialmente chamada de Arpanet e
+posteriormente se estabeleceu com o nome de Internet.
+ Desde o seu advento no final da década de 70, a Internet tem possibilitado o
+compartilhamento e a reunião de informações e trabalhos, propagando e gerando
+conhecimento em pontos distantes entre si do globo terrestre.
+ Não demorou que periódicos científicos, um dos principais canais de publicação
+nas ciências, surgissem também em formato digital além do tradicional formato
+impresso. Os periódicos científicos em formato digital passaram a ser conhecidos pelo
+nome de periódicos eletrônicos.
+Diariamente, pesquisadores, por meio da Internet, acessam periódicos eletrônicos
+e formam opiniões pessoais a respeito dos sistemas que lhe provêem este acesso, sendo
+que a maioria guarda para si as impressões e conclusões pessoais sobre tais sistemas.
+Pesquisar estes sistemas e também os processos envolvidos na utilização dos
+periódicos eletrônicos auxilia o desenvolvimento da Ciência possibilitando a melhora
+das ferramentas de troca de informação e aprimoramento da interação destas
+ferramentas com o usuário. O presente trabalho visa possibilitar uma compreensão
+maior destes processos desde a busca pela informação até a elaboração das conclusões
+pessoais dos usuários através de um estudo sobre o uso do sistema Portal de Periódicos
+CAPES por pesquisadores da Universidade Federal de Minas Gerais.
+No Portal de Periódicos da Coordenação de Aperfeiçoamento de Pessoal de
+Nível Superior (CAPES), objeto de estudo desta pesquisa, são disponibilizados
+periódicos eletrônicos consagrados pelo meio cientifico do mundo inteiro. O site é uma
+“porta de entrada” para a realização de consultas em periódicos eletrônicos e vem sido
+utilizado diariamente por pesquisadores das instituições de ensino e pesquisa no Brasil.
+Este artigo apresenta parte de uma pesquisa elaborada junto a Escola de Ciência
+da Informação da Universidade Federal de Minas Gerais envolvendo o uso de
+periódicos eletrônicos pelos seus docentes. A metodologia utilizada é detalhada na
+seção 4 deste artigo. 

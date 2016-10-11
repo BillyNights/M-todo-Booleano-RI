@@ -1,0 +1,8 @@
+Um dos objetivos da CI é facilitar o acesso rápido e eficaz, para os
+usuários de Sistemas de Recuperação da Informação (SRI), às
+informações que tais sujeitos julguem ser relevantes. No entanto, as
+subjetividades que envolvem a definição de informação e o conceito de
+relevância dificultam a realização plena desse objetivo. Outro aspecto que
+prejudica a solução do problema observado por Mooers (1951 apud
+SARACEVIC, 1992), a Recuperação da Informação (RI), é a dificuldade em
+definir quem é o usuário do SRI. 

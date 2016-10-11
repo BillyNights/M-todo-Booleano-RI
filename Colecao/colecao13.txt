@@ -1,0 +1,54 @@
+Para conseguirmos estruturar os textos e obter as informações
+desejadas é necessário seguir um processo de mineração.
+A mineração de textos possui etapas que envolvem técnicas de
+Recuperação de Informação (RI) e Extração de Informação (EI), onde são
+Coleção
+de
+textos
+Técnicas
+de RI
+Técnicas
+de EI
+Forma
+Intermediária
+Mineração Conhecimento
+6
+aplicadas técnicas de Mineração da Informação. Essas etapas são descritas
+abaixo:
+- Recuperação de Informação: localização e recuperação de
+documentos que podem ser relevantes a uma pesquisa. É necessário um
+sistema para filtrar esses documentos especificados pelo usuário e indexar as
+palavras-chave encontradas.
+- Extração de Informação: os termos considerados relevantes
+nos documentos são extraídos e convertidos em dados afim de que possam
+ser utilizados durante o processo de mineração.
+- Mineração da Informação: assim que a informação é
+armazenada de forma estruturada, a descoberta de informação é feita através
+da mineração sobre o banco de dados criado.
+É através da interpretação dos padrões recuperados através da
+mineração, onde os resultados obtidos são interpretados, que se realiza a
+descoberta do conhecimento.
+Os documentos devem ser pré-processados possibilitando a
+extração das palavras-chave, o que possibilitaria localizar um documento a
+partir da comparação entre um termo de consulta do usuário e os termos
+presentes em um documento.
+2.5. INDEXAÇÃO
+Os termos de indexação são utilizados para representar
+documentos e consultas. Os elementos do índice são os termos de indexação
+que são derivados do corpo do documento (Van RIJSBERGEN, 1979).
+A classificação automática é realizada através do conceito de
+similaridade, como será apresentado nos capítulos posteriores, entre os termos
+de indexação. Os termos extraídos dos documentos ficam armazenados em
+vetores com referências para seus respectivos documentos. Assim, através do
+termo é possível encontrar o documento solicitado.
+7
+2.6. NORMALIZAÇÃO
+A normalização ocorre em etapas possibilitando melhorar a
+análise e classificação do conjunto de documentos.
+Em baixo nível, o documento é descrito por um conjunto de
+palavras. O primeiro passo da normalização é remover as palavras que
+aparecem em excesso no corpo do texto e que não possuem grande
+importância (preposições, artigos, conjunções etc). Assim, pode-se dizer que
+depois dessa primeira etapa teremos as palavras-chave. A próxima etapa é a
+classificação automática das classes de palavra-chave (Van RIJSBERGEN,
+1979).

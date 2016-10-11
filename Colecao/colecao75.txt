@@ -1,0 +1,23 @@
+Além de lidar com volumes extremamente grandes de dados dos mais variados tipos, soluções de Big Data também precisam trabalhar com distribuição de processamento e elasticidade, isto é, suportar aplicações com volumes de dados que crescem substancialmente em pouco tempo.
+
+O problema é que os bancos de dados "tradicionais", especialmente aqueles que exploram o modelo relacional, como o MySQL, o PostgreSQL e o Oracle, não se mostram adequados a estes requisitos, já que são menos flexíveis.
+
+Isso acontece porque bancos de dados relacionais normalmente se baseiam em quatro propriedades que tornam a sua adoção segura e eficiente, razão pela qual soluções do tipo são tão populares: Atomicidade, Consistência, Isolamento e Durabilidade. Esta combinação é conhecida como ACID, sigla para o uso destes termos em inglês: Atomicity, Consistency, Isolation e Durability. Vejamos uma breve descrição de cada uma:
+
+Atomicidade: toda transação deve ser atômica, isto é, só pode ser considerada efetivada se executada completamente;
+Consistência: todas as regras aplicadas ao banco de dados devem ser seguidas;
+Isolamento: nenhuma transação pode interferir em outra que esteja em andamento ao mesmo tempo;
+Durabilidade: uma vez que a transação esteja concluída, os dados consequentes não podem ser perdidos.
+O problema é que este conjunto de propriedades é por demais restritivo para uma solução de Big Data. A elasticidade, por exemplo, pode ser inviabilizada pela atomicidade e pela consistência. É neste ponto que entra em cena o conceito de NoSQL, denominação que muitos atribuem à expressão em inglês "Not only SQL", que em tradução livre significa "Não apenas SQL" (SQL - Structured Query Language - é, em poucas palavras, uma linguagem própria para se trabalhar com bancos de dados relacionais).
+
+O NoSQL faz referência às soluções de bancos de dados que possibilitam armazenamento de diversas formas, não se limitando ao modelo relacional tradicional. Bancos do tipo são mais flexíveis, sendo inclusive compatíveis com um grupo de premissas que "compete" com as propriedades ACID: a BASE (Basically Available, Soft state, Eventually consistency - Basicamente disponível, Estado Leve, Eventualmente consistente).
+
+Não é que bancos de dados relacionais tenham ficado ultrapassados - eles são e continuarão por muito tempo sendo úteis a uma série de aplicações. O que acontece é que, geralmente, quanto maior um banco de dados se torna, mais custoso e trabalhoso ele fica: é preciso otimizar, acrescentar novos servidores, empregar mais especialistas em sua manutenção, enfim.
+
+Via de regra, escalar (torná-lo maior) um bancos de dados NoSQL é mais fácil e menos custoso. Isso é possível porque, além de contar com propriedades mais flexíveis, bancos do tipo já são otimizados para trabalhar com processamento paralelo, distribuição global (vários data centers), aumento imediato de sua capacidade e outros.
+
+Além disso, há mais de uma categoria de banco de dados NoSQL, fazendo com que soluções do tipo possam atender à grande variedade de dados que existe, tanto estrurados, quanto não estruturados: bancos de dados orientados a documentos, bancos de dados chave/valor, bancos de dados de grafos, enfim.
+
+Exemplos de bancos de dado NoSQL são o Cassandra, o MongoDB, o HBase, o CouchDB e o Redis. Mas, quando o assunto é Big Data, apenas um banco de dados do tipo não basta. É necessário também contar com ferramentas que permitam o tratamento dos volumes. Neste ponto, o Hadoop é, de longe, a principal referência.
+
+

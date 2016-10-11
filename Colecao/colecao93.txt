@@ -1,0 +1,63 @@
+Os sistemas de classificação foram um dos primeiros modelos de
+organização da informação e do conhecimento que sem tem registro. A
+história dos sistemas de classificação bibliográfica aparece logo após a
+segunda guerra no século XIX, quando os estudiosos e cientistas se viram
+em meio a uma “babel” de documentos, resultados de pesquisas,
+relatórios, entre outros, sem organização alguma e, neste momento,
+começam a surgir excelentes exemplos de sistemas que organizassem
+estes documentos, como o de Cutter, a Classificação Universal de Dewey
+(CDD) e o Código de Classificação Universal (CDU) (BARBOSA, 1969).
+Para Piedade (1983), o homem está sempre fazendo algum tipo de
+classificação em sua vida, seja em coisas ou ideias, para que, inclusive,
+possa entender e organizar melhor o espaço em que vive. Diz, ainda, que
+classificar é o ato de dividir em classes ou grupos, segundo diferenças e
+semelhanças, seguindo critérios e disposição em grupos, utilizando para
+isto uma metodologia específica.
+Por ser um sistema de classificação hierárquico e estruturado, o
+sistema de classificação se assemelha a outros tipos de organização do 
+conhecimento, como, por exemplo, os tesauros e taxonomias. Mai4
+ (2004,
+p. 93) apud Zhonghong, Chaudhry e Sattar (2006, p. 6) destaca que os
+sistemas de classificação bibliográfica estão “intimamente ligados à
+comunidade científica e a seu discurso”. Os autores dizem, ainda, que
+os sistemas de classificação e tesauros estão ampla e
+essencialmente ligados ao ambiente embasado em documentos e mais
+obrigatório dentro da comunidade acadêmica, embora eles agora tenham
+sido também expandidos para o ambiente Web”.
+Segundo Zhonghong, Chaudhry e Sattar (2006), a utilização dos
+sistemas de classificação é praticamente restrita aos meios acadêmicos e
+bibliotecas, já que, para ser utilizado na Web, se tornaria inviável. Os
+autores nos indicam, também, que, para o ambiente Web, o mais correto
+seria a atualização de tesauros e taxonomias, os quais serão apresentados
+individualmente nesta seção, com suas peculiaridades.
+O Quadro 2 mostra algumas classificações desenvolvidas para
+utilização em bibliotecas e centros de documentações, visando à
+recuperação de documentos.Os cientistas se veem às voltas, cada vez mais, com o grande
+número de informações que se encontram disponíveis na Web e, ao
+mesmo tempo, com a preocupação de como manipular esta informação,
+em como controlar e arquitetar sua estrutura, facilitando a recuperação de
+informações por parte do usuário.
+Oriunda das ciências da vida, mais especificamente da Biologia, no
+princípio, utilizada para a classificação de seres vivos, a taxonomia veio
+para o meio de digital com o intuito de cumprir sua parte na organização
+de informações, disponíveis em portais corporativos das organizações e
+em portais de busca que possuem diretórios, como, por exemplo, o
+Yahoo, também por possibilitar filtros de pesquisa, classificação
+automática, entre outros. Isso ocorre por serem as taxonomias
+organizações mais específicas que possuem como elementos-chave uma
+estrutura hierárquica baseada em etiquetas
+Atualmente, as taxonomias são ferramentas essenciais para a
+arquitetura da informação, mesmo havendo, ainda, um falta de clareza
+sobre seu papel e intenção, pois podem referir-se a coisas diferentes de
+diferentes contextos (ZHONGHONG; CHAUDHRY; SATTAR, 2006).
+Apesar das taxonomias serem um sistema de classificação de
+conceitos para ambiente Web, não podemos descartar as diferenças que
+esse ambiente possui em relação aos outros sistemas, como tesauros, a
+própria classificação e as ontologias. Talvez, o que mais se aproxime e,
+em alguns momentos, sendo utilizado para definição de termos
+controlados, seja o desejo do arquiteto de redes é o tesauro.
+Concoran5
+ (2002) apud Zhonghong, Chaudhry e Sattar, (2006)
+argumenta sobre o poder de recuperação e busca de informações em
+ambientes Web, sendo esta uma das vantagens que possui as
+taxonomias. 

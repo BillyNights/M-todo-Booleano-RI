@@ -1,0 +1,12 @@
+Para os usuários, o processo de Recuperação de Informação parte de uma necessidade
+de informação. O usuário fornece a um Sistema de Recuperação de Informação uma consulta
+formulada a partir da sua necessidade de informação. O sistema então compara a consulta
+com documentos armazenados. A tarefa do Sistema de Recuperação de Informação é retornar
+ao usuário os documentos que mais satisfazem a necessidade do usuário [25]. Para um
+Sistema de Recuperação de Informações, um processo de Recuperação de Informação inicia
+quando o usuário informa uma consulta ao sistema. Consultas são representações formais
+das necessidades de informação de um usuário. Em um Sistema de Recuperação de Informação
+uma consulta não é associada a um único documento em uma coleção. Ao contrário,
+diversos documentos são retornados através de uma consulta, selecionando-se os documentos
+que se apresentam como mais relevantes comparando a consulta com as representações dos
+documentos previamente armazenados

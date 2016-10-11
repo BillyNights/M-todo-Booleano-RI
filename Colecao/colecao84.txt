@@ -1,0 +1,73 @@
+O homem tem armazenado, catalogado e
+organizado a informação há aproximadamente
+4.000 anos, com o principal objetivo de
+recuperá-la para uso posterior. Atualmente,
+cresce de forma cada vez mais rápida a
+quantidade dos textos armazenados em formato
+digital, e a maioria destes textos são esquecidos,
+pois nenhum ser humano pode ler, entender e
+sintetizar toda esta informação. Isto tem
+incentivado os pesquisadores a explorar
+estratégias para tornar acessível ao usuário a
+informação relevante (CROFT, 2000).
+A obtenção da informação através de
+consultas constitui a entrada de um sistema de
+recuperação de informação, que deve buscar em
+uma coleção de documentos, aqueles que podem
+satisfazer à necessidade de informação do
+usuário. Entretanto, é difícil encontrar a
+informação relevante, principalmente porque há
+muita informação (a maioria irrelevante). O
+Processamento da Linguagem Natural (PLN),
+com motivação linguística, é uma das
+alternativas para solucionar este problema
+(JACQUEMIN, 2000).
+Muitos pesquisadores acreditam que o
+PLN seja uma das áreas mais importantes da
+Inteligência Artificial. Uma de suas aplicações
+mais atraentes é a possibilidade de tornar o
+relacionamento do usuário com a máquina o
+mais natural possível, facilitando o seu acesso às 
+informações que este só poderia obter por meio
+de conhecimentos de alguma linguagem de
+programação, ou por meio de alguém que tenha
+esse conhecimento. Seria muito mais fácil se os
+usuários pudessem se comunicar com o
+computador por meio de conversação. O
+objetivo do PLN é tornar isso uma realidade
+(MURADAS, 1995).
+Um dos grandes problemas para usuários
+leigos, relacionados à recuperação de dados em
+bancos de dados, está ligado à interface e à
+necessidade de um pré-conhecimento da
+linguagem estruturada de consulta: SQL
+(Structured Query Language).
+No contexto de bancos de dados
+relacionais, embora SQL seja uma linguagem de
+aprendizado relativamente fácil, pessoas que não
+possuem formação na área de computação
+podem encontrar certa dificuldade em aprendê-
+la. Além do conhecimento relacionado à
+linguagem SQL, os usuários precisam saber os
+conceitos envolvidos com o esquema da base de
+dados, o que implica em ter um mínimo de
+conhecimento do modelo relacional lógico e
+físico (tabelas, chaves primárias e estrangeiras,
+junções, implementação de relacionamentos m x
+n). Sendo assim, usuários leigos, não
+familiarizados com linguagens de consulta e
+estruturas de bancos de dados, deveriam poder
+acessar os dados de uma forma mais amigável
+(VARELLA et al., 2006).
+Uma forma de facilitar o uso de consultas
+em banco de dados é através de técnicas de PLN,
+onde usuários podem extrair informações sem a
+necessidade de conhecer particularidades de um
+modelo de dados ou de estruturas de
+armazenamento. Por exemplo, em um banco de
+dados acadêmico, o usuário poderia formular a
+seguinte consulta:
+ “Quais são os nomes dos alunos
+matriculados e os cursos que estudam”?
+Em SQL o usuário teria que formular o seguinte
+comando

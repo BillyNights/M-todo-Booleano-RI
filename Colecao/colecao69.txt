@@ -1,0 +1,24 @@
+Recuperação de informação é um termo amplo e ainda não plenamente
+definido, assim como o próprio termo "informação". Um sistema de recuperação
+de informação não informa o usuário sobre o assunto de seu questionamento, ou
+seja, não muda seu estado de conhecimento. Um sistema de recuperação de
+informação apenas informa sobre a existência ou não, e a localização de
+documentos relacionados à sua requisição. Isso exclui os sistemas de perguntas
+e respostas, além de os sistemas do tipo utilizados para acompanhamento de
+movimento em bolsas de valores.
+Cabe, nesse momento, tratar das definições dos termos “dados” e
+“informação”. Stair (1998) define dados como fatos em sua forma primária, por
+exemplo, nome de autor ou ano de publicação. Os dados representam as coisas
+no mundo real. Para Shedroff (2001), dado é matéria-prima, geralmente
+abundante no ambiente. Mesmo que tenha significado para o especialista, são,
+em sua maioria, os blocos sobre os quais se constrói a relevância.
+Já informação é um conjunto de fatos organizados de tal forma que
+adquirem valor adicional, além do valor dos fatos em si. É necessário
+estabelecer regras e relações para transformar dados em informação útil e
+valiosa. Desta forma, entende-se que informação é um conjunto de dados
+dotados com relevância e propósito. O tipo de informação criada depende da
+relação definida entre os dados existentes. Transformar dados em informações é
+um processo, ou uma série de tarefas logicamente relacionadas e executadas
+para atingir um resultado definido. Para desenvolver esse processo é necessário
+conhecimento, ou seja, é necessário ter noção do corpo ou regras, diretrizes e
+procedimentos usados para selecionar, organizar e manipular os dados. 

@@ -1,0 +1,60 @@
+Indexador do Google
+O Googlebot indexa o texto completo das páginas que encontra. Estas páginas são armazenadas em base de dados do índice do Google.
+Este índice é ordenado alfabeticamente pelo termo de pesquisa, com cada entrada do índice armazenando uma lista de documentos em 
+que o termo aparece na localização dentro do texto em que ocorre. Esta estrutura de dados permite o acesso rápido aos documentos 
+que contêm os termos de consulta do utilizador.
+Para melhorar o desempenho da pesquisa, o Google ignora palavras comuns (como o é, a, ou, de, como, porque, assim como 
+determinados dígitos e letras simples). Essas palavras são tão comuns que eles não servem para especificar o que se está a 
+procurar e, portanto, podem seguramente ser descartados. O indexador ignora também alguns sinais de pontuação e espaços 
+múltiplos, bem como a conversão de todas as letras minúsculas, para melhorar o desempenho do Google.
+
+Processador de expressões de busca do Google
+O processador de consultas tem várias partes, incluindo a interface do utilizador (caixa de pesquisa), o “motor” que avalia as 
+consultas e os resultados a documentos relevantes, e, finalmente, os resultados formatados.
+PageRank é o sistema do Google para classificar a ordem de exibição das páginas. Uma página com um PageRank mais elevado é 
+considerada mais importante e é mais provável que seja mostrada acima de uma página com um PageRank mais baixo.
+O Google considera mais de uma centena de factores no cálculo de um PageRank e assim determinar quais são os documentos mais 
+relevantes para uma consulta, incluindo a popularidade da página, a posição e o tamanho dos termos de pesquisa dentro da página, 
+e a proximidade dos termos de pesquisa na página.
+O Google também aplica técnicas, como, por exemplo, o sistema de correcção ortográfica para descobrir a intenção provável do 
+utilizador e criar alternativas.
+A indexação do texto completo da web permite que o Google vá além da simples correspondência de termos de pesquisa únicos. O 
+Google dá mais prioridade para páginas que tenham termos de pesquisa próximos uns dos outros e na mesma ordem que a consulta. 
+Considerando que o Google indexa o código HTML, indo além de somente o texto na página, os utilizadores podem restringir as 
+pesquisas com base em onde aparecem as palavras consultadas, como por exemplo, no título, na URL, no corpo, e em links para a 
+página.
+A Yahoo! apresentou em Março de 2011 um novo sistema que classifica como "o futuro da pesquisa" e afirma ser o "mais rápido 
+alguma vez visto". Para isso, combina a apresentação instantânea de resultados - apresentação de resultados à medida que são 
+digitados os termos a pesquisar - com "respostas" instantâneas. Segundo este conceito, o consumidor quando faz uma pesquisa, 
+procura respostas e não links.
+
+A Yahoo! define-se como “empresa líder na área de comunicações, comércio e media na Internet” e, com isso, tem conseguido ficar 
+de algum modo fora de uma disputa que reúne gigantes como o Google e a Microsoft, que lutam pelo predomínio no segmento de busca 
+à imposição da plataforma onde se dará o desenvolvimento da próxima geração da Web.
+
+Desde o início, a Yahoo! sempre se viu como uma plataforma de media, como disse várias vezes Jerry Yang, co-fundador da empresa.
+
+Talvez uma das razões pelas quais o Yahoo não chame tanto a atenção quanto o Google se deva ao facto de que é difícil classificá-
+lo. Ele compete com o Google no segmento de busca, mas possui um pequeno grupo de outros activos, como o Hot Jobs, um site de 
+empregos; o Yahoo 360, dedicado aos blogs e comunidades; além de uma rede comercial composta por grandes e pequenos negócios.
+
+Outra frente de batalha em que o Yahoo aparece de modo discreto é o desenvolvimento da próxima geração da world wide web, mais 
+conhecida como “Web 2.0”, uma referência às tentativas de construir uma plataforma de computação baseada na web com serviços de 
+fácil criação e que substituirá o que o software de desktop faz hoje.
+
+Whitehouse diz que o futuro desenvolvimento da web depende em grande parte de quais APIs (programas de interface) se tornarão 
+padrão. Os APIs são uma série de rotinas, protocolos e ferramentas para a construção de aplicativos de software. “Uma das razões 
+pelas quais a Microsoft preocupa-se tanto com o Google tem a ver com a batalha pelo controle dos APIs no desenvolvimento futuro 
+da web”, observa Whitehouse. “Se o Google tornar-se a plataforma para o desenvolvimento da web 2.0, atingirá o coração da vantagem histórica da Microsoft.”
+
+O que há de interessante em relação à disputa pelos APIs é que enquanto o Google atrai a maior parte da atenção, outras empresas 
+como a Amazon e a Salesforce.com já dispõem de APIs próprios para agilizar o desenvolvimento dos seus serviços na web. Mas o 
+Yahoo também começa a entrar nessa corrida.
+
+A empresa, por exemplo, inovou com o Flash, da Macromedia, aplicando-o a seus serviços de mapas; também adquiriu o Flickr, um 
+site que permite aos seus usuários anexar e compartilhar fotos entre grupos. “O Yahoo tem condições de costurar tudo isso em um 
+conjunto abrangente de serviços”, observa Whitehouse. “Esse tipo de coisa pode acabar colocando o Yahoo na linha de frente dos 
+serviços online.”
+
+Sabe o que quer dizer Yahoo! ? “ Yet Another Hierarchical Officious Oracle”
+Como curiosidade : Yahoo é uma criatura mítica das aventuras de Gulliver.

@@ -1,0 +1,8 @@
+Os documentos são geralmente textos ou partes do texto de documentos e o principal objetivo de um sistema de RI é recuperar 
+informação (contida nos documentos) que possa ser útil ou relevante para o usuário. Tal informação (de interesse do usuário) é 
+normalmente chamada de necessidade de informação do usuário. Infelizmente, caracterizar a necessidade de informação do usuário 
+não é uma tarefa simples. Considere, por um momento, a seguinte necessidade de informação de um usuário no contexto da World Wide 
+Web (ou simplesmente Web):
+
+Encontre todos os documentos contendo informações sobre a doença Neoplasma Benigno de forma que: (1) O paciente com a doença 
+possua idade inferior a 50 anos e (2) seja diabético.

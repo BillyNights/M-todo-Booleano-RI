@@ -1,0 +1,114 @@
+Quando pensamos na relação entre a informação e o conhecimento,
+percebemos que isso “se faz na linha contínua que une os pólos da
+convergência e da divergência” (TALAMO, 2004). Podemos afirmar,
+portanto, que, em alguns momentos, tais termos são tratados como
+sinônimos, dependendo da área do conhecimento que esteja lidando com
+eles. O certo é que, para muitos, estamos na Sociedade da Informação
+e/ou do Conhecimento, ou seja, esses ativos possuem grande influência
+nos rumos da sociedade, pois atualmente a denominam, sendo, em vários 
+setores (educação, saúde, economia, segurança, etc.), as principais
+balizas de diferenciação e organização.
+Sendo assim, esse trabalho objetiva refletir sobre a recuperação da
+informação (RI) ao que atualmente é conhecido como a recuperação do
+conhecimento (RC), sob o ponto de vista da Ciência da Informação (CI). A
+RI já se encontra bem desenvolvida na CI, inclusive essa última, no seu
+início, já se denominou RI, já a RC se trata de uma proposta nova.
+Para a CI, a informação apresenta-se como algo que vem depois do
+dado. Dados, portanto, são símbolos ou representações sem contexto,
+segundo Zins (2007), qualificáveis e qualificáveis. A partir de uma
+contextualização, tratamento e interpretação podem ser transformados
+em informação.
+Barreto (1996, p. 2) define a informação como “estruturas
+significantes com a competência de gerar conhecimento no indivíduo, em
+seu grupo ou a sociedade”. Nessa proposta, temos a informação como um
+elemento anterior e gerador de conhecimento e, esse último, podemos
+notar que é algo particular de um indivíduo.
+Ou seja, podemos entender o conhecimento como a alteração
+cognitiva de um sujeito em contato com a informação, sendo que essa
+informação pode ser interpretada e é somada com as vivências e
+experiências desse indivíduo. Isso é evidenciado por Batista, Costa e
+Álvares (2007), na interpretação da equação de Brookes (1980), quando
+dizem que o conhecimento de um indivíduo (vivências e experiências) em
+contato com a informação gera uma estrutura modificada de
+conhecimento.
+Portanto, parece claro que há dependência da informação em
+relação ao conhecimento e, vice-versa. Pois, essa última se alimenta da
+primeira, que, por sua vez, não tem razão de existir, senão para se
+transformar em conhecimento. A Figura 1 exemplifica essa relação. Sendo assim, a partir dos conceitos apresentados e da figura acima,
+parece evidente que criar meios para a RI não parece algo tão complicado, uma vez que lidamos com um objeto “no sentido tangível,
+mensurável, deteriorável física e intrinsecamente, com volume, peso,
+preço e outras propriedades administráveis” (MIRANDA, 2003, p. 177).
+Mas, como fazer a RC, haja vista, ser o conhecimento um bem individual?
+Existem propriedades administráveis para o conhecimento, para que haja
+sua efetiva recuperação? Esse texto não responde essas questões de
+forma definitiva e nem satisfatória, mas apresenta uma proposta e alguns
+pontos que merecem reflexões por parte da CI. A história da comunicação e da transmissão da informação pode ser
+contada por diferentes marcos/fatos históricos, desde tradição da
+comunicação oral, escrita alfabética, a imprensa de Gutenberg, o advento
+das revistas científicas, as comunidades científicas, fatos que alteraram de
+forma significativa o modo produção social do conhecimento, através da
+circulação da informação e da sistematização da produção do
+conhecimento cientifico (MEADOWS, 1999).
+Oliveira (2005, p. 10) afirma que a Revolução Industrial,
+ocorrida no final do século XIX na Europa e nos Estados
+Unidos América (EUA), despertou notadamente o crescimento
+do volume de informações registradas, sendo que “[...] várias
+tentativas foram feitas para realizar um levantamento
+bibliográfico universal. A iniciativa mais importante foi
+assumida pelos advogados belgas Paul Otlet e Henri La
+Fontaine”.
+Segundo Mattelart (2002), Otlet e La Fontaine desenvolveram
+técnicas e ferramentas de organização e tratamento de uma
+grande massa de conhecimento registrado, evidenciando seu
+trabalho de Documentação, pelo fato de prepararem uma
+classificação universal, com intuito de gerar técnicas que
+acompanhasse a evolução da explosão documentária ou Portanto, com as questões recorrentes à Segunda Guerra Mundial,
+que englobam desde as inovações tecnológicas e científicas até a explosão
+da informação, fez com que a década 1950 ficasse marcada por diversos
+encontros e conferências técnico-científicos, na qual uma massa crítica de
+cientistas, engenheiros e empresários começaram a trabalhar com
+entusiasmo nos problemas expostos por Bush (1945), ou seja,
+Recuperação da Informação (Information Retrieval).
+A RI, segundo Saracevic (1992, p. 2), é expressa como “[...] como
+aquilo que abrange os aspectos intelectuais da descrição da informação e
+suas especificações para busca e também quaisquer sistemas, técnicas ou
+máquinas que são utilizados para realizar a operação”, além de ter
+relacionamento com campos do conhecimento, como psicologia,
+arquitetura da informação, linguística, semiótica, ciência da informação,
+ciência da computação, biblioteconomia e estatística.
+Face esta questão, a RI estabeleceu-se como um campo do
+conhecimento científico que objetivou equacionar três problemas
+enunciados pela explosão da informação: representação da informação,
+especificação da busca da informação e criação de mecanismo para
+recuperação (MOOERS, 1951).
+Lancaster (1993, p. 202) resgata a ênfase histórica do
+desenvolvimento dos sistemas de RI em dois tópicos fundamentais: uma
+delas funciona baseada em termos de indexação tirada de um vocabulário
+controlado e outra linha da disponibilidade de textos completos, de forma
+legível, a fim de que o computador realize as buscas por palavras e
+combinações de palavras nos textos.
+HjØrland2
+(2002) apud Robredo (2003), em seu trabalho proferido
+no ano de 2002, em duas Conferências Internacionais: Information
+Science and Knowledge Organization (ISKO7) e na Conception of library
+and Information Science (CoLIS4), aponta que a teoria da recuperação da
+informação abrange seus estudos e aplicações (ferramentas) em questões
+como a organização do conhecimento, classificações especializadas,
+tesauros e as ontologias.
+Nesta perspectiva, cabe ressaltar que a RI, como um campo que
+abrange diversos domínios, desde a Ciência da Informação até Ciência da
+Computação, possui ferramentas de organização e recuperação da
+informação e conhecimento, como: classificação, tesauros, taxonomia e
+ontologias, nos quais é possível estabelecer diferentes estudos teóricos e
+múltiplas visões do desdobramento de suas aplicações tidas como
+fundamentais na RI. 
+informação com base no sistema de classificação de Dewey.
+Seguindo o raciocínio cronológico, Vannevar Bush, que foi uma
+autoridade no campo da pesquisa durante a Segunda Guerra
+Mundial, coordenando mais de seis mil cientistas, em seu
+artigo publicado em julho de 1945, pela The Atlantic Review,
+"As We May Think" (Como Nós Pensamos), apontou a
+necessidade da evolução tecnológica como uma maneira de
+enfrentar o problema do fluxo de produção científica e da
+complexidade da recuperação da informação, fato observado
+anteriormente pelo próprio Paul Otlet. 

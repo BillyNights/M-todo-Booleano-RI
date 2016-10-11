@@ -1,0 +1,48 @@
+A Segurança da Informação tem como principal objetivo, justamente, proteger
+as informações, que são os principais ativos atualmente, que sejam importantes para
+uma organização ou indivíduo.
+
+Entendendo esse conceito, não é suficiente apenas conhecer as normas
+existentes e as várias formas possíveis de proteção, mas é necessário também
+conhecer os riscos inerentes e as possíveis formas de ataque.
+De acordo com o maior estrategista que já existiu, Sun Tzu, se você conhece a
+si mesmo e ao seu inimigo, não precisará temer o resultado de mil batalhas. Afinal, se
+conhece os estratagemas empregados por atacantes maliciosos, estará muito mais
+capacitado para proteger seu principal ativo: a informação.
+
+A problemática de explosão da informação, hoje tão
+visada pela pesquisa, já era apontada por Vannevar Bush
+na década de 40 (Bush, 1945 apud Saracevic, 1995) e é
+em volta deste ponto que gira o próprio núcleo da
+recuperação de informação.
+A conceituação de Recuperação de Informação,
+definida inicialmente por Calvin Mooers (Mooers, 1951
+apud Saracevic, 1995), vem dada, em geral (Frakes,
+1992; Russell e Norvig, 1995; Turtle e Croft, 1997), de
+uma forma eminentemente funcional e não descritiva:
+Recuperação de informação é o nome do
+processo ou método onde um posssível usuário de
+informação pode converter a sua necessidade de
+informação numa lista real de citações de
+documentos armazenados que contenham
+informações úteis a ele . . . recuperação de
+informação abarca os aspectos intelectuais da
+descrição da informação e a sua especificação para
+busca, assim como também quaisquer sistemas,
+técnicas ou máquinas que sejam empregadas para
+efetuar a operação (Mooers, 1951 apud Saracevic,
+1995).
+De qualquer modo, uma vez de posse dos dados da
+consulta são selecionados os documentos que se
+apresentam como mais relevantes comparando a consulta
+com representações dos documentos previamente
+armazenadas, opcionalmente revisando a representação
+da consulta para tratar consultas posteriores. O processo
+de recuperação envolve assim a aquisição da consulta,
+seleção dos documentos e revisão da consulta. Uma
+coleção de documentos pode incluir documentos textuais
+e não textuais, tais como fotografias, som, vídeo,
+módulos de software, etc.
+A explosão de informação é um complexo problema
+social, cognitivo, cultural e de comunicação e não
+simplesmente um problema técnico. 

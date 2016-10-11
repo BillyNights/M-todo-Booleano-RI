@@ -1,0 +1,21 @@
+Sistemas de informação podem ser entendidos, segundo a ótica de
+Lancaster e Fayen (1973), como interfaces entre um conjunto específico de
+usuários e o universo de recursos informacionais disponíveis com o objetivo de
+atender a certas necessidades predefinidas de um público preestabelecido, o
+que delimita de maneira razoavelmente clara e precisa o perfil de usuário. De
+acordo com os autores, os sistemas on-line para recuperação de informação
+permitem ao usuário acessar, de modo direto, uma base de dados de
+documentos por meio de um computador. Nesses casos, surgem como
+características a operação em tempo real e o compartilhamento entre duas ou
+mais atividades, o que permite que diferentes usuários acessem o sistema
+simultaneamente, sem conflito.
+Alencar (2001) destaca que essas definições baseiam-se, principalmente,
+em sistemas de recuperação de informação fechados, em ambientes que
+permitem o controle do que é introduzido no sistema. Apesar de os sistemas
+estudados na presente investigação serem acessados on-line no ambiente web,
+não se trata de uma busca ampla, em toda rede, à maneira dos sistemas de
+busca que utilizam robôs para vasculhar grandes volumes em incontáveis
+websites. A informação que pode ser recuperada nos sistemas de bibliotecas online
+das universidades federais é proveniente de um banco de dados fechado
+alimentados pelo pessoal da própria instituição e o conteúdo, por maior que seja,
+está limitado ao acervo da biblioteca da universidade. 

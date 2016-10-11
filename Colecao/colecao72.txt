@@ -1,0 +1,22 @@
+Por que Big Data é tão importante?
+Lidamos com dados desde os primórdios da humanidade. Acontece que, nos tempos atuais, os avanços computacionais nos permitem 
+guardar, organizar e analisar dados muito mais facilmente e com frequência muito maior.
+
+Este panorama está longe de deixar de ser crescente. Basta imaginar, por exemplo, que vários dispositivos em nossas casas - 
+geladeiras, TVs, lavadoras de roupa, cafeteiras, entre outros - deverão estar conectados à internet em um futuro não muito 
+distante. Esta previsão está dentro do que se conhece como Internet das Coisas.
+
+Se olharmos para o que temos agora, já veremos uma grande mudança em relação às décadas anteriores: tomando como base apenas a 
+internet, pense na quantidade de dados que são gerados diariamente somente nas redes sociais; repare na imensa quantidade de 
+sites na Web; perceba que você é capaz de fazer compras on-line por meio até do seu celular, quando o máximo de informatização 
+que as lojas tinham em um passado não muito distante eram sistemas isolados para gerenciar os seus estabelecimentos físicos.
+
+As tecnologias atuais nos permitiram - e permitem - aumentar exponencialmente a quantidade de informações no mundo e, agora, 
+empresas, governos e outras instituições precisam saber lidar com esta "explosão" de dados. O Big Data se propõe a ajudar nesta 
+tarefa, uma vez que as ferramentas computacionais usadas até então para gestão de dados, por si só, já não podem fazê-lo 
+satisfatoriamente.
+
+A quantidade de dados gerada e armazenada diariamente chegou a tal ponto que, hoje, uma estrutura centralizada de processamento 
+de dados já não faz mais sentido para a maioria absoluta das grandes entidades. O Google, por exemplo, possui vários data 
+centers para dar conta de suas operações, mas trata todos de maneira integrada. Este "particionamento estrutural", é bom 
+destacar, não é uma barreira para o Big Data - em tempos de computação nas nuvens, nada mas trivial.

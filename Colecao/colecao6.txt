@@ -1,0 +1,59 @@
+Recuperação de informação é aplicada, dentre outras
+formas, na busca e navegação através da Internet e
+constitui o coração da pesquisa e o desenvolvimento das
+bibliotecas digitais.
+Qualquer sistema de recuperação de informação
+inclui três componentes básicos: identificação e
+representação do conteúdo do documento, aquisição e
+representação da necessidade de informação e a
+especificação da função de comparação que seleciona os
+documentos relevantes baseado nas representações. A
+incerteza aparece em cada um dos componentes citados
+(Croft e Turtle, 1992; Turtle e Croft, 1997).
+Um aparente paradoxo é subjacente ao domínio dos
+sistemas de informação em geral, desde que tais sistemas
+devem manipular informações permeadas de incertezas
+(ou seja, informações sobre as quais não se possui
+conhecimento em graus determinados ou não) sendo os
+sistemas, eles próprios, recheados de possíveis fontes de
+incerteza (Mamdani, 1997). Deve ser notado que o termo
+pode ser usado tanto num contexto mais amplo definindo
+uma “informação imperfeita”, como em outro mais
+específico para descrever uma forma particular de
+imperfeição. No primeiro caso o termo refere-se a
+situações onde a informação disponível “carece de
+perfeição” (Motro, 1997), no segundo descreve casos
+onde a correção da informação disponível está em
+dúvida.
+Considerando um sistema de informação D que tenta
+representar uma fração do mundo real W, D é bem
+fundado (sound) se D está contido em W; ou seja, a
+informação armazenada contem somente informação
+verdadeira. D é completo se contém W; ou seja, a
+informação armazenada inclui toda a informação que o
+sistema presume modelar. Em outras palavras um sistema
+de informação é perfeito se inclui toda a verdade e nada
+além da verdade.
+No caso de um sistema de informação não ser bem
+fundado e completo, uma alternativa consiste em
+melhorar as técnicas de modelagem usadas na
+aproximação de W. Seja para poder representar
+informação imprecisa ou tratar incerteza.
+Considerando somente corpos textuais, convém
+lembrar que a mensagem que eles carregam permeia as
+funções da linguagem (Chalhub, 1999) e está permeada
+delas. Tais funções indicam:
+o quê - função referencial;
+quem - função emocional;
+para quem -função conativa;
+onde - função fática: que indica o canal;
+como - função poética;
+o código usado e reproduzido- função
+metalinguística.
+Estes fatores articulam-se no texto (Guimarães, 1999)
+segundo convenções particulares das quais se pode tirar
+proveito na determinação do que vem a ser um texto
+relevante para o usuário.
+As formas de estruturação do texto podem ser
+descritivas, narrativas, dissertativas ou combinações
+delas. Estas formas manifestam-se no tipo de integração

@@ -1,0 +1,14 @@
+Recuperação de informação é um processo de comunicação. Em
+certo sentido é um meio pelo qual autores e criadores de registros
+se comunicam com os leitores, mas indiretamente e possivelmente
+com um longo intervalo de tempo entre a criação de uma mensagem
+ou texto e a sua entrega para o usuário de um sistema de recuperação
+de informação. Às vezes o sistema de recuperação de informação ou
+bibliotecário conduzindo uma pesquisa pode passar informações sobre
+a provável relevância ou valor do que é recuperado, aumentando a
+informação para o conjunto de itens recuperados. Os registros de uma
+base de dados são criados e montados sem conhecimento exatamente
+de quem irá lê-los, ou sob quais circunstâncias. As linguagens e os
+canais de tal sistema de comunicação são bastante diferentes de
+outros modelos bem conhecidos, tais como a radiodifusão ou a
+comunicação ponto-a-ponto (MEADOW et al, 2007, p.3)

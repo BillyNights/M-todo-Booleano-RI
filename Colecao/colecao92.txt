@@ -1,0 +1,59 @@
+O tesauro organiza as informações através da denominada
+linguagem documentária, trata-se da relação de um termo entre si
+mesmo. O tesauro é utilizado para a indexação de documentos
+normalmente de assuntos e áreas específicas. Em um primeiro momento,
+aparecem os catálogos impressos e manuais, após a automação das bases
+de dados, os catálogos online.
+Para definir melhor a função dos tesauros, Currás3
+ (1995) apud
+Moreira, Alvarenga e Oliveira (2004) nos diz que tesauro é “[...] uma
+linguagem especializada, normalizada, pós-coordenada, usada com fins
+documentários, nos quais os elementos linguísticos que compõem –
+termos simples ou compostos – encontram-se relacionados, entre si,
+sintática e semanticamente”.
+Normalmente os tesauros possuem uma base estruturada e
+hierárquica, conforme exemplo no quadro abaixo. Sua construção é feita
+de forma hierarquizada e os termos baseados em conhecimento
+específicos. Souto (2003) acrescenta, ainda, a importância que tem a
+aplicação dos tesauros como linguagem controlada nas possíveis
+inconsistências na recuperação da informação em bases de dados. O autor
+nos apresenta, também, a estrutura de um tesauro. 
+Moreira, Alvarenga e Oliveira (2004) apresentam uma definição feita
+pela Organização Nacional de Padrões da Informação (NISO), em um
+documento dito como as Instruções (normas) para a construção, formato
+e gerenciamento do tesauro monolíngua, pelo qual o tesauro é definido
+como:
+vocabulário controlado e arranjado em uma ordem
+conhecida e estruturada que sua equivalência, homografia,
+hierarquia e relação associativa entre termos são
+demonstradas claramente e identificada por um
+relacionamento padronizado de indicadores que são
+empregados reciprocamente.
+Zhonghong, Chaudhry e Sattar (2006) afirmam, ainda, que os
+“tesauros foram criados no ambiente online e usados para indexar a
+matéria dos assuntos dos documentos. Eles também podem ser usados
+para ajudar nas buscas dos usuários”. A definição de que os tesauros foram criados em ambientes online,
+contrapõem com outros autores, que descrevem em suas pesquisas a
+criação dos tesauros bem antes da utilização em ambientes online. Peter
+Mar Roget cria o termo em 1852, o que, na verdade, era chamado de
+dicionário de tesauros pelo próprio autor. Roget estabelece um
+denominador comum para um tipo de vocabulário que relata seus próprios
+termos, usando certo tipo de relacionamento semântico. Em 1951,
+Mortimer Taube, com a ajuda de Lancaster, cria o sistema unitermo,
+evoluindo-se como o primeiro tesauro em 1959, concebido pelo Centro de
+Engenharia da Informação de DuPont (MOREIRA; ALVARENGA; OLIVEIRA,
+2004).
+Neste mesmo artigo, os autores fazem, ainda, uma diferenciação
+entre taxonomias, classificação e tesauros, deixando clara a posição de
+cada um dos modelos de classificação, na organização da informação e do
+conhecimento. Segundo os autores, os tesauros foram concebidos para a
+organização de informação disponibilizada na rede, como informação que
+possua um assunto específico para que possam ter seu vocabulário
+controlado (ZHONGHONG; CHAUDHRY; SATTAR, 2006).
+Os tesauros são tão importantes como meios de recuperação de
+informação, principalmente na Web. Vogel [2006?] coloca a possibilidade
+de definirmos as taxonomias a serem utilizadas em portal corporativo,
+utilizando tesauros para definir um vocabulário controlado, podendo ser
+desde uma lista de sinônimos como até mesmo uma linguagem
+documentária ou informacional, permitindo hierarquias propostas pela
+taxonomia e o tesauro. 

@@ -1,0 +1,54 @@
+Há alguns anos, um número cada vez maior de organizações, de diversos portes e segmentos, vem empregando a filosofia de Big Data 
+Analytics como ferramenta de apoio estratégico.
+O objetivo é simples: melhorar seus processos de trabalho e adquirir insights valiosos acerca das tendências de mercado, 
+comportamento dos consumidores e suas expectativas.
+Todos esses indicativos representam para as corporações a possibilidade de tomar decisões mais precisas e, sobretudo, 
+antecipadas à concorrência. Decisões que, em um cenário de extrema competitividade, podem ser o divisor entre o sucesso e a 
+estagnação do seu negócio.
+Se você não quer ser colocado à “margem” na disputa pela liderança de seu segmento, vale a pena ocupar alguns minutinhos de seu 
+tempo descobrindo um pouco mais sobre o poder dessa ferramenta fenomenal para o seu negócio. Confira:
+Matérias-primas de Big Data Analytics
+Big Data Analytics é o trabalho analítico e inteligente de grandes volumes de dados, estruturados ou não-estruturados, que são 
+coletados, armazenados e interpretados por softwares de altíssimo desempenho. Trata-se do cruzamento de uma infinidade de dados 
+do ambiente interno e externo, gerando uma espécie de “bússola gerencial” para tomadores de decisão. Tudo isso, é claro, em um 
+tempo de processamento extremamente reduzido.
+Algumas das fontes usadas por um software de Big Data Analytics:
+As vantagens comerciais do Big Data Analytics
+Ao extrair e combinar resultados de todas as fontes listadas no tópico anterior, soluções de Big Data Analytics podem entregar 
+informações extremamente importantes para a melhoria do desempenho de qualquer tipo de empresa no mercado. Curioso para entender 
+como isso acontece?
+
+O ponto de partida é a viabilização de análises profundas de um público por região. Ao saber quais são os produtos mais 
+procurados e desejados em um determinado local, é possível direcionar as vendas para aquele lugar e até mesmo melhorar o sistema 
+de logística para tornar o atendimento mais eficiente (lembrando que tudo isso pode acontecer em tempo real).
+
+Entendendo melhor o perfil do consumidor de uma determinada área, é possível ainda contratar um tipo de mão de obra 
+especializada em lidar com aquele público — por exemplo: o cliente que entra em uma determinada loja do centro da cidade pode 
+ser diferente daquele que entra em outra loja, da mesma marca, em outra região.
+
+Identificação de padrões
+Outra vantagem expressiva do uso de Big Data Analytics é que, ao identificar o perfil de um determinado público (por região ou 
+não), sua empresa acaba ganhando o poder de entregar promoções e até produtos relacionados para um determinado tipo de cliente — 
+como acontece em lojas virtuais, onde ao mostrar interesse por um livro acabamos recebemos ofertas de outros com alguma 
+semelhança. Algo que, claramente, pode ajudar (e muito) no sucesso dos negócios.
+Análise de concorrência
+Por conseguir prever e entender alguns movimentos de consumo de um determinado público, a análise dos dados com Big Data também 
+ajuda a apontar caminhos diferentes e mais eficientes daqueles percorridos pela sua concorrência. Dessa forma, é possível criar 
+promoções específicas e até aumentar o estoque de algum produto que venha a ser mais procurado.
+Cases de sucesso no trabalho com Big Data Analytics
+Não é de hoje que os gigantes da economia mundial e os institutos de pesquisa utilizam o trabalho com data mining (mineração de dados), análises preditivas, relatórios de cientistas de dados e análises estatísticas, mas, agora, com a melhora da captação de dados e de sua velocidade por meio de Big Data é possível aprimorar ainda mais o uso dessas informações.
+Quer ver alguns exemplos de como isso funciona na prática? Walmart
+A rede norte-americana de varejo coleta cerca de 2,5 petabytes de dados a cada hora, por meio da captura de informações das transações de seus clientes. Esse monitoramento permite controlar com precisão os níveis do estoque, prever tendências sazonais de crescimento no consumo de alguns produtos, além de melhorar os processos de trabalho da rede.
+Além disso, com ajuda de seu Walmart Labs, a empresa também tem se dado bem ao criar ferramentas capazes de interagir e capturar até mesmo nuances do seu público. Uma delas, o The Social Genome, já chegou até mesmo a promover um produto para uma cliente que postou no Twitter falando do seu interesse em assistir ao filme Salt, com Angelina Jolie — e aí o grande lance do sistema foi entender que ela se referia a um filme e não o produto sal (“salt”, em inglês).
+MIT
+O Massachusetts Institute of Technology, uma das mais importantes universidades do mundo, através do MIT Media Lab, fez recentemente uma simulação que conseguiu determinar quantas pessoas se encontravam em um determinado momento no maior centro de compras dos EUA, e em plena Black Friday.
+O levantamento foi possível graças ao cruzamento de dados de geolocalização de smartphones e tablets.
+Nike
+Por meio de uma parceria com uma empresa de tecnologia, a fabricante norte-americana de materiais esportivos desenvolveu um app capaz de monitorar a frequência cardíaca, a quantidade de passos, a velocidade durante o “running” e a distância percorrida dos atletas, além da vantagem de divulgar todo esse relatório em redes sociais.
+O estímulo à competição entre amigos em redes sociais faz com que os clientes criem cada vez mais o hábito de compartilhar suas informações de desempenho, fornecendo poderosos subsídios para o desenvolvimento de novos produtos pela empresa.
+Além disso, com todos esses dados dos clientes em mãos, a empresa pode também indicar produtos específicos para cada um deles, criar promoções e mostrar como era possível melhorar o seu desempenho nas corridas.
+Macy’s
+Uma das mais importantes lojas de departamentos dos EUA, a Macy’s tinha dificuldades para gerenciar um crescimento anual de mais de 50% em dados de venda, além do inventário de cerca de 70 milhões de itens (necessário para garantir a rotatividade de seus produtos no estoque e gerenciamento mais eficiente da cadeia logística).
+Assim, utilizaram um extenso portfólio de ferramentas de análise de grandes volumes de dados (como Hadoop, Tableau e Vertica), bem como cientistas de dados especializados em trabalhos estatísticos.
+Resultado? Redução do tempo gasto em análises de preços: de 27 horas para uma hora; redução de custo com hardware: na faixa de 72%; além, é claro, da implantação de um sistema de gestão mais eficiente em suas políticas de estoque.
+E aí, ficou interessado no trabalho de Big Data Analytics? Compartilhe com a gente suas dúvidas e até a próxima!

@@ -1,0 +1,51 @@
+A explosão documentária aumentou significadamente a dificuldade de recuperar informação em sistemas manuais.
+O processo de recuperação de informação compreende basicamente três etapas: indexar, armazenar e recuperar.
+
+Com o advento da informática, indexar, armazenar e recuperar informações tornaram-se uma tarefa mais simples e eficiente, por 
+haver recursos que permitem maior rapidez nestes três processos.
+
+Para proporcionar a distribuição de dados e a prestação de uma variedade de serviços com documentos eletrônicos, é 
+imprescindível o uso do computador e das telecomunicações.
+
+Inicialmente, o computador foi usado para armazenar informações bibliográficas e gerar índices impressos que poderiam ser 
+consultados da mesma maneira que se consultam os índices impressos produzidos manualmente. Hoje, os sistemas informatizados 
+oferecem uma infinidade de recursos de busca, como as consultas utilizando uma combinação complexa de termos, feitas em linha a 
+bases de dados, que não podemos comparar aos dos sistemas manuais. A cada dia nos deparamos com novas tecnologias de recuperacão 
+de informação, a telemática surge para reduzir drasticamente as distâncias por intermédio das redes de teletransmissão de dados 
+e a multiplicação, não só da potência e velocidade de processamento, mas também dos recursos lógicos por meio de redes locais e 
+remotas, que se integram nos chamados sistemas abertos, equipamentos informáticos de tipos mais variados [Cun-94].
+
+Um outro fator relevante diz respeito às interfaces dos sistemas de recuperação de informação. Elas se baseavam em comandos, 
+tornando-se confusas, de difícil entendimento e impenetráveis pelo usuário inexperiente. Era necessário que o mesmo aprendesse 
+várias formas e expressões sintáticas para que pudesse realizar as suas tarefas rotineiras. Para vencer essas dificuldades, os 
+sistemas de recuperação adotaram as interfaces baseadas em menus, para, dessa forma, torná-los acessíveis aos usuários 
+inexperientes ou ocasionais.
+
+Atualmente é cada vez mais freqüente o uso de interfaces gráficas nesses sistemas, que têm como principal benefício, tornar as 
+atividades do usuário final, diante da máquina, bastante comuns, disponibilizando recursos gráficos que simulem as atividades do 
+cotidiano do usuário, quando este deseja realizar determinada tarefa. Isto se resume por uma fácil memorização das tarefas a 
+realizar[ [Shn-92].
+
+Visando a recuperar informação de forma eficiente e eficaz, os mais diversos centros de documentação, serviços de informação e 
+bibliotecas construíram suas bases de dados, que são fontes de informação automatizada que podem ser pesquisadas de diversos 
+modos. Elas podem ser armazenadas em meios magnéticos ou ópticos e acessadas local ou remotamente.
+
+A tecnologia do Compact Disc/Read Only Memory ¾ CD -ROM - discos compactos de memória apenas para leitura ¾ suporta as mais 
+criativas bases de dados em multimídia e tem como vantagens: a grande capacidade de armazenamento, pois pode conter milhões de 
+páginas de texto, permitindo o uso de som e imagens gráficas de fácil utilização [Row-94]. Esta tecnologia foi utilizada 
+inicialmente para distribuir bases de dados de modo a não sobrecarregar as bases centralizadas e, atualmente, vem substituindo documentos impressos, tais como, coleções de revistas, enciclopédias, anais etc.
+
+Atualmente, o surgimento da Internet como fonte de informação, disponibilizando os seus mais diversos serviços, possibilitou o acesso a uma enorme quantidade de bases de dados, como STN International, Dedalus etc., e também aos acervos das grandes bibliotecas, como Library of Congress, Biblioteca Nacional, Public Library etc., de maneira rápida e eficiente.
+
+Serviços de Recuperação
+
+O avanço tecnológico, que possibilita a disseminação da informação por computadores, CD-ROM e outros meios de armazenamento, torna-nos cada dia mais exigentes, buscando meios mais eficientes de armazenar e de principalmente recuperar a informação.
+
+As bibliotecas e os demais serviços de informação construíram suas bases de dados que podem ser acessadas por meio das redes de telecomunicações em nível nacional e internacional, e também mediante a atuação dos servidores em linha que são responsáveis pela integração de uma variedade de bases de dados produzidas por si mesmas ou por outras instituições, bem como pelos mecanismos necessários para que essas bases sejam consultadas remotamente.
+
+Segundo Cuadra [Cua-89], no seu diretório de bases de dados on-line até 1988 constam mais de 500 desses servidores e a tendência é aumentar cada vez mais. Até então, estas bases de dados estavam disponíveis por meio de comunicação em linha. Em 1990, praticamente inexistiam servidores disponíveis na Internet. Em 1994, as instituições produtoras começaram a disponibilizar seus serviços na Internet e atualmente projeta-se um total de oito milhões de servidores ao final de 1996.
+É possível que uma determinada base de dados se encontre acoplada a diversos servidores e que podem conter informações similares entre si.
+
+Como podemos notar, existem muitos serviços específicos para recuperação de informação bibliográfica dificultando que uma pessoa que necessite de uma informação, conheça e acesse o serviço adequado.
+
+Um levantamento feito por Cecília Pontes[Pon-94] sobre os recursos e serviços de informação disponíveis nos institutos de pesquisa da Asssociação Brasileira das Instituições de Pesquisa Tecnológica Industrial (Abipti), nos itens bases de dados adquiridas pela instituição e acesso a bancos de dados e redes de informação nacionais e internacionais, constatou-se que somente cinco institutos de pesquisa fazem acesso regularmente a banco de dados on-line internacionais. Os serviços mais utilizados foram Dialog, STN International, Pergamon, Telesystems e Bases em CD-ROM.

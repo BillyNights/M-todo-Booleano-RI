@@ -1,0 +1,128 @@
+A MODELAGEM PROBABILÍSTICA NA RECUPERAÇÃO DE INFORMAÇÃO
+Na recuperação de informação, a modelagem probabilística é
+utilizada para classificar documentos em ordem decrescente de probabilidade
+de relevância de acordo com uma solicitação do usuário (CRESTANI, 1998).
+Pesquisas antigas e recentes usam a teoria probabilística e estatística para
+estimar as relevâncias, diferindo do modelo espaço vetorial (SALTON, 1968)
+em que cada documento é classificado de acordo com a sua similaridade para
+a consulta.
+As primeiras tentativas para se desenvolver uma teoria
+probabilística de recuperação de informação são datadas de 1960 e desde
+então esta abordagem vem sendo desenvolvida (ALLAN, 2002). Existem
+diversos sistemas baseados em modelos probabilísticos e semi-probabilísticos,
+várias teorias e modelos que comprovam a eficácia do modelo probabilístico
+(ROBERTSON, 2000). O maior obstáculo para esses sistemas é encontrar
+métodos para estimar as probabilidades que serão usadas para avaliar a
+relevância e não-relevância dos documentos. Nos estágios iniciais de uma
+aplicação do modelo probabilístico, os documentos são tratados como
+independentes para facilitar a questão computacional (GILDEA, 2001). Um
+outro obstáculo segundo Pavlov e Smyth (2001), é o tempo gasto para a
+recuperação de uma informação solicitada, dado que se torna necessário
+estimar as probabilidades de relevância e não-relevância. Uma outra
+abordagem do modelo probabilístico é a que utiliza a freqüência dos termos
+nas estimativas das probabilidades; essa abordagem foi trabalhada por Amati e
+Van Rijsbergen (2002) e Greiff et. al. (2002). Em uma outra abordagem,
+sugerida por Gey (1994), para um termo t pertencente a um documento, podese
+utilizar a freqüência inversa do documento, através da razão entre o número
+de documentos da coleção (N) e o número de documentos com o termo t (nt),
+para determinar a probabiliidade de relevância de um termo.
+25
+Também foram desenvolvidos modelos que utilizam hipóteses
+e teoria estatística. Seu principal inconveniente é a necessidade da heurística
+para a descrição e recuperação dos documentos, o que não é apropriado para
+estimar a probabilidade de relevância e não-relevância (COOPER, 1995).
+Outro conceito para aplicação do modelo probabilístico é o
+modelo probabilístico exponencial, que considera a freqüência do termo no
+corpo do documento e o tamanho do documento para estimar as
+probabilidades de relevância e não-relevância numa consulta; essa abordagem
+é proposta por Teevan e Karger (2003).
+Segundo Croft et. al. (2001) e FUHR (1986), o modelo
+probabilístico é muito eficaz para sistemas de recuperação de informação,
+mesmo tendo suas raízes na literatura há muitos anos atrás, devido ao sucesso
+na classificação de documentos.
+4.2. A MODELAGEM PROBABILÍSTICA
+Os modelos probabilísticos trabalham com um conjunto Q de
+consultas e um conjunto D de documentos de uma coleção (FUHR e PFEIFER,
+1994). Na maioria dos modelos de recuperação de informação as consultas e
+os documentos são representados por palavras-chave (termos de indexação),
+freqüentemente extraídos manualmente ou automaticamente, como visto nas
+seções anteriores. Essas palavras-chave são representadas como um vetor
+onde cada elemento corresponde a um termo.
+Uma consulta é uma expressão de uma solicitação de
+informação, sendo considerada um evento único. Se dois usuários solicitam
+uma mesma consulta ou se consultas semelhantes são solicitadas de dois
+usuários semelhantes em duas ocasiões diferentes, as duas consultas são
+consideradas diferentes. Uma consulta é submetida ao sistema que busca a
+informação relevante para a solicitação.
+Entre os documentos recuperados, o usuário decide quais são
+relevantes ou não. O sistema usa essa informação para refinar a descrição do
+26
+conjunto ideal de respostas. O processo é repetido muitas vezes com a
+finalidade de melhorar a descrição do conjunto. O usuário sempre deve ter em
+mente a descrição da consulta ideal. Segundo Jin e Hauptmann (2002), a
+interação do usuário com o sistema possibilita uma recuperação mais eficaz.
+Um documento é qualquer objeto que contém informação: um
+trecho de texto, uma imagem, um som, ou um vídeo. Porém a recuperação de
+informação concentra-se mais na recuperação de documentos texto. Algumas
+hipóteses são comuns aos modelos de recuperação:
+- as informações solicitadas pelos usuários são submetidas a
+contínuos refinamentos.
+- a recuperação é baseada somente nas representações dos
+documentos e consultas, e não nos próprios documentos e consultas.
+- a representação de objetos é “incerta”, pois a extração de
+termos de indexação de um documento ou de uma consulta para representar
+documentos e consultas é um processo incerto.
+Segundo Crestani et. al.(1998), a teoria probabilística é um
+caminho para tratar essa incerteza na recuperação. O modelo clássico
+probabilístico foi introduzido em 1976 por Roberston e Sparck Jones e mais
+tarde ficou conhecido como modelo de recuperação de independência binária
+(BIR) (BAEZA e RIBERO, 1999). Foram desenvolvidos modelos baseados no
+modelo clássico probabilístico que podem ser utilizados na recuperação de
+informação. Destaque para Cooper (1995), que porpôs uma variação do
+Modelo de Independência Binária, e para o Modelo Probabilístico de
+Indexação, proposto por Fuhr (1989) que considera o peso para os termos da
+consulta, dentre outros.
+O modelo probabilístico tenta tratar o problema da recuperação
+de informação dentro da visão probabilística. Dada uma consulta de um
+usuário, há um conjunto de documentos que possui documentos relevantes e
+não-relevantes. Tendo a descrição desse conjunto não se teria problema em
+recuperar esses documentos. Considerando que as propriedades de um
+27
+conjunto ideal de respostas não são conhecidas de imediato na consulta, tentase
+adivinhar quais seriam essas propriedades. Nesta hipótese inicial pode-se
+gerar uma descrição probabilística preliminar do conjunto ideal de respostas,
+que é usado para recuperar o primeiro conjunto de documentos. Inicia-se uma
+interação com o usuário com a finalidade de melhorar a descrição probabilística
+do conjunto ideal de respostas.
+Segundo Baeza e Ribeiro (1999), o modelo probabilístico é
+baseado na seguinte hipótese:
+Hipótese (Princípio Probabilístico): Dados uma consulta q e um
+documento dj numa coleção, o modelo probabilístico tenta calcular a
+probabilidade do documento dj ser relevante para o usuário. O modelo assume
+que esta probabilidade de relevância depende somente das representações
+dos documentos e das consultas. O modelo assume que há um subconjunto de
+todos os documentos que satisfazem a solicitação do usuário como conjunto
+resposta para a consulta q. O conjunto ideal de respostas é chamado R que é a
+probabilidade global de relevância. Os documentos desse conjunto são os
+documentos relevantes à consulta e os que não estão nesse conjunto são os
+não-relevantes.
+Esta hipótese não é a ideal, pois não declara como são
+computadas as probabilidades de relevância de maneira explicita, e nem o
+espaço de amostra, utilizado para definir as probabilidades, é determinado.
+Baeza e Ribeiro (1999) definem o modelo probabilístico da
+seguinte maneira: para o modelo probabilístico, o peso do termo de indexação
+para uma consulta é representado por wi,q e o peso do termo para o documento
+é representado por wi,j, esses são todos binários, wi,q ∈ {0,1}, wi,j ∈ {0,1}. A
+consulta, que é formada por um subconjunto de termos de indexação, é
+representada por q. +Rq representa que o documento é relevante à consulta q
+e –Rq representa que o documento não é relevante para a consulta q. P(+Rq
+|dj) é a probabilidade de que um documento dj seja relevante para a consulta q,
+e P(–Rq |dj) é a probabilidade de que um documento dj seja não-relevante para
+a consulta q.
+28
+Segundo Salton (1986), dado um documento dj, é necessário
+calcular as probabilidades de relevância e não-relevância. Essas
+probabilidades dependem da relevância individual de um termo de indexação ki
+no documento. Assume-se que o termo ocorre independentemente (princípio
+da independência dos termos) em cada um dos documentos, relevantes ou
+não-relevantes de uma coleção.

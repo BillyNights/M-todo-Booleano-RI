@@ -1,0 +1,8 @@
+Recuperação de informação é um termo amplo e ainda não plenamente
+definido, assim como o próprio termo "informação". Um sistema de recuperação
+de informação não informa o usuário sobre o assunto de seu questionamento, ou
+seja, não muda seu estado de conhecimento. Um sistema de recuperação de
+informação apenas informa sobre a existência ou não, e a localização de
+documentos relacionados à sua requisição. Isso exclui os sistemas de perguntas
+e respostas, além de os sistemas do tipo utilizados para acompanhamento de
+movimento em bolsas de valores. 

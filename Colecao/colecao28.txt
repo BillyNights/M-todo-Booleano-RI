@@ -1,0 +1,9 @@
+A recuperação de informações em bases de dados é um assunto bastante discutido pelos profissionais das TIC. A Internet tornou esta questão ainda mais urgente. A difusão do seu uso ampliou a necessidade de aceder, de forma rápida e precisa, informações armazenadas em base de dados gigantescas.
+A Internet é um conjunto de inúmeras redes de computadores ligadas entre si, que permite a comunicação, partilha de informações, programas e equipamentos entre os seus utilizadores. Constitui a infra-estrutura sobre a qual circula grande volume de informações.
+Ao contrário das bibliotecas, os documentos na Internet não estão classificados segundo um padrão determinado. Portanto,a dificuldade do utilizador é localizar informação num grande volume de páginas disponíveis, sem qualquer organização, usando palavras chave.
+Encontrar informação depende, principalmente do uso eficiente das ferramentas de pesquisa. Para explorar todo o potencial desses motores, o utilizador precisa de conhecer:
+
+As suas características e limitações;
+Todas as possíveis formas de interacção;
+Linguagem na pesquisa;
+Reunir dados sobre a estruturação da informação em diferentes bases de dados.

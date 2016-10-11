@@ -1,0 +1,25 @@
+Os padrões observados nos mais diversos episódios diários é uma verdadeira fonte de conhecimento para o ser humano.
+ É assim que nascem hipóteses e teorias, impulsionando o crescimento e o desenvolvimento da sociedade. Com o advento
+ da era tecnológica, essa ideia ganhou um novo direcionamento para abranger também a observação de informações geradas
+ em ambientes digitais, dando origem a um processo denominado de mineração de dados (do inglês, data mining).
+Para ser mais específico, o conceito refere-se a um conjunto de técnicas de análise matemática que busca padrões e tendências
+ a partir de um grande número de dados. Normalmente, essas informações não podem ser obtidas em um estudo tradicional, tanto pela 
+ complexidade quanto pela quantidade de dados e, por isso, contam com a tecnologia como importante aliada para análise. Os resultados obtidos podem ser utilizados para desenvolver pesquisas científicas e também para impulsionar a lucratividade de uma empresa, tornando-a inovadora e competitiva no mercado.
+Neste último caso, a mineração de dados possibilita que os empreendimentos consigam refinar toda a informação gerada diariamente pelos
+ departamentos, buscando padrões e vínculos entre eles. Como consequência, é possível conhecer melhor os clientes, seus padrões de 
+ consumo e motivações, facilitando a tomada de decisões. Além disso, os resultados obtidos com a análise permitem conhecer as tendências
+ do mercado, de modo que os gestores possam fundamentar as ações na hora do planejamento.
+Laboratório de Mineração de Dados em Joinville
+As empresas do norte catarinense também podem aproveitar os benefícios dessas técnicas e ganhar vantagem competitiva. Desde fevereiro 
+de 2016, está em funcionamento no Inovaparq o Laboratório de Mineração de Dados, disponibilizando conhecimentos estratégicos relacionados
+ a diferentes ramos. Para isso, são desenvolvidas atividades de coleta e análise em bases de dados públicas e privadas.
+O projeto surgiu a partir da necessidade de compreender perspectivas relevantes sobre como lidar com a tecnologia, uma vez que ela está cada
+ vez mais presente na vida das pessoas e, consequentemente, no ambiente corporativo. Prova disso é a estimativa de que o mundo usou cerca de 
+ 2,8 zettabytes de dados em 2015, o que corresponde a 2,8 bilhões de HDs com capacidade de 1 terabyte.
+O laboratório em Joinville é resultado de uma parceria do Inovaparq com o Instituto Miguel Abuhab (IMA), o Perini Business Park e o Lovedata.
+ Os conhecimentos nele obtidos servirão como base para o desenvolvimento de soluções em inovação, construção de estratégias de marketing,
+ redução de custos, gerenciamento do relacionamento com o cliente, análise do comportamento do consumidor, melhoria no processo de vendas,
+ dentre outras vantagens. Além disso, o projeto conta com a participação de professores universitários, cuja missão é aprimorar a qualidade
+ das informações, ajudando na interpretação dos conteúdos disponibilizados.
+A mineração de dados é uma forma eficaz de garantir o crescimento corporativo fundamentado em decisões precisas e certeiras. Afinal, informação 
+é poder e proporciona grande vantagem diante dos concorrentes.

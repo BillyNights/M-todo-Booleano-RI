@@ -1,0 +1,55 @@
+Um Sistema de Informação (SI) é um sistema cujo elemento principal é a
+informação. Seu objetivo é armazenar, tratar e fornecer informações de tal
+modo a apoiar as funções ou processos de uma organização.
+Um SI é composto de um sub-sistema social e de um sub-sistema
+automatizado. O primeiro inclui as pessoas, processos, informações e
+documentos. O segundo consiste dos meios automatizados (máquinas,
+computadores, redes de comunicação) que interligam os elementos do
+sub-sistema social.
+As pessoas, juntamente como os processos que executam e com as
+informações e documentos que manipulam, também fazem parte do SI. O
+SI é algo maior que um software, pois além de incluir o hardware e o
+software, também inclui os processos (e seus agentes) que são executados
+fora das máquinas.
+Isto implica em que pessoas que não usam computadores também façam
+parte do sistema e, conseqüentemente, necessitem ser observadas e
+guiadas pelos processos de planejamento e análise de sistemas.
+O perigo de não se dar atenção ao aspecto social é que os sistemas
+automatizados, não sejam eficazes ou não possam ser utilizados, apesar de
+estarem funcionando perfeitamente (pelo menos, em ambientes de teste).
+No ambiente real, os aspectos sociais interferem e muito no
+funcionamento do SI. Os processos podem ser modificados em razão de
+aspectos sociais não bem controlados. Por esta razão, é que existem
+muitos sistemas que após implantados acabam não sendo utilizados ou até
+mesmo trazendo prejuízos ou dificultando o trabalho nas organizações.
+É responsabilidade do Analista de Sistemas definir os objetivos do SI, as
+informações que o SI manipulará, os processos e pessoas que farão parte
+do SI, as máquinas que serão usadas nos processos e o interrelacionamento
+entre os vários SI’s na organização.
+Vários tipos de SI’s podem ser utilizados nas organizações. Os sistemas
+foram classificados de acordo com seus objetivos e tipos de informações
+que manipulam, mas nada impede que um mesmo SI, encontrado em
+alguma organização, esteja classificado em mais de um tipo.
+Sistemas de Informação Rotineiros ou Transacionais
+Os SI’s Rotineiros são os mais simples e os mais comuns nas
+organizações. Eles apóiam as funções operacionais da organização,
+aquelas realizadas no dia-a-dia. Por isto, são facilmente identificados no
+nível operacional da organização.
+Geralmente, são os primeiros a serem implantados, apesar de esta não ser
+necessariamente uma regra. A razão é que são os mais fáceis e baratos de
+serem implementados (ou adquiridos), além de darem origem aos sistemas
+mais avançados (gerenciais e de apoio à decisão).
+Os Rotineiros têm por objetivo processar dados, isto é, fazer cálculos,
+armazenar e recuperar dados (consultas simples), ordenar e apresentar de
+forma simples dados para os usuários. Seu benefício principal é a
+agilização nas rotinas e tarefas, incluindo documentação rápida e eficiente,
+busca acelerada de informações e cálculos rápidos e precisos.
+Entretanto, outros benefícios podem ser conseguidos com este tipo de
+sistema, como por exemplo confiabilidade, redução de pessoal e custos e
+melhor comunicação (interna entre setores ou externa com clientes e
+fornecedores).
+Entre os Rotineiros, incluem-se: sistemas de cadastro em geral (inclusão,
+exclusão, alteração e consulta), como de clientes, produtos e fornecedores;
+os sistemas de contabilidade (contas a pagar e a receber, balanços, fluxo
+de caixa, etc); sistemas de vendas e distribuição (pedidos, entregas), folha
+de pagamento, controle de estoque.

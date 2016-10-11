@@ -1,0 +1,80 @@
+PERIÓDICOS ELETRÔNICOS
+Na década de 80, diversos editores e bibliotecas passaram a se interessar pela
+construção de coleções on-line de jornais científicos. As barreiras técnicas que
+inviabilizavam muitos projetos estavam desaparecendo. O custo da hospedagem on-line
+estava abaixando, computadores pessoais e redes estavam se popularizando e bons
+programas de banco de dados estavam sendo disponibilizados (ARMS, 2000, p. 46).
+As primeiras tentativas para digitalizar a informação científica e torná-la
+disponível via redes tiveram início em 1988, com o projeto Mercury Eletronic Library
+(Carnegie Mellon University) e, posteriormente, com o CORE (Cornell University).
+Como toda informação estava em papel e não existiam recursos como OCR
+(Reconhecimento de Caracteres), a forma encontrada era a digitalização destes
+documentos transformando-os em imagens.
+Mais tarde, a High Press, uma venture da Stanford University Libraries, através
+de várias parcerias, conseguiu disponibilizar diversos periódicos on-line. O primeiro
+deles foi o
+Journal of Biological Chemistry. Em três anos a iniciativa publicou quase cem jornais
+online,
+dentre eles o Science da American Association for the Advancement of Science
+(AAAS). A AAAS se surpreendeu com o número de visitantes semanais do site, sendo
+que a maioria deles não eram leitores tradicionais de Science. Essa constatação estava
+em contraposição à idéia, comum nos anos 90, e que ainda permanece até hoje, de que
+se o material estivesse disponível on-line a versão impressa sofreria conseqüência nas
+vendas (ARMS, 2000, p. 49).
+Na medida em que os editores perceberam as novas possibilidades e
+potencialidade do
+meio eletrônico, para divulgação, e mesmo ganhos financeiros, o número de periódicos
+eletrônicos on-line aumentou rapidamente. Muitos abandonam a forma impressa,
+principalmente devidos aos altos custos de impressão. Outros periódicos surgiram
+somente na forma digital.
+Algumas das vantagens dos periódicos eletrônicos são:
+a) Proteção do acervo: as coleções digitais evitam que os exemplares de periódicos
+sejam perdidos, marcados, copiados ilegalmente ou mutilados antes de serem
+devolvidos à biblioteca (DAVENPORT, 1998, p. 144).
+b) Imprimir & distribuir versus distribuir & imprimir (LEVACOV, 1997, p. 130): a
+seleção dos artigos para posterior impressão, na íntegra ou em partes, evita desperdícios
+de recursos.
+c) Recuperação da informação: participantes de estudos indicam que os periódicos
+eletrônicos levam vantagem sobre os periódicos tradicionais, na procura e a busca de
+informações (ROGERS, 2001).
+d) Redução dos custos: conforme citado, o custo de impressão atualmente é bem
+superior ao custo da disponibilização do mesmo item em mídia digital. Além da redução
+do custo de impressão, eliminam-se custos do armazenamento físico e também da
+depreciação do material. 
+4
+Entretanto, estudos demonstram que muitos usuários reclamam, ao utilizaram
+bibliotecas digitais, de fatores como lentidão de acesso lento, necessidade de longo
+percurso para capturar um artigo, e dificuldades de visualizar o objeto digital. Desse
+fator, entre outros, decorre a necessidade de estudos que avaliem seu uso e aceitação.
+O significado de “Avaliação” toma diferente forma em muitos contextos.
+Hernon e Maclure (apud HARTER; HERT, 1997, p.5) definem a avaliação como o
+processo de identificar e coletar dados sobre serviços e atividades específicas,
+estabelecer critérios possibilitando que o sucesso possa ser analisado, e determinar a
+qualidade do serviço e o grau com que o serviço atingiu o objetivo e metas inicialmente
+traçadas.
+Um usuário reconhece a necessidade de informação. O usuário se dirige a um
+sistema de recuperação da informação com uma consulta com base no que necessita. O
+sistema então compara a consulta com representações nos documentos do sistema. A
+tarefa do sistema é retornar ao usuário o texto ou os textos que mais satisfaçam à
+necessidade do usuário. A intenção é que alguns ou todos os documentos apresentados
+satisfarão, parcialmente ou totalmente, a necessidade de informação do usuário. (ELLIS
+apud HARTER; HERT, 1997, p.16).
+ Os primeiros estudos sobre avaliação de sistemas da informação relacionavam
+que o nível de satisfação do usuário com o resultado apresentado pelo sistema de
+recuperação da informação estava interligado com a porcentagem de resultados
+relevantes retornados por sua pesquisa.
+ Em 1950 surgiu o modelo de Cranfield, como um dos primeiros métodos de
+avaliação de sistemas de recuperação da informação. Desde então, diversos outros
+métodos e instrumentos foram criados, focando a relevância do resultado da busca
+retornado pelo sistema de recuperação da informação com a consulta inicial do usuário.
+São exemplos o método de Bootstrap, testes de significância, a distribuição
+hipergeométrica e o método de Monte Carlo. Com base nestes métodos e instrumentos
+sugiram vários projetos como o Stairs da IBM e o TREC da National Institute of
+Standars and Techonology (NIST) de 1993 (HARTER; HERT, 1997).
+ À medida que estes novos métodos, instrumentos e ferramentas com foco na
+relevância do resultado retornado dos sistemas de recuperação da informação foram
+utilizados, surgiu também o conceito de ligações lógicas entre estes resultados.
+Atualmente este conceito está relacionado à ligação, significância da relevância, entre
+dois objetos digitais. Através da utilização de um estudo de outra área do conhecimento
+fez-se uma associação da lei de aprendizagem de Hebb com a solicitação de
+documentos em sistemas de informação (BOLLEN; LUCE, 2002). 

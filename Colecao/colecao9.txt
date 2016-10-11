@@ -1,0 +1,30 @@
+Gerência de Dados na Web (GDW)
+
+No cenário tradicional da Web, há uma dificuldade inerente para se ter acesso aos dados presentes em suas páginas e que não
+estejam prontamente disponíveis para essa finalidade. Essa dificuldade se deve principalmente à natureza não-estruturada dos
+objetos da Web, cujo acesso e recuperação de forma geral só são possíveis, e de forma limitada, por meio de máquinas de busca
+como Google, Yahoo! e MSN13.
+
+Entretanto, uma grande porção da Web é composta de páginas que podem ser vistas como contêineres de dados já que elas contêm
+implicitamente dados que podem ser identificados, extraídos e manipulados de forma independente. Exemplos dessas páginas são
+encontrados em sites da Web tais como livrarias e lojas eletrônicas, agências de viagens, anúncios classificados, entre outras.
+Para essas páginas, genericamente denominadas de “páginas ricas em dados” [53], além de localizá-las e recuperá-las de forma 
+eficiente, um novo problema é como manipular de forma adequada os dados que elas contêm. Na verdade, isso leva a um paradoxo 
+interessante uma vez que, embora amplamente disponíveis, os dados encontrados na Web não podem ser facilmente consultados e 
+manipulados como em um banco de dados tradicional. Mesmo com o aparecimento de padrões como XML14 e RDF15, que permitem prover 
+alguma forma de estrutura à Web, a grande maioria do seu conteúdo é ainda composto de páginas HTML disponíveis de forma estática 
+ou geradas dinamicamente.
+
+O termo Gerência de Dados da Web (GDW) tem sido usado na literatura recente [21, 59, 79] para se referir ao estudo de problemas 
+relacionados à coleta, extração, modelagem, consulta, armazenamento, transformação e integração de dados disponíveis na Web. Nos 
+últimos anos, esses problemas têm atraído cada vez mais a atenção da comunidade científica, não só devido aos desafios técnicos 
+e científicos envolvidos, mas principalmente à enorme demanda da indústria por soluções efetivas para resolvê-los.
+
+Assim, técnicas de GDW são determinantes para a solução de vários problemas relacionados a temas do Desafio 2. Por exemplo, 
+essas técnicas são fundamentais para se gerar agentes capazes de navegar pela Web Oculta preenchendo automaticamente formulários 
+e coletando as páginas geradas contendo dados de interesse [80], conforme previsto no objetivo específico 2.1. Técnicas de GDW 
+são também fundamentais para se tratar vários problemas relacionados aos objetivos específicos 2.5, 2.6, 2.7, 2.8 e 2.10, por 
+exemplo, para extrair citações bibliográficas [117] ao se estudar redes de co-autoria (objetivo específico 2.6), reconhecer 
+referências a lugares [109] (objetivos específicos 2.1, 2.3 e 2.8), determinar a correta identificação de objetos, [34, 51] na 
+identificação de versões de documentos (objetivo específico 2.7) e desenvolver interfaces de consulta baseadas em palavras-chave 
+[31, 86] que permitam a rápida integração de fontes de dados da Web (objetivo específico 2.7).

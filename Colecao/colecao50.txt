@@ -1,0 +1,20 @@
+ A busca de informações textuais difere da busca de informações tradicional que érealizada nosBancos de Dados Tradicionais. Segundo [SAL83], 
+ os Bancos de Dados Tradicionais preocupam-se com o armazenamento, manutenção e a recuperação deinformações disponíveis 
+ explicitamente no sistema. Ao contrário dos Bancos de DadosTextuais onde a informação está implícita,muitas vezes escondida ou difícil
+ de serlocalizada, em forma de
+ Linguagem Natural. Neste último, não há Campos, capazes deidentificar os Atributos específicos de determinados Registros, ou seja, as informaçõesnão estão armazenadas em
+Tabelas como em Bancos de Dados Relacionais.Por exemplo, para se buscar informações sobre determinada pessoa em um Bancode Dados (BD) tradicional basta percorrer no BD a Tabela que possui o atributo
+ Nome elocalizar o Registro (Tupla) que possui o nome da pessoa desejado (em [KOR94] podemser obtidas maiores informações e exemplos sobre Bancos de Dados Tradicionais).Caso o Banco de Dados citado fosse textual, os dados não estariam distribuídos deuma forma
+tabular. Até mesmo porque o texto é uma seqüência de caracteres, nãoexistindo atributos. Não há como saber o que é um nome em um documento, a não serque se faça uma análise de
+ Linguagem Natural e se descubra o que pode vir a ser umnome - o que não é fácil de ser feito (maiores detalhes sobre as diferenças entre osvários tipos de Sistemas de Informação podem ser obtidos em [SAL83]).
+ Logo, para localizar as informações sobre determinada pessoa, em um Banco deDados Textual,
+ seria necessário analisar caracter-por-caracter do texto até que aseqüência de caracteres correspondente ao nome fosse
+ localizada.Este tipo de análise (caracter-a-caracter) não é conveniente. É necessário haveralguma forma mais eficiente 
+ de acesso aos documentos. Para isto, os documentosprecisam de algo que os identifique entre os demais, permitindo a sua 
+ localização.Sabe-se que os documentos textuais possuem um contexto, isto é, um assunto.Este assunto pode ser identificado 
+ pelas palavras (termos) que este documento contém.Portanto, o termo é o meio de acesso a um documento.Decorrente disso, um Sistema de
+ Recuperação de Informações Textuais tem comobase a seguinte teoria, proposta por [SAL83]: perguntas (consultas) são submetidas pelousuário.
+ Perguntas estas baseadas em termos (palavras) que identificam a idéia desejadapor este usuário. Os documentos são identificados pelos termos
+ que eles contém, e,portanto, a localização de um documento desejado pelo usuário dá-se a partir daidentificação da similaridade entre o(s)
+ termo(s) fornecido(s) pelo usuário e os termosque identificam os documentos contidos na base de dados. A figura a seguir 
+ representaesquematicamente esta teoria

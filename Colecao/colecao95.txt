@@ -1,0 +1,38 @@
+O sistema de classificação proposto tanto por Dewey quanto por
+Otlet, apresentam uma forma essencialmente hierárquica de organização
+da informação, que está em divergência com o modo na qual se dá a
+organização do conhecimento, segundo a opinião dos autores analisados
+neste trabalho. A estrutura do conhecimento aqui analisada sinaliza para métodos
+de RI que possam ser mais flexíveis, como é o caso da taxonomia, e,
+ainda, que possam conter relações entre os conceitos, ou seja, que
+considerem as ligações (nós ou links) entre os conceitos. Em uma
+reflexão, um possível caminho seria considerar que esses links poderiam
+ser estabelecidos pelo próprio usuário, ficando registrados na rede; dessa
+forma, seria possível a representação de uma estrutura de conhecimentos
+confeccionada por múltiplos usuários, que, por sua vez, possibilitaria a
+detecção de conceitos centrais e amarrados, o que vai de encontro com a
+proposta de Vannevar Bush, em que pese o fato da tecnologia se
+apresentar como a extensão do pensamento humano.
+A identificação de tais conceitos, dentro de um domínio de
+conhecimento, poderia contribuir tanto para os processos de RC quanto
+de RI, apontando, assim, para uma nova forma de organização da
+informação, a partir da análise das estruturas do conhecimento. Sendo
+assim, pensando principalmente na era digital, há um destaque para as
+taxonomias e ontologias, que facilitam a manipulação da informação para
+usuários e sistemas, respectivamente. Podemos afirmar que isso pode
+facilitar a RC.
+Parece claro que há dependência da informação em relação ao
+conhecimento e vice-versa, como já afirmado anteriormente, ao longo do
+texto. Não é possível fazer uma análise que isole tais conceitos, pois o
+conhecimento se alimenta da informação, que, por sua vez, não tem razão
+de existir, senão para se transformar em conhecimento.
+Portanto, o trabalho levantou questões pertinentes a RC com relação
+a RI, tentando desvendar possíveis elos e conceitos que pudessem definí-
+las. Ocorre que pouca literatura há sobre o assunto, devido, talvez, à
+subjetividade do conhecimento no entendimento da CI e a difícil
+identificação de propriedades administráveis desse ativo.
+A partir das reflexões e propostas expostas neste trabalho, esperase
+que novas pesquisas sejam realizadas sobre a temática, visando
+ampliar as investigações sobre conceitos e aplicações da RI em relação à
+RC, além do que, espera-se que futuras pesquisas focalizem outros
+contextos, com novas questões nas estruturas do conhecimento. 

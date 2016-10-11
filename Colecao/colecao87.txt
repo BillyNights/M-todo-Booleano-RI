@@ -1,0 +1,91 @@
+A recuperação de informações em banco de dados é um assunto
+bastante discutido pelos profissionais da ciência da informação. O advento da
+Internet tornou esta questão ainda mais premente. A difusão de seu uso ampliou
+a necessidade de acessar, de forma rápida e precisa, informações armazenadas
+em banco de dados gigantescos.
+A Internet é um conjunto de inúmeras redes de computadores,
+conectadas entre si, que permite a comunicação, partilha de informações,
+programas e equipamentos entre seus usuários. Constitui a infra-estrutura
+sobre a qual trafegam grande volume de informações e outros serviços.
+A Internet teve origem em uma rede, a Arpanet, criada pelo
+Departamento de Defesa dos Estados Unidos no inicio dos anos 70,
+interligando vários centros militares e de pesquisa com objetivos de defesa, na
+época da Guerra Fria. A tecnologia desenvolvida permitia a comunicação entre
+diferentes sistemas de computação, o que possibilitou a incorporação de outras
+redes experimentais que foram surgindo ao longo do tempo.
+Atualmente, parte significativa da informação disponível na Internet é
+fornecida através da World Wide Web ou Web. A Web é um sistema baseado
+em hipertexto, que constitui a capacidade de ligar palavras ou frases de uma
+página Web a outros recursos da Internet através de links. Quando se clica
+com o mouse sobre um link, ele remete para outro ponto dentro do mesmo
+documento, para outra página Web ou mesmo para outro site diferente daquele
+originalmente acessado. Pode-se, ainda, abrir automaticamente uma mensagem
+de e-mail, abaixar algum software ou artigo etc.
+Estão disponíveis na Web milhares de páginas cobrindo os mais
+variados assuntos e interesses. Estimativas recentes afirmam existir cerca de
+2,5 bilhões de documentos, com uma taxa de crescimento de 7,5 milhões ao
+dia1
+. Mas, diferentemente das bibliotecas, os documentos da Internet não estão
+classificados segundo um padrão determinado. Portanto, o usuário precisa
+localizar informações de um grande volume de páginas disponíveis, sem
+qualquer organização.
+Encontrar a informação depende, principalmente, do uso eficiente das
+ferramentas de busca. Para explorar todo o potencial dos buscadores, o usuário
+precisa conhecer: como é coletada e estruturada a informação em diferentes
+bancos de dados; suas características e limitações; todas as possíveis formas
+de interação e suas linguagens de busca.
+Conceitua-se estrutura da informação como a sua organização lógica
+para posterior recuperação e linguagem de busca como os comandos que
+permitem a recuperação da informação através de palavras contidas nos títulos,
+resumos ou outros campos de dados.
+Este artigo pretende mostrar as diferentes formas de coletar e estruturar
+as informações que caracterizam os diversos buscadores disponíveis na Internet,
+como elas afetam os resultados das pesquisas e a importância do uso da
+linguagem controlada no acesso a estes bancos de dados. Este conhecimento
+capacitará o usuário a recuperar, de forma rápida e precisa, a informação que
+precisa.Buscadores, ferramentas de busca ou mecanismos de busca são
+sistemas especializados utiliazados na recuperação de informações na Internet.
+Eles coletam informações sobre os conteúdos dos sites e os armazenam em
+bancos de dados que estão disponíveis para consulta. Realizando uma busca,
+o usuário poderá descobrir a localização exata das informações que deseja.
+As informações são armazenadas em bancos de dados porque são
+flexíveis, fáceis de operar e manter. O acesso a estes bancos de dados em um
+ambiente Web é possível graças a uma interface especial, capaz de traduzir os
+dados armazenados para uma linguagem compreendida pelo Netscape,
+Microsoft Explorer ou outro navegador que estiver sendo utilizado. Entretanto,
+para que o usuário acesse o conteúdo que está por trás da Web, ele precisa
+visitar a página de interface e realizar uma pesquisa específica.
+O usuário digita alguma expressão, geralmente uma palavra ou frase
+no campo de busca, e, em seguida, solicita a pesquisa. Os buscadores procuram
+a ocorrência da linguagem de busca nas informações armazenadas em seus
+bancos de dados. Ou seja, quando se realiza uma busca não se está
+pesquisando diretamente na Internet, mas no banco de dados do buscador
+escolhido.
+As ferramentas de busca oferecem, como resposta ao usuário, páginas
+onde estão relacionados todos os sites armazenados em seu banco de dados
+onde foram verificadas a ocorrência da linguagem de busca. Os resultados são
+apresentados na forma de links de hipertextos, isto é, clicando com o mouse
+sobre uma das frases realçadas (links), o próprio site, que está fora do banco
+de dados do buscador, é trazido para o computador do usuário.
+As páginas que os mecanismos de busca oferecem como resposta não
+são armazenadas no servidor. Elas simplesmente desaparecem após a consulta.
+Estas páginas são transitórias porque é mais barato e fácil reconstruí-las
+novamente do que armazená-las com todas as possíveis opções existentes de
+consulta.
+A eficiência de um buscador será avaliada pela sua capacidade em
+apresentar, logo nas primeiras linhas, informações que atendam às necessidades
+dos usuários. Para isso, seus organizadores construiram um banco de dados
+amplo e com informações de qualidade. Eles devem, ainda, ser capazes de
+entender o que o usuário - a maioria das vezes inexperiente - quer e recuperar
+as informações adequadas.
+A eficiência do usuário, por sua vez, depende de sua capacidade em
+oferecer ao banco de dados elementos suficientes para que sejam selecionados,
+a partir da totalidade das informações armazenadas, um conjunto de itens que
+constituam a resposta que procura.
+As definições, por parte dos desenvolvedores dos sites que serão
+recuperados através do uso da base de dados e a forma como serão ordenados
+contribui decisivamente para a eficiência do buscador. A maioria deles utiliza
+critérios que envolvem localização e freqüência. Analisando os títulos, resumos
+e a freqüência da ocorrência da linguagem de busca nos documentos que
+compõem sua base de dados, definem os sites e a ordem em que serão
+apresentados aos usuários.

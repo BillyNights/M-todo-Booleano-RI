@@ -1,0 +1,13 @@
+Definição e conceito do termo "Ontologia"
+
+O termo ontologia foi e é aplicado em muitas áreas do conhecimento: em Filosofia e mais concretamente na Metafísica, também na 
+Engenharia de Informática no campo da Inteligência Artificial, bem como na Ciência da Informação por gestores do conhecimento e 
+profissionais da informação (Staab & Studer, 2004).
+
+A característica proporciona o uso do conceito em todas estas áreas de conhecimento é que o termo ontologia faz referência aos 
+conceitos de um domínio e as relações que se estabelecem entre eles. Dependendo da área em que se empregam as ontologias, 
+surgirão características próprias a cada uma delas.
+
+O termo ontologia pode ter várias definições relevantes para cada área do conhecimento, mas no âmbito deste trabalho, ontologia 
+é ferramenta adequada para a gestão do conhecimento em sistemas integrais de informação para empresas do sector de 
+telecomunicações.

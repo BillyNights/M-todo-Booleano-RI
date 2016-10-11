@@ -1,0 +1,358 @@
+Mineração de dados em imagens não é apenas a 
+aplicação  de  técnicas  de  mineração  de  dados  no  domínio  
+de imagens. Diferenças relevantes colocam-se entre 
+bancos  de  imagens  e  bancos  de  dados  “convencionais”  
+(relacionais, orientados a objetos, dentre outros). A 
+semântica  dos  elementos  da  imagem,  e  a  multiplicidade  
+de interpretações de padrões visuais, são alguns dos 
+fatores  que  influenciam  e  tornam  desafiadora  a  tarefa  de  
+extração de conhecimento a partir de acervos de imagens. 
+Mediante  o  investimento  para  geração  em  larga  escala  
+de  imagens  (especialmente  de  sensoriamento  remoto  no  
+INPE) e a demanda econômica, política, social e 
+governamental  por  resultados  em  tempo  hábil  (oriundos  
+de informações estratégicas das imagens), aplicações 
+relevantes de mineração de dados em imagens motivam a 
+pesquisa  em  diferentes  áreas:  uso  e  cobertura  do  solo,  
+monitoramento  ambiental,  planejamento  urbano,  
+vigilância territorial, previsão de safra, dentre outros. 
+Propostas  de  arquiteturas  e  ontologias  voltadas  para  
+tarefas  deste  domínio  têm  estado  presentes  em  diferentes  
+trabalhos  e  grupos  de  pesquisa.  O  Sistema  de  Mineração  
+de  Satélite  [Datcu  &  Seidel,  2000],  o  MultiMediaMiner  
+[Zaiane  et  al.,  1998]  e  o  Diamond  Eye  [Burl,  1999]  
+oferecem  recursos  para  tratar  e  minerar  imagens.  
+Descoberta de Conhecimento em Bancos de Dados 
+Guiada por Ontologias [Phillips & Buchanan, 2001], 
+Mineração  de  Dados  Multimídia  Baseada  em  Ontologias  
+[Simoff & Maher, 1998], Sistemas de Informação 
+Geográfica  Baseados  em  Ontologias  [Fonseca  &  
+Egenhofer, 1999], e Usando Ontologias para GIS 
+Integrados  [Fonseca  et  al.,  2002]  aplicam  ontologias  para  
+integrar e minerar dados. 
+Neste  artigo  serão  tratados  aspectos  semânticos  da  
+representação e da extração do conhecimento no domínio 
+da  mineração  de  imagens,  através  da  comparação  entre  
+duas  abordagens  neste  contexto:  a  Arquitetura  Dirigida  à  
+Informação  e  a  Ontologia  de  Imagens.  Na  próxima  seção  
+serão  abordados  elementos  da  mineração  de  imagens,  
+seguida  da  exposição  das  duas  abordagens.  Logo  após,  
+uma  análise  comparativa  entre  Arquitetura  e  Ontologia  
+será efetuada, encerrando com as conclusões.
+2. Mineração de Dados em Imagens 
+O  processo  de  mineração  de  dados  em  imagens  é  
+apresentado na Figura 1. As imagens de um acervo 
+(banco  de  imagens)  são  recuperadas  segundo  critérios  
+inerentes à aplicação. A seguir, uma fase de pré-
+processamento  aumenta  a  qualidade  dos  dados,  os  quais  
+são então submetidos a uma série de transformações e de 
+extração  de  características  que  geram  importantes  
+informações a respeito das imagens. A partir destas 
+informações,  a  mineração  pode  ser  realizada  através  de  
+técnicas  específicas,  com  o  intuito  de  descobrir  padrões  
+significativos.   Os   padrões   resultantes   são   então   
+interpretados   e   avaliados   para   a   obtenção   do   
+conhecimento   final,   que   pode   ser   aplicado   no   
+entendimento de problemas, na tomada de decisões ou em 
+outras atividades estratégicas [Zhang et al., 2002]. 
+Figura 1: O processo de mineração de imagens 
+(extraído de Zhang et al., 2002) 
+Embora  o  esquema  da  figura  assemelhe-se  bastante  ao  
+processo  de  DCBD,  deve-se  salientar  que  mineração  de  
+dados  em  imagens  não  consiste  simplesmente  na  
+aplicação  de  técnicas  de  mineração  de  dados  em  bancos  
+“convencionais” ao domínio de imagens. Segundo [Zhang 
+et  al.,  2002],  diferenças  importantes  entre  estes  bancos  e  
+os bancos de imagens incluem: 
+• 
+Valores  relativos  e  valores  absolutos  -  em  bancos  de  
+dados  relacionais  (por  exemplo),  os  valores  de  dados  são  
+semanticamente significativos. Para ilustrar, seja um 
+atributo idade igual a 42; o valor possui um entendimento 
+claro,  objetivo.  Valores  de  imagens  em  si  podem  não  
+possuir  significância  sem  o  suporte  de  um  contexto.  No  
+caso de um 
+pixel
+ com valor de escala de cinza igual a 46, 
+torna-se  evidente  sua  dependência  dos  
+pixels
+  ao  redor  
+para chegar a alguma informação sobre o mesmo 
+(aparência mais clara, mais escura, constitui borda, etc.). 
+• 
+  Informação  espacial  -  A  informação  espacial  
+implícita  é  crítica  para  a  interpretação  da  imagem,  o  que  
+não  ocorre  com  bancos  de  dados  relacionais.  Com  o  
+intuito  de  minimizar  este  problema,  utiliza-se  a  extração  
+de características independentes de posição em cada 
+imagem  (metadados,  anotações,  etc.)  antes  da  mineração  
+de padrões espaciais (objetos, seus relacionamentos, etc).  
+• 
+  Interpretação  única  e  interpretação  múltipla  -  uma  
+característica  das  imagens  é  a  interpretação  múltipla  dos  
+padrões  visuais.  Neste  caso,  algoritmos  tradicionais  de  
+associação  de  padrões  a  uma  classe  não  são  aplicáveis.  
+Novas  categorias  de  algoritmos  são  então  necessárias,  
+haja  vista  as  demandas  especiais  quando  realiza-se  a  
+mineração e interpretação de padrões a partir de imagens. 
+• 
+ Representação visual dos padrões descobertos - 
+diferentes questões devem ser consideradas: Como 
+representar  padrões  de  imagens  de  forma  que  a  
+informação  contextual  e  espacial  (e  outras  características  
+importantes)  seja  retida  no  esquema  de  representação?  
+Quais  as  características  relevantes  da  imagem  que  devem  
+ser  utilizadas  no  processo  de  mineração  para  que  os  
+padrões descobertos sejam visualmente significativos? 
+Como  representar  padrões  minerados  ao  usuário  num  
+ambiente visualmente rico?
+Um bom exemplo desta problemática, em âmbito 
+nacional,  refere-se  à  evolução  de  padrões  de  uso  da  terra  
+em  áreas  da  Amazônia  [Escada,  2003].  Este  trabalho,  
+baseado na delimitação de regiões que apresentam 
+padrões  espaciais  observáveis  em  séries  temporais  de  
+imagens  (sensor  TM  dos  satélites  Landsat),  desenvolve  
+uma  análise  da  evolução  do  uso  e  cobertura  da  terra  na  
+região Centro-Norte de Rondônia. Dentre os vários 
+elementos abordados na pesquisa, destacam-se: 
+• 
+  Verificação  da  efetividade  da  distribuição  de  terras  
+do INCRA (Instituto Nacional de Colonização e Reforma 
+Agrária); 
+• 
+   Análise   da   influência   das   estradas   (BR’s,   
+secundárias, etc.) na ocupação e na configuração de áreas; 
+• 
+  Preservação  de  áreas  (inclusive  indígenas)  na  atual  
+concepção de assentamentos agrícolas;  
+• 
+ Evolução da vegetação secundária (distribuição 
+espaço-temporal, espécies predominantes, etc.); 
+• 
+ Identificação do tamanho de propriedades e de 
+abandono de áreas; 
+Estes elementos configuram padrões e tendências 
+espaço-temporais, objetos e relacionamentos de alto nível, 
+que demandam a análise de séries de imagens para 
+extração de informações estratégicas. Neles pode-se 
+identificar  os  problemas  e  tópicos  supracitados:  valores  
+relativos/absolutos,   informação   espacial   implícita,   
+interpretação única/múltipla, representação visual de 
+padrões.  Além  disso,  os  métodos  geralmente  utilizados  
+levam os analistas a selecionarem subconjuntos relevantes 
+destas  séries  para  análise  detalhada,  incorrendo  assim  no  
+risco  de  perda  de  fenômenos  e  processos  observáveis  
+apenas  em  conjuntos  de  pequena  granularidade.  Neste  
+contexto, metodologias e algoritmos apropriados de 
+mineração de dados em imagens certamente aprimorariam 
+o resultado final de muitos trabalhos, podendo até 
+enriquecer ou alterar conclusões. 
+2.1. Arquitetura Dirigida à Informação 
+Tomando  por  base  a  premissa  de  que  “um  desafio  
+fundamental na mineração de imagens é determinar como 
+a  representação  de  
+pixel
+  (baixo  nível)  que  está  contida  
+numa  imagem  bruta,  ou  numa  seqüência  de  imagens,  
+pode  ser  processada  para  identificar  objetos  e  
+relacionamentos  espaciais  em  alto  nível”,  [Zhang  et  al.,  
+2001]  propõe  uma  Arquitetura  Dirigida  à  Informação  
+(
+Information-Driven  Framework
+)  que  destaca  o  papel  da  
+informação  em  vários  níveis  de  representação  (Figura  2).  
+Quatro níveis são distintos nesta arquitetura: 
+• 
+  O  nível  mais  baixo  é  o  
+Nível  de  Pixel
+  que  consiste  
+das informações da imagem “bruta”, tais como valores de 
+pixels
+, e de características primitivas, tais como cor 
+(distribuição,  histograma,  etc.),  textura  (arranjo  estrutural  
+das superfícies e seus relacionamentos – contraste, 
+direção, regularidade) e forma (informações de borda).  
+• 
+ O 
+Nível  de  Objeto
+  lida  com  informações  de  objetos  
+ou regiões homogêneas baseadas nos dados primitivos do 
+Nível de 
+Pixel
+, identificando características específicas ao 
+domínio. Algoritmos de agrupamento (
+clustering
+) e 
+segmentação, aliados ao conhecimento do domínio, 
+podem  ajudar  a  particionar  as  imagens  em  objetos  ou  
+regiões  significativas.  Modelos  de  objetos  podem  ser  
+fornecidos para a identificação de elementos na imagem.  
+• 
+ O 
+Nível  de  Conceito  Semântico
+  coloca  os  objetos  e  
+regiões  (identificados  no  Nível  de  Objeto)  no  contexto  
+das  imagens,  tentando  capturar  conceitos  abstratos  no  
+cenário  formado.  Raciocínio  em  alto  nível  e  técnicas  de  
+descoberta de conhecimento (classificação e agrupamento 
+de imagens, regras de associação, etc.) são utilizados para 
+gerar conceitos semânticos e descobrir padrões relevantes. 
+• 
+ O 
+Nível  de  Padrões  e  Conhecimento
+  integra  dados  
+alfanuméricos   relacionados   ao   domínio   com   
+relacionamentos  semânticos  descobertos  nos  dados  da  
+imagem.  Por  exemplo:  a  integração  de  dados  censitários  
+(dados alfanuméricos relacionados ao domínio) com 
+configurações   e   padrões   de   ocupação   do   solo   
+(relacionamentos semânticos descobertos na imagem) 
+pode revelar fenômenos populacionais interessantes e 
+previamente desconhecidos.  
+Nos  três  primeiros  níveis  da  arquitetura  encontram-se  
+componentes  responsáveis  pela  indexação  e  recuperação  
+de imagens, pois sem o acesso eficiente a subconjuntos de 
+imagens e informações derivadas das mesmas não se pode 
+considerar  factível  a  mineração  neste  domínio.  Para  cada  
+nível  verifica-se  a  presença  de  repositórios  destes  dados  
+(imagens,  objetos/regiões,  conceitos  semânticos,  
+padrões/conhecimento), além de módulos específicos para 
+o  tratamento  da  informação  nos  respectivos  
+níveis/repositórios  (processamento  de  imagens,  extração  
+de características, descoberta de conhecimento, integração 
+de informações alfanuméricas). Componentes do domínio 
+do  conhecimento  e  de  informações  alfanuméricas  (dados,  
+padrões,  etc.)  interagem  com  elementos  da  arquitetura  
+através do tratamento e integração destas informações em 
+pontos específicos de cada nível.  
+Os   quatro   níveis   de   informação   podem   ser   
+generalizados  em  duas  camadas:  os  níveis  de  
+Pixel
+  e  de  
+Objeto  formam  a  camada  mais  baixa,  enquanto  os  níveis  
+de  Conceito  Semântico  e  o  de  Padrões  e  Conhecimento  
+formam  a  camada  superior.  A  primeira  contém  
+informações  “brutas”  e  também  as  extraídas  da  imagem,  
+caracterizando-se  por  processos  como  análise,  
+processamento  e  reconhecimento  da  imagem.  A  camada  
+mais  alta  lida  com  operações  de  imagem  em  alto  nível,  
+como  geração  de  conceito  semântico  e  descoberta  de  
+conhecimento a partir de coleções de imagens. 
+Verifica-se então que a busca da informação em 
+imagens demanda conhecimento, esforço e habilidade em 
+diferentes domínios, metodologias e ferramentas, as quais 
+são muitas vezes distintas, com pouco ou nenhum grau de 
+integração. Esta arquitetura baseada em níveis da 
+informação  contribui  na  questão  do  fluxo  desta  
+informação,  oferecendo  a  possibilidade  de  manipulação  
+de  dados  em  diferentes  formatos,  estruturas  e  fases  de  
+processamento. 
+Figura 2: Arquitetura de mineração de imagens 
+dirigida à informação (extraído de Zhang et al., 2001) 
+Componentes com nomenclatura abreviada na figura 2: 
+• 
+ Indexação: ICP (características primitivas), IOR 
+(objetos/regiões), ICS (conceito semântico)  
+• 
+  Recuperação:  RCP  (características  primitivas),  ROR  
+(objetos/regiões), RCS (conceito semântico)  
+2.2. Ontologia de Imagens 
+Uma ontologia (como artefato de engenharia) descreve 
+uma certa realidade com um vocabulário específico, 
+utilizando  um  conjunto  de  hipóteses  relativas  ao  
+significado  intencional  das  palavras  deste  vocabulário  
+[Fonseca  &  Egenhofer,  1999].  Pode-se  também  definir  
+ontologia  como  teorias  de  conteúdos,  as  quais  possuem  
+um  conjunto  geral  de  fatos  a  serem  compartilhados,  cuja  
+principal  contribuição  é  identificar  classes  específicas  de  
+objetos  e  relacionamentos  que  existam  em  determinado  
+domínio [Câmara et al., 2001]. 
+Com  a  questão  “Qual  o  
+status
+  ontológico  do  conteúdo  
+das informações das imagens de sensoriamento remoto?”, 
+[Câmara et al., 2001] expõe a dicotomia campo/objeto das 
+imagens, propondo uma ontologia multi-camada para 
+estas  com  a  finalidade  de  suportar  múltiplas  perspectivas  
+de uma mesma imagem. Esta ontologia de imagens visa a 
+detecção   de   configurações   espaço-temporais   de   
+fenômenos  geográficos,  ponto  fundamental  para  a  
+mineração de dados em imagens. 
+No  referido  trabalho,  o  modelo  conceitual  de  dados  
+“objeto” é uma representação do mundo como uma 
+superfície  ocupada  por  objetos  discretos,  cuja  existência  
+depende  de  demarcações  efetuadas  por  seres  humanos  ou  
+através de procedimentos automatizados, com uma 
+representação geométrica e com atributos descritivos. Já o 
+modelo  “campo”  é  uma  visão  da  realidade  geográfica  em  
+função de um conjunto de distribuições espaciais na 
+extensão  geográfica  em  questão,  baseada  em  valores  de  
+energia  refletida  capturada  por  sensores.  Esta  dicotomia  
+campo/objeto  é  um  conceito  genérico,  sem  suporte  para  
+semântica específica dos diferentes tipos de dados 
+espaciais,  não  possuindo  os  recursos  necessários  para  o  
+processo de representação de conhecimento em imagens.  
+[Câmara et al., 2001] propõe que imagens de 
+sensoriamento  remoto  são  instrumentos  ontológicos  para  
+capturar a dinâmica das paisagens, considerando que 
+processos geográficos ocorrem num espaço multi-escala e 
+que resultam de interações temporais e espaciais de 
+diferentes  fenômenos  numa  paisagem  física.  Assim,  o  
+foco da caracterização ontológica seria a busca por 
+mudanças,  ao  invés  da  busca  por  conteúdos.  Esta  ênfase  
+não deve ser interpretada como simples procedimentos de 
+localização  e  de  identificação  de  objetos,  mas  sim  como  
+um  processo  de  captura  da  dinâmica  de  paisagens.  A  
+proposta  contempla  ainda  a  reutilização  de  conhecimento  
+algorítmico  para  diferentes  aplicações,  contido  em  
+métodos de processamento de imagens, tais como 
+segmentadores, classificadores, dentre outros. 
+A  ontologia  multi-camada  para  imagens  (Figura  3)  
+propõe  a  derivação  de  ontologias  não  apenas  para  os  
+objetos  do  domínio,  mas  também  para  as  ações  
+intencionais,  as  quais  são  expressas  pelos  procedimentos  
+aplicados ao conjunto de dados original para a extração de 
+conhecimento. A proposta considera que as imagens 
+possuem  uma  descrição  própria,  distinta  e  independente  
+da  ontologia  de  domínio  que  um  cientista  utilizaria  para  
+extrair  informações  destas.  O  domínio  ontológico  
+(
+fenomenologia
+)  para  imagens  possui  três  componentes  
+inter-relacionados:
+• 
+Ontologia  Física
+  –  descreve  o  processo  físico  da  
+criação  da  imagem,  com  foco  no  conhecimento  sobre  a  
+relação entre a energia refletida pela superfície terrestre e 
+as medidas obtidas pelo sensor (resposta espectral, 
+backscatter
+, dentre outros).  
+Ontologia Estrutural
+ – contempla as estruturas 
+geométricas, funcionais e descritivas que podem ser 
+extraídas   através   de   técnicas   de   extração   de   
+características,   segmentação,   classificação   (linhas,   
+regiões, etc.). 
+Ontologia de Métodos
+ – consiste de um conjunto de 
+algoritmos  (que  realizam  transformações  do  nível  físico  
+para  o  nível  estrutural)  e  de  estruturas  de  dados  que  
+representam conhecimento reutilizável na forma de 
+técnicas  de  processamento  de  imagens  (filtragem,  
+extração de características, etc.).
+Enquanto  esta  ontologia  fenomenológica  é  
+independente do observador, os cientistas de determinada 
+área  operam  utilizando  conceitos  de  seus  domínios  do  
+conhecimento. Segundo [Guarino, 1997], existe uma 
+distinção  entre  a  
+ontologia  do  domínio  da  aplicação
+, que 
+descreve o vocabulário relacionado a um domínio 
+genérico (por exemplo, geologia ou ecologia), e a 
+ontologia   de   tarefas   da   aplicação
+,   que   são   
+especializações  da  ontologia  do  domínio  da  aplicação,  as  
+quais descrevem uma tarefa ou atividade em certo 
+domínio(como estimativa de poluição da água para 
+estudos ecológicos)

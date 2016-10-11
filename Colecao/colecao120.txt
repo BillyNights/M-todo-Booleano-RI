@@ -1,0 +1,14 @@
+Os SRIs organizam e viabilizam o acesso aos
+itens de informação desempenhando as
+atividades de:
+Representação das informações contidas nos
+documentos, usualmente através dos
+processos de indexação e descrição dos
+documentos;
+Armazenamento e gestão física e/ou lógica
+desses documentos e de suas representações;
+Recuperação das informações representadas e
+dos próprios documentos armazenados, de
+forma a satisfazer as necessidades de
+informação dos usuários. (SOUZA, 2006, p.
+163)

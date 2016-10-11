@@ -1,0 +1,32 @@
+Todos os Sistemas de Recuperação de Informações (SRI) possuem um único 
+objetivo: fazer com que o usuário encontre a informação que está precisandorapidamente,
+de modo que este usuário não necessite analisar ele próprio todas asinformações existentes na base de informações.
+O SRI deve realizar esta análise e fornecer para o usuário aquelas informações quesão mais
+relevantes para este usuário. O conceito de informação relevante é importantepara um sistema de recuperação de informações.
+E diz respeito àquelas informações quedevem ser retornadas como resposta a uma consulta do usuário. Em [SAL83] define-erelevância
+como sendo a correspondência contextual entre uma consulta e umainformação, ou seja, o grau de relevância indica o quanto a 
+informação é apropriada parao que o usuário está requisitando; ou o quão importante para o usuário é determinadainformação. É 
+claro que determinar a relevância de determinada informação dependemuito de como o usuário expressou sua necessidade, isto é, 
+depende de como o 
+usuário formulou sua consulta.É através das características que o usuário fornece em uma consulta que o SRI vaideterminar quais 
+informações são mais relevantes para este usuário. Já que não há comoobter informações diretamente do usuário, a não ser através 
+de uma expressão formal 
+deconsulta, o usuário deve expressar corretamente sua necessidade. Do contrário oresultado não será satisfatório. Muitas vezes o 
+sistema tem como saber se asinformações recuperadas têm relação com a descrição feita pelo usuário. O que não épossível é saber 
+se a consulta que o usuário elaborou descreve corretamente a suanecessidade.Portanto, em muitos casos, o sistema busca 
+informações relevantes para adescrição do usuário,
+ mas irrelevantes para a informação realmente desejada pelousuário, já que este usuário não descreveu corretamente sua 
+ necessidade.
+ Vários problemas podem surgir devido a isso, pois o paradigma utilizado na áreade recuperação de informações é muito complexo. 
+ A Figura 1 apresenta o paradigmaclássico, ou a estrutura geral de um SRI tradicional, que independe do tipo deinformação 
+ utilizado.
+ Os elementos da Figura 1.1 representam os objetos e a interação entre estesobjetos no paradigma. Observando esta figura, pode-
+ se notar
+ que existem três pontos-chave que devem ser trabalhados com atenção.O primeiro é o processo de abstração de informações, 
+ determinado
+ pelamodelagem do sistema. O segundo é decorrente da abstração que o usuário faz aodescrever a informação de que necessita, em 
+ algum formalismo 
+(linguagem deconsulta). O último é o processo de
+Casamento(Matching) que o sistema faz entre aconsulta do usuário e as informações do sistema, 
+a fim de determinar quais informaçõessão relevantes. Na literatura é comum encontrar este processo como sendo uma funçãode 
+similaridade, que determina a semelhança entre os elementos da consulta e oselementos da base de informações.

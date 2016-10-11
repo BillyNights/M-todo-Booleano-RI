@@ -1,0 +1,37 @@
+O acelerado desenvolvimento tecnológico e a premência de métodos adequados para o
+tratamento da informação em grandes repositórios como a Internet impõem uma aproximação
+mais efetiva entre a Ciência da Computação e a Ciência da Informação. Porém, há de se
+observar as diferenças entre essas duas ciências que, embora compartilhem alguns interesses
+comuns, estão posicionadas em campos científicos bastantes distintos.
+Nos últimos anos a palavra “informação” tem sido muito utilizada não só na
+constituição de discursos, mas também na criação de disciplinas ligadas à Ciência da
+Computação ou à Informática, além da Ciência da Informação. Com o imperativo tecnológico
+da sociedade contemporânea, o conceito de “informação” que se impõe é aquele que permite
+sua operacionalização através do computador ou outros dispositivos digitais.
+
+Apesar do objetivo comum que motivou o nascimento quase contemporâneo da
+Ciência da Informação e da Ciência da Computação, observa-se uma grande distância teórica
+entre estas ciências. Esta distância é justificada inicialmente pelo fato de se tratarem de dois
+campos científicos bastante distintos. Em uma análise mais aprofundada verifica-se que a
+informação, objeto de comum interesse de ambas as ciências, é paradoxalmente o que mais as
+distancia. Na Ciência da Informação o conceito de informação está associado à semântica:
+1“[...] enquanto objeto da Ciência da Informação, a informação aparece
+como produto de um processo intencional, como algo construído, portanto,
+cujo propósito é o de promover a adequação significativa dos conteúdos.”
+(Tálamo, 1997, p.11);
+“A informação comporta um elemento de sentido. É um significado
+transmitido a um ser consciente por meio de uma mensagem inscrita em um
+suporte espaço-temporal: impresso, sinal elétrico, onda sonora, etc.” (Le
+Coadic, 1996, p.5).
+Na Ciência da Computação a definição de informação se aproxima à de Shannon e
+Weaver (1949), mais adequada à construção de sistemas informáticos nos quais dados podem
+ser totalmente descritos através de representações formais, podendo ser quantificados,
+armazenados em um computador e processados por ele:
+“[...] não é possível processar informação diretamente em um computador.
+Para isso é necessário reduzi-la a dados.” (Setzer, 2001, p.242-243).
+Em vista das diferenças entre a noção de informação utilizada pela Ciência da
+Informação, cujo componente semântico é evidente, e o conceito de informação empregado
+pela Ciência da Computação, a hipótese que se levanta neste trabalho é que, no que se refere
+ao processo de recuperação de informação, as técnicas e procedimentos provenientes da
+Ciência da Computação apresentam-se apenas como mecanismos auxiliares no tratamento
+da informação, tal como definida no contexto da Ciência da Informação.

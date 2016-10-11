@@ -1,0 +1,35 @@
+Criação de um Arquivo Invertido para a Recuperação de Informação em Grandes Volumes de TextoRafael Rodrigo da Silva1, Wender Magno 
+Cota11Universidade Presidente Antônio Carlos (UNIPAC)Faculdade Regional de Ciências Exatas e Sociais de Barbacena (FACEC)Campus Magnus – 
+Rua Palma Bageto Viol, s/nº – CampolideCEP: 36.200-108 – Barbacena – MG – Brasilrafaeleafb@yahoo.com.br, wmcota@terra.com.brResumo.  
+Este   trabalho   apresenta   uma   técnica   usada   na   recuperação   de  informação,  chamada  Arquivo   Invertido,  a  qual é   
+usada  para  que  se  possa  criar   um   índice   contendo   as   palavras   de   uma   determinada   coleção   de  documentos do tipo 
+texto, a fim de possibilitar uma recuperação mais rápida e  eficiente   de   informações   nessa   coleção.   Assim,   o   objetivo   
+deste   trabalho   é  apresentar e  implementar um algoritmo que gera  um arquivo invertido, a fim  de que este possa ser utilizado na 
+maximização da eficiência no processo de  recuperação de  informação.Palavras-chave: arquivo invertido, recuperação de informação.1. 
+Introdução“Por aproximadamente 4000  anos o homem tem organizado informações  para serem recuperadas e usadas posteriormente. Por 
+exemplo, uma tabela de conteúdo de um livro. Como o acervo de livros cresceu, uma estrutura teve de ser criada para acessar de forma 
+mais rápida as informações armazenadas nos livros” [1].Assim como cresce o acervo de livros, cresce também proporcionalmente a 
+quantidade de   informações   disponíveis,   principalmente   em   forma  de   texto,   na   web.   Bibliotecas digitais   estão   
+cada   vez   mais   em   uso,   assim   como  sites,   que   crescem   em   número   e quantidade de  informação textuais,  e este  
+crescimento causa  uma certa  sobrecarga se não for gerenciado.Da mesma maneira que foi necessária a criação de uma estrutura para 
+acessar de forma mais rápida as informações armazenadas em livros, faz-se também necessária a criação de   alguma   estrutura   para   
+que   se   possa   recuperar   eficientemente   informações   textuais armazenadas de forma digital, o que leva ao surgimento de 
+diversas técnicas dedicadas à Recuperação de Informação.“Uma  estrutura  antiga  e  muito  utilizada   para   a  rápida   Recuperação  
+de  Informação,  é uma coleção de palavras selecionadas, ou conceitos, com os quais estão ligados, através de apontadores, às 
+informações relacionadas – o chamado índice” [2].Na   literatura,   é   possível   encontrar   várias   técnicas  que   podem   ser   
+utilizadas   para   a criação destes índices, como pode ser visto em [3], dentre as quais, encontra-se a técnica de indexação denominada 
+Arquivo Invertido (objeto de estudo do presente trabalho), aqual “tem sido tradicionalmente a técnica de indexação mais utilizada, 
+devido ao seu custo (proporcional ao tamanho do texto) e à simplicidade de sua estrutura”[3] .Assim   sendo,   esta   técnica   será   
+discutida   e   implementada   neste   trabalho,   visto   a necessidade de se utilizar de uma estrutura para recuperação de informação, 
+que torne este   processo   mais   rápido   e   eficaz.   Na   seção   2,   será   apresentado   o   conceito   de   um arquivo 
+invertido, bem como a forma que  este pode ser implementado.Na seção 3, será apresentado   o   algoritmo   destinado   à   geração   
+de   arquivos   invertidos,   destinados   à recuperação   eficiente   de   informações.Na   seção   4   serão   apresentados   dois   
+tipos   de consultas que podem ser utilizadas no processo de recuperação de informação a partir do   arquivo   invertido   gerado.   
+Finalmente,   na   seção   5,   serão   apresentadas   as considerações finais, bem como as propostas para trabalhos futuros.
+
+2. Arquivos InvertidosComo citado na seção 1, nas aplicações envolvendo textos (bibliotecas digitais, manuais,  sites,   dentre   
+outros),   o   método   mais   ajustável   para   a   recuperação   rápida   e eficiente da informação tem sido o arquivo invertido [5].
+Um   arquivo   invertido   é   um   arquivo   de   índices,   que   contém   duas   partes:   um Vocabulário ou Dicionário, contendo um 
+conjunto de palavras distintas do texto, e uma Lista   de   Ocorrências,   indicando      para   cada   termo   do   vocabulário,   em   
+quais documentos de uma determinada coleção este termo (palavra) ocorre, indicando, ainda, qual   a   freqüência   do   termo   em   
+cada   um   destes   documentos   [5].  

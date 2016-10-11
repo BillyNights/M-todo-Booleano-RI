@@ -1,0 +1,13 @@
+A princípio, podemos definir o conceito de Big Data como sendo conjuntos de dados extremamente amplos e que, por este motivo, necessitam de ferramentas especialmente preparadas para lidar com grandes volumes, de forma que toda e qualquer informação nestes meios possa ser encontrada, analisada e aproveitada em tempo hábil.
+
+De maneira mais simplista, a ideia também pode ser compreendida como a análise de grandes quantidades de dados para a geração de resultados importantes que, em volumes menores, dificilmente seriam alcançados.
+
+Big DataNão é difícil entender o cenário em que o conceito se aplica: trocamos milhões de e-mails por dia; milhares de transações bancárias acontecem no mundo a cada segundo; soluções sofisticadas gerenciam a cadeia de suprimentos de várias fábricas neste exato momento; operadoras registram a todo instante chamadas e tráfego de dados do crescente número de linhas móveis no mundo todo; sistemas de ERP coordenam os setores de inúmeras companhias. Enfim, exemplos não faltam - se te perguntarem, você certamente será capaz de apontar outros sem fazer esforço.
+
+Informação é poder, logo, se uma empresa souber como utilizar os dados que tem em mãos, poderá entender como melhorar um produto, como criar uma estratégia de marketing mais eficiente, como cortar gastos, como produzir mais em menos tempo, como evitar o desperdício de recursos, como superar um concorrente, como disponibilizar serviços para a um cliente especial de maneira satisfatória e assim por diante.
+
+Perceba, estamos falando de fatores que podem inclusive ser decisivos para o futuro de uma companhia. Mas, Big Data é um nome relativamente recente (ou, ao menos, começou a aparecer na mídia recentemente). Isso significa que somente nos últimos anos é que as empresas descobriram a necessidade de fazer melhor uso de seus grandes bancos de dados?
+
+Pode ter certeza que não. Há tempos que departamentos de TI contemplam aplicações de Data Mining, Business Intelligence e CRM (Customer Relationship Management), por exemplo, para tratar justamente de análise de dados, tomadas de decisões e outros aspectos relacionados ao negócio.
+
+A proposta de uma solução de Big Data é a de oferecer uma abordagem ampla no tratamento do aspecto cada vez mais "caótico" dos dados para tornar as referidas aplicações e todas as outras mais eficientes e precisas. Para tanto, o conceito considera não somente grandes quantidades de dados, a velocidade de análise e a disponibilização destes, como também a relação com e entre os volumes.

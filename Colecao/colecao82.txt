@@ -1,0 +1,25 @@
+A Academia Forense Livre é constituída por um grupo de pesquisadores que atua em diversas áreas da computação forense. São 
+professores, coordenadores e palestrantes de eventos nacionais e internacionais. Os membros que estarão na Latinoware são:
+
+Eriberto Mota: Professor da pós-graduação em Perícia Digital na Universidade Católica de Brasília, autor de diversos livros 
+relacionados a Análise de Redes e Computação Forense. É Oficial de Cavalaria do Exército Brasileiro. Eriberto Mota estará 
+ministrando palestra e minicurso, e um dos temas abordado por ele será Forense em memória com Volatility.
+
+Gilberto Sudré: Consultor, professor e pesquisador nas áreas de Segurança da informação e Computação Forense. Coordenador do 
+Laboratório de Segurança da Informação e Computação Forense do IFES. É instrutor da Academia de Polícia Civil do ES na 
+disciplina de Computação Forense. É comentarista de tecnologia da Rádio CBN, TV Gazeta e Jornal a Gazeta. Autor de diversos 
+livros nas áreas de Redes de Computadores e Segurança da Informação. Gilberto estará ministrando palestra sobre A investigação 
+de Crimes Digitais e a Perícia Forense.
+
+Ramilton Costa Gomes Júnior: Professor universitário. Mestrando em Informática pela UFES-ES, Especialista em Criptografia e 
+Segurança de Redes pela UFF-RJ, Bacharel em Ciência da Computação pela UNIFENAS-MG. Desde 2005 trabalha com Linux e FOSS (
+Software Livre e Open Source), principalmente com o desenvolvimento Java, C, e PHP. Administrador de Rede, Segurança de Rede e 
+Computação Forense. Participou de vários eventos como Latinoware, Fórum da Revista Espírito Livre, Encantec, Campus Party, FISL, 
+Ensolba e EMSL, como palestrante. É idealizador do ENSOLBA (Evento de Software Livre no Extremo Sul da Bahia). Ramilton é 
+embaixador do Projeto Fedora Brasil.
+
+Sandro Melo: Professor e Coordenador do curso de pós-graduação lato-sensu em Computação Forense na BANDTEC e também IQUALI – 
+Salvador-BA, Coordenador do curso de Segurança de Redes e Forense Computacional na Faculdade Maurício de Nassau em Maceió-AL. 
+Autor de diversos livros relacionados a Computação Forense, Mestre em Engenharia da Computação pelo IPT e doutorando no programa 
+do TIDD-PUC/SP. Sandro estará ministrando o minicurso Kudo Post Mortem Forense com Ferramenta Foss – Escovando Bits, Garimpando 
+Dados, Identificando e tratando evidências.

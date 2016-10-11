@@ -1,0 +1,13 @@
+Recuperar informação consiste em identificar, em um
+conjunto de documentos (corpus), quais atendem à
+necessidade de informação do usuário.
+O usuário de um sistema de recuperação de
+informação está interessado em recuperar
+“informação” sobre um determinado assunto e não
+em recuperar registros de dados que satisfazem
+sua expressão de busca, nem tampouco documentos,
+embora seja nestes que a informação estará registrada.
+Essa característica é o que diferencia os sistemas
+de recuperação de informação dos sistemas
+gerenciadores de bancos de dados, estudados e
+implementados no âmbito da Ciência da Computação.

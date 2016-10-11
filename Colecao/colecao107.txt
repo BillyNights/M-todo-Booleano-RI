@@ -1,0 +1,16 @@
+Entende-se como representação da informação a substituição de uma
+entidade lingüística longa e complexa, como todo o texto de um documento, por
+sua descrição abreviada, com ênfase ao que é essencial no documento, com
+vistas a sua recuperação em um sistema de informação. No âmbito da Ciência
+da Informação, comumente são utilizadas as linguagens formalizadas. Tais
+linguagens facilitam a comunicação entre produtores de informação (autores),
+organizadores da informação (bibliotecários/arquivistas) e entre usuários da
+informação (pesquisadores). Dentre essas linguagens encontra-se o vocabulário
+controlado que é uma lista de termos, conhecidos como "descritores" ou
+"palavras-chave". Um vocabulário serve como fonte básica da linguagem
+documentária para indexação e recuperação de documentos que integram um
+determinado sistema de informações bibliográficas. Tem por finalidade ser um
+instrumento responsável pela eficácia das ações de transferência da informação
+e ser um dispositivo para criação de uma linguagem de indexação e recuperação
+única e padronizada para todos os sistemas de informações bibliográficas de
+uma entidade. 

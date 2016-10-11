@@ -1,0 +1,71 @@
+Big Data é o termo usado para descrever grandes volumes de dados; os Big Data são cada vez
+mais relevantes à medida que a sociedade se depara com um aumento sem precedentes no
+número de informações geradas a cada dia.
+Bancos, companhias aéreas, operadoras de telefonia, redes de varejistas, são exemplos de
+empresas que circulam com grandes volumes de informação. Mas será que essas organizações
+sabem o que fazer e como usar tanta informação? Hoje em dia é muito comum que pequenas e
+grandes empresas utilizem dos dados retidos para conquistar novos clientes, fidelizar os já
+existentes e fazer a empresa crescer. Realmente não adianta ter um número expressivo de dados
+se eles não forem aproveitados de forma eficaz e inteligente. É aí que entra o conceito de Big
+Data: um termo que ficou conhecido nos anos 2.000 e, desde então, tem sido importantíssimo não
+apenas no meio corporativo, mas em diversas áreas.
+Podemos definir Big Data como os conjuntos de dados de grande volume e que necessitam de
+ferramentas especiais para lidar com grandes quantidades, de forma que todas as informações
+possam ser encontradas, analisadas e também aproveitadas no tempo necessário.
+Um exemplo para isso é a quantidade de transações bancárias que ocorrem no mundo a cada
+segundo, o tráfego de dados de operadoras de celulares, gerenciamento de uma cadeia de
+empresas e também as redes sociais, que podem determinar vários fatores através das
+informações dos bancos de dados. Enfim, esses são apenas alguns exemplos entre os vários
+existentes.
+Ao ter controle de todos os dados de forma contínua e organizada, uma empresa consegue
+melhorar um produto, ou mesmo desenvolver uma estratégia de marketing mais eficaz, além
+disso, é possível ter controle dos gastos, investimentos e resultados.
+Big Data é um nome que surgiu na mídia recentemente, mas como vimos, pode ser decisivo em
+uma empresa. Apesar do termo recente, a ideia de usar da melhor forma o banco de dados de
+uma companhia não é de hoje.
+A proposta principal do Big Data é oferecer uma abordagem ampla no modo de tratar o conjunto
+de dados e assim tornar todo o resultado mais eficiente e preciso. Vale notar que o conceito de Big
+Data leva em consideração além da quantidade de dados, também a velocidade de análise e
+disponibilização deles, bem como a relação entre eles.
+O acúmulo de dados não surgiu agora, há muito tempo eles serviam,
+igualmente como hoje, para organizar, guardar e analisar tudo o que
+acontecia em uma empresa ou instituição. No entanto, nos tempos
+modernos esse tipo de organização teve mudanças, com
+computadores cada vez mais modernos e ainda com softwares mais
+precisos a análise de dados ficou ainda mais precisa e também mais
+rápida.
+Por enquanto tratamos o Big Data apenas no setor de negócios de
+grande porte, porém, devemos levar em consideração que em um futuro próximo todos os
+eletrodomésticos deverão estar conectados à internet, e assim, mais dados serão gerados todos
+os dias. É chamada internet das coisas.
+Com as novas tecnologias há um aumento muito grande de informações no mundo todo, e assim,
+empresas, governos e quaisquer outras instituições precisam saber lidar com tais informações da
+O que é Big Data?
+informação é gerada na internet? Então clica aqui e dá uma espiadinha no número real de
+dados produzidos neste momento na internet.
+Especialistas tentaram resumir o termo Big Data com base do conceito dos cinco “Vs”: volume,
+velocidade e variedade, com os fatores veracidade e valor aparecendo posteriormente.
+Volume: é considerada a quantidade de dados de grande escala, que crescem exponencialmente.
+Velocidade: Para conseguir obter o resultado desejado na solução de problemas, por exemplo, o
+tratamento de dados deve ser feito de forma rápida, em tempo real. Assim, uma empresa, caso
+detecte algum empecilho, necessita que os seus dados estejam todos dispostos e ainda que
+possam atender a demanda em tempo hábil.
+Variedade: O grande volume de dados que temos atualmente é resultante da diversidade de
+informações. Sabemos que é possível encontrar dados em vários formatos, como os estruturados,
+isto é, armazenados em bancos como PostgreSQL e Oracle, e outros dados localizados em outras
+várias fontes, como documentos, imagens, vídeos, etc. Assim, a variedade precisa ser lidada
+como um todo, talvez um determinado dado não seja útil se não for associado a outro.
+Veracidade: Os dados precisam ser confiáveis, lidar com os outros fatores, como volume,
+velocidade e variedade pouco adianta se não forem reais. Assim sendo, é necessário que haja o
+máximo possível de consistência dos dados.
+Valor: O valor, em questão, é resultante da combinação de todos os aspectos citados acima.
+Assim, o resultado não terá sentido algum se não trouxer benefícios significativos e que
+compensem todo o investimento.
+Com os itens citados acima é determinada a noção de Big Data. Porém, especialistas acreditam
+que não é necessário a combinação de todos os fatores para considerar o Big Data.
+Veja este vídeo explicativo elaborado e produzido por um canal do Youtube, o Nerdologia. O vídeo
+explica de forma mais informal o conceito de Big Data e ainda cita alguns dos exemplos mais bem
+sucedidos de Big Data. Confira.
+De forma rápida e em tempo real o conjunto de dados pode ser uma ferramenta muito útil não só
+para as pequenas e grandes empresas alavancarem os seus negócios com ações de
+marketing como, por exemplo, com SMS personalizados, baseados nos conhecimentos

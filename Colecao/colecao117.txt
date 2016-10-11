@@ -1,0 +1,35 @@
+O que é informação? Para o quê serve informação? O que é estar
+informado? Informação, documento e conhecimento são sinônimos? Estas
+e outras questões permeiam o âmbito da CI, considerada a ciência que
+estuda as informações e suas relações com o indivíduo, com os sistemas
+informatizados e com a sociedade como um todo. Muitas discussões são
+empreendidas na busca pela definição do termo informação. Cada
+definição parte de perspectivas diferenciadas e, algumas vezes, mostramse
+opostas e complementares ao mesmo tempo. Neste trabalho,
+pretende-se abordar algumas das teorias relacionadas à definição do
+termo informação no âmbito da CI.
+Um estudo amplamente divulgado e que também tem servido
+como base para se discutir o termo informação é o texto
+"Epistemologia e Ciência da Informação" de Rafael Capurro
+(2003). Nesse trabalho, o autor aborda a definição do termo,
+subdividindo as noções do mesmo em três categorias. A
+primeira, bastante abordada em vários estudos, é a que se
+denomina por paradigma físico. "Em essência esse paradigma
+postula que há algo, um objeto físico, que um emissor
+transmite a um receptor" (CAPURRO, 2003, p. 8). Nessa
+acepção, o que ocorre é um processo de transferência de
+informação ou, em outras palavras, troca de informação, na
+qual esta é designada como um objeto concreto e que pode
+ser mensurado.
+Em linhas gerais, pode-se dizer que, além de ser mensurável, a
+informação não necessariamente envolve significado semântico em seu
+sentido físico. Esta noção está bastante ligada aos primeiros estudos que,
+de certo modo, culminam nesta que se denomina CI, a qual visava
+possibilitar o acesso às informações no contexto do boom (informacional
+"explosão da informação" técnico-científica) do pós-guerra (a partir de
+1945). Vannevar Bush (1945) foi quem observou a necessidade de se
+estabelecer melhores formas de recuperação das informações, reduzindo
+o tempo entre a busca e o resultado. A partir desta necessidade, intentouse
+desenvolver novas técnicas de arquivamento e recuperação da
+informação, bem como a tentativa de determinar o que seria considerado
+como informação. 

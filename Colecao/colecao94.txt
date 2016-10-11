@@ -1,0 +1,111 @@
+Com a eterna preocupação de que organização da informação
+disponível no ambiente Web seja recuperada com maior precisão e que o
+usuário não se perca nas buscas, se faz, cada vez mais necessário, a
+criação de ferramentas que busquem e tratem a informação, de maneira
+eficaz. Pensando nisto, as ontologias surgem em alguns sistemas que
+trazem a informação como foco principal, estando estes disponíveis, em
+sua grande maioria, na Internet, sendo representadas, hierarquicamente,
+através de palavras-chave e conceitos. Esta hierarquia de conceitos pode
+ser vista, inclusive, como uma taxonomia (FREITAS, 2006?).
+Moreira, Alvarenga e Oliveira (2004) dizem que as ontologias podem
+ser utilizadas em diversas aplicações, como se fossem um sistema
+multiagente, fazendo com que estes agentes troquem informações entre
+si, ou seja, fazendo o que podemos também chamar de interoperabilidade
+de sistemas. Os autores mencionam ainda alguns problemas que podem
+se beneficiar das ontologias os quais se fazem saber: a representação do
+conhecimento, o reuso do conhecimento, o compartilhamento do
+conhecimento, a aquisição e integração do conhecimento; o processo de
+linguagem natural; a tradução automática; a interoperabilidade entre
+sistemas, agentes companhias ou pessoas.Segundo Moreira, Alvarenga e Oliveira (2004) as ontologias
+possuem quatro principais tipos de definições: como um sistema
+conceitual informal, no qual está abaixo da base de conhecimento
+particular, o que, para esse caso, a ontologia pertence ao nível conceitual
+e não ao nível simbólico; como uma representação de um sistema
+conceitual via uma teoria lógica, que define a ontologia como um tipo de
+base especial do conhecimento (nível simbólico) e conhecimento
+independente de um estado de domínio particular; como um vocabulário
+usado por uma teoria lógica, neste caso o nível de formalização desse
+vocabulário pode variar de uma ontologia a outra; e como uma
+especificação de conceitualização, fazendo com que uma conceitualização
+possa ser entendida como um conjunto de comitês ontológicos (nível
+simbólico), a última interpretação é que faz com que o número de
+seguidores pertencentes à comunidade de Inteligência Artificial seja
+significativo.
+Assim como nas taxonomias, os tesauros estão muito próximos das
+ontologias e podem até operar no mesmo nível, porém, apresentam
+diferentes propostas: a primeira é direcionar para o domínio do registro
+de conceitos, objetivando as deduções automatizadas, enquanto que a
+segunda é direcionada para a comunicação entre o usuário e a linguagem
+documentária.
+No intuito de apresentar alguma solução para que a organização da
+informação e do conhecimento e, também, de forma que a CI se aproprie
+destes conceitos efetivamente, de maneira que o usuário inicial ou final
+saiba o que ele realmente está usando para recuperar ou arquitetar sua
+informação, após a apresentação e definição de algumas ferramentas
+utilizadas principalmente na Web, na arquitetura, organização e
+recuperação da informação e de maneira a ficar claro os focos e aplicações
+de cada uma delas, bem como suas diferenças, segue uma tabela, a qual,
+de forma resumida, apresenta as especificidades de cada um dos
+instrumentos que facilitam a RI apresentados.Abordar as principais definições relacionadas à organização do
+conhecimento, tais como: estrutura do conhecimento, domínio do
+conhecimento, conceitos; com o objetivo de estabelecer uma base teórica
+que permita a discussão e o entendimento sobre recuperação do
+conhecimento.
+A estrutura do conhecimento, segundo Anderson6
+ (1992; 1997)
+apud Tsai; Chou (2005), é a forma na qual um indivíduo constitui seus
+conhecimentos, seguindo princípios organizacionais derivados de
+experiências prévias existentes.
+Para este trabalho, é considerado que a estrutura de conhecimento
+pode ser correlacionada com redes ou esquemas neurais, que,
+provavelmente, não obedecem a estruturas hierárquicas. Logo após, o
+termo conceito, que pode ser visto como o esquema que representa esta
+forma de estruturação do conhecimento (Figura 3).
+Para Tsai e Chou (2005), o termo conceito “refere-se à idéias,
+pensamentos, partes de conhecimento e proposições”. Concordando com
+essa afirmação, Alvarenga (2003), define conceitos como “unidades de
+conhecimento” e complementa, enfatizando sua importância, no momento
+em que ressalta que “são elementos chave para os atos de representação,
+comunicação e preservação de conhecimentos”.
+Shera7
+ (apud ALVARENGA, 2003) afirma que cada nova experiência
+ou sensação seria classificada pelo cérebro de acordo com um acervo de
+experiências passadas, diminuindo a incerteza, determinando o processo
+de aprendizagem do indivíduo.
+Correlacionando a afirmativa da autora com os conceitos anteriores,
+as novas experiências seriam bases para novos conceitos, que estariam,
+por sua vez, organizados (classificados) dentro de uma estrutura de
+conhecimento, sendo esta originária de experiências prévias do indivíduo.
+Segundo Tsai e Chou (2005), a estrutura de conhecimento de cada
+indivíduo está organizada ao redor de um conceito central, que está
+fortemente ligado a outros conceitos dentro de um domínio de
+conhecimento.
+O termo domínio, definido no dicionário Aurélio século XXI
+(FERREIRA, 1999), é descrito como o “Âmbito de uma arte ou ciência”, ou
+seja, é a área ou o escopo que uma determinada arte ou ciência tem por
+foco de atividade.
+A conceituação de domínio de conhecimento está, segundo Campos
+(2004), intimamente ligada ao termo conceito, “como é possível perceber,
+o entendimento do conceito está refém de um contexto que é classificado 
+por conta dos [outros] conceitos que nele estão inseridos”, dessa forma, o
+entendimento de um conceito está restrito a seu contexto, ou seja, a seu
+domínio de conhecimento.
+Além da suposição da existência de um conceito central presente na
+estrutura de conhecimento de um indivíduo, Tsai e Chou (2005)
+consideram a existência de um conceito amarrado, ou seja, um conceito
+que também está ligado a vários outros, mais de forma menos acentuado
+que o central. A figura 3 ilustra o exposto acima. A recuperação do conhecimento é realizada por meio do uso de
+conceitos centrais e amarrada pode ajudar a recuperar todos os conceitos
+relacionados a um domínio de conhecimento (TSAI; CHOU, 2005).
+Isto posto, a recuperação do conhecimento pode ser entendida
+como o processo realizado por um indivíduo, dentro de sua esfera privada,
+com o objetivo de lembrança de um dado conceito, previamente
+assimilado e associado a sua estrutura de conhecimentos, por meio de
+métodos que promovam a recuperação eficiente e efetiva destes
+conceitos, dentro de um domínio de conhecimento.
+O estudo da forma com que o conhecimento é organizado pode
+promover um entendimento melhor das estruturas envolvidas no processo
+de recuperação de um conhecimento prévio, isto pode permitir que se
+estabelecessem possíveis correlações entre os processos de recuperação
+do conhecimento com os de recuperação da informação, objetivando a
+melhoria do desempenho desses últimos.  

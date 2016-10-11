@@ -1,0 +1,78 @@
+Os cat?logos ou diret?rios por assunto precederam os programas de
+busca e constitu?ram a primeira tentativa de estruturar e recuperar recursos na
+Web. Foram criados quando a quantidade de recursos dispon?veis ainda
+permitia a coleta das informa??es manualmente.
+Nos diret?rios por assunto, as informa??es que comp?e o banco de
+dados s?o coletadas de duas formas:
+?atrav?s de busca realizada por seus editores, que visitam in?meros
+sites e incluem os de interesse no banco de dados, acompanhados de uma
+breve descri??o de seus conte?dos;
+? atrav?s de solicita??o de inclus?o enviada pelo autor interessado em
+ter seu site catalogado. O autor envia uma breve descri??o do conte?do, e os
+editores visitam o site, aceitando ou n?o sua inclus?o.
+As informa??es s?o organizadas e classificadas hierarquicamente em
+categorias tem?ticas pelos editores. Parte-se das categorias mais amplas para
+as mais espec?ficas. Por exemplo, no popular Yahoo!
+3
+, informa??es sobre
+tubar?es est?o classificadas na categoria Ci?ncia ? Animais, insetos e bichos de
+estima??o ? Vida aqu?tica ? Peixes ? Esp?cies ? Tubar?es.
+Pode-se consultar um diret?rio digitando uma palavra ou frase no campo
+de busca ou explorando suas categorias. O cat?logo verificar? a ocorr?ncia da
+linguagem de busca no t?tulo e na descri??o enviada pelo autor ou compilada
+pelos editores, n?o sendo considerado o texto integral do site.
+Os cat?logos podem ser bastante ?teis quando o n?mero de respostas
+obtidos nos programas de busca for excessivo ou, ainda, quando a informa??o
+desejada estiver contemplada em uma das categorias dispon?veis. Por exemplo,
+endere?o na Internet de todas as universidades americanas. Os editores
+certamente j? coletaram estas informa??es e, melhor ainda, organizaram e
+classificaram todas elas, tornando a tarefa do usu?rio bem mais simples.
+Os bancos de dados dos cat?logos s?o menores e menos atualizados
+que os dos programas de busca. Entretanto, as informa??es s?o mais
+selecionadas por passarem pelo crivo dos editores.
+Entre os diret?rios mais populares destacam-se o Yahoo! (http://
+www.yahoo.com ), Lycos (http://www.lycos.com), HotBot (http://
+www.hotbot.com) e, no Brasil, o Cad?? (http://www.cade.com.br), Achei (http:/
+/www.ahei.com.br) e Yahoo! Brasil (http://www.br.yahoo.com ).
+b) Programas de busca
+Os programas de busca surgiram quando a quantidade de informa??es
+dispon?veis na Web atingiram propor??es que dificultavam sua coleta manual.
+Estas ferramentas criam seus bancos de dados automaticamente utilizando
+softwares conhecidos como spiders ou rob?s.
+Os rob?s percorrem a rede coletando informa??es. Iniciam seu caminho a
+partir de um conjunto de p?ginas selecionadas por seus administradores que
+s?o escolhidas por serem populares, de alta qualidade ou por conterem grande
+quantidade de links. Os rob?s visitam os sites, lendo seu conte?do,
+armazenando cada uma das palavras encontradas e seguindo seus links para
+outras p?ginas4
+. Seguem os links para encontrar outros links e ir, sucessivamente,
+adicionando os endere?os ao banco de dados. Diferentemente dos cat?logos,
+os sites s?o inclu?dos no banco de dados sem nenhuma classifica??o ou descri??o
+de seu conte?do.
+Os programas de busca podem coletar as informa??es de diferentes
+formas. Alguns incluem em seus bancos de dados o conte?do integral dos
+sites, lendo e registrando cada palavra do in?cio ao final do documento. Outros,
+limitam-se a registrar o t?tulo e um resumo constru?do automaticamente pelo
+rob?. Outros ainda, o t?tulo e as primeiras linhas do site.
+Os rob?s voltam aos sites em intervalos regulares para verificar
+altera??es e manter o sistema atualizado. Neste processo eliminam p?ginas
+desativadas, incluem novas e incorporam as modifica??es.
+Os programas de busca s?o mais abrangentes que os cat?logos uma
+vez que os rob?s registram toda a informa??o encontrada. Fornecem, portanto,
+uma vis?o mais ampla do conte?do dispon?vel na Internet sobre um assunto.
+Por outro lado, por terem bancos de dados com milh?es de p?ginas, a busca
+pode ser mais imprecisa, retornando um grande n?mero de respostas
+insatisfat?rias.
+Entre os programas mais conhecidos destacam-se Alta Vista (http://
+www.altavista.com), Northern Light (http://www.northernlight.com), Google
+(http://www.google.com) e, no Brasil, TodoBr (http://www.todobr.com.br ) e
+Radar UOL (http://www.radaruol.com.br).
+O leitor deve deduzir, a partir do exposto, que o resultado de uma
+mesma pesquisa utilizando um diret?rio e um programa de busca ser?o
+diferentes. Haver? tamb?m discrep?ncias quando forem utilizados dois
+programas ou dois cat?logos. Estas diferen?as decorrem n?o s? da forma de
+constru??o dos bancos de dados, como tamb?m do modo de funcionamento
+de cada ferramenta.
+Entre os cat?logos, a varia??o de resultados pode ser atribu?da: aos
+sites selecionados que compor?o o banco de dados; aos crit?rios utilizados
+para classifica??o das informa??es.

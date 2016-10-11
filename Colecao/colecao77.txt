@@ -1,0 +1,12 @@
+Big Data, o que é?
+Big Data veio transformar o mundo das análises e das metodologias, tornando-se uma nova forma de se olhar e interpretar tantas informações. Dados soltos são informações inúteis. É preciso saber como e para que serão usados. É transformar o irrelevante em relevante.
+ENTENDENDO O CONCEITO DE BIG DATA
+Apesar do nome Big Data (megadados em português) ser conhecido desde a década de 60, seu grande boom aconteceu em 2011 tanto no Brasil quanto nos Estados Unidos. Nada esclarecedor ainda, não é? A definição é simples: trata-se de grandes volumes de dados armazenados, velocidade e variedade.
+É possível prever o futuro?
+Brasil x EUA: O termo “big data” é pesquisado nos Estados unidos desde sempre, mas em 2011 houve uma explosão de pesquisas em ambos os países. (Marco Garcia)
+Se acompanharmos a evolução das informações, veremos o quanto é surpreendente o número e o tipo delas. Se antes utilizávamos somente uma agenda diária e uma de telefone, isso seria possível atualmente? Provavelmente não. Temos muito mais informações hoje e as acessamos rapidamente em um simples toque no telefone.
+De forma analítica, esses dados são classificados em:
+Não estruturado: e-mails, fotos, vídeos, mensagens de texto, músicas, geolocalização (GPS), produtos e lojas e-commerce, cada uma com uma linguagem.
+Estruturado: informações básicas e geralmente criptografadas.
+Quando todas essas informações são unidas, estruturadas e codificadas, precisam ter unidade para serem interpretadas. Neste momento entra o profissional especialista no assunto, também conhecido como especialista em Business Intelligence (BI).
+Big Data é um conceito desenvolvido para unir e interpretar informações, prevendo tendências e ajudando na tomada de decisões estratégicas. Por exemplo: se analisarmos determinadas publicações ou buscas de um determinado tema, mudanças climáticas e alguns tipos de compras, pode-se determinar ondas de doenças. É estatística em favor da prevenção, da produtividade, dos negócio.

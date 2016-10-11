@@ -1,0 +1,19 @@
+O modelo vectorial foi desenvolvido por Gerard Salton, que durante 30 anos “was information retrieval”.
+No VSM (vector space model) um documento é representado como um “saco de palavras”. O ranking relevância dos documentos numa pesquisa pode ser calculado, usando os pressupostos da teoria semelhanças de documento, comparando o desvio de ângulos entre cada vector do documento e o vector da consulta original, onde a consulta é representada com o mesmo tipo de vector que os documentos.
+O modelo vectorial é a base da grande maioria de sistemas de recuperação de informação na WWW, embora estes utilizem também outras técnicas para determinar o ranking de documentos como resposta a uma consulta.
+
+As Principais vantagens do VSM:
+
+Um modelo simples baseado em álgebra linear
+O termo não binário
+Permite uma pesquisa contínua de semelhança entre consultas e documentos
+Permite a classificação dos documentos de acordo com a sua relevância
+Permite uma correspondência parcial
+Mas o VSM também tem limitações:
+
+Documentos longos são mal representados porque eles têm valores de similaridade pobres
+Palavras-chave de pesquisa devem corresponder exactamente aos termos do documento
+Sensibilidade semântica: os documentos com contexto semelhante mas diferente vocabulário não serão associados
+A ordem em que os termos aparecem no documento é perdida na pesquisa vectorial
+Assume termos são estatisticamente independentes
+Ponderação é intuitiva, mas não muito formal

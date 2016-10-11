@@ -1,0 +1,66 @@
+MODELO VETORIAL
+O modelo vetorial também é chamado de modelo espaço
+vetorial e representa cada documento como um vetor de termos e cada termo
+possui um valor associado que indica seu grau de importância (peso – weight)
+para o documento, ou seja, cada consulta possui um vetor resultado construído
+através do cálculo da similaridade baseado no ângulo (co-seno) entre o vetor
+que representa o documento e o vetor que representa a consulta. (BAEZA e
+RIBEIRO, 1999)
+São acrescentados pesos aos termos das consultas e
+documentos. Os pesos especificam a relevância de cada termo para a consulta
+e para os documentos no espaço vetorial.
+A consulta do usuário também é representada por um vetor.
+Desta forma, os vetores dos documentos podem ser comparados com o vetor
+da consulta e o grau de similaridade entre cada um deles pode ser identificado.
+Os documentos mais similares à consulta são considerados relevantes para o
+usuário e retornados como resposta. Os pesos são usados para computar a
+similaridade entre cada documento armazenado e uma consulta feita pelo
+usuário. Os métodos de cálculo se baseiam no número de ocorrências do
+termo no documento (freqüência).
+O Modelo Vetorial é definido formalmente: no modelo vetorial, o
+peso wi,j associado com um par (ki, dj) é positivo e não-binário. Os termos de
+indexação nas consultas também possuem peso wi,q associado com um par
+[ki,q], onde wi,q0. O vetor de consulta q é definido como q = (w1,q, w2,q,
+...wt,q) onde t é o número total de termos de indexação. O vetor de documento
+dj é representado por d = (w1,j, w2,j,..., wt,j). (BAEZA e RIBERO, 1999)
+As distâncias entre um documento e outro indicam seu grau de
+similaridade, ou seja, documentos diferentes que possuem os mesmos termos
+são colocados em uma mesma região do espaço e, em teoria, tratam de
+assuntos similares.
+16
+Um documento d e uma consulta q são representados como
+um vetor t-dimensional. O modelo vetorial propõe avaliar o grau de similaridade
+do documento com a consulta por meio de uma qualificação que pode ser feita
+através do cálculo do co-seno (cosine vector similarity) do ângulo entre estes
+dois vetores. Com os graus de similaridade calculados monta-se uma lista
+ordenada (ranking) de todos os documentos e seus respectivos graus de
+relevância à consulta, da maior para a menor relevância.
+Quanto à freqüência de um termo num documento tem-se
+como definição que em um número total N de documentos são selecionados os
+ni documentos em que o termo de indexação aparece; a freqüência é o número
+de vezes que o termo mencionado aparece no texto do documento selecionado
+. Se o termo não aparece no documento selecionado a freqüência é igual a
+zero (fi,j = 0). Segundo Baeza e Ribeiro (1999), a melhor fórmula para calcular o
+peso do termo é dada por
+wi,j = fi,j x log N/ni (3.1)
+O resultado da busca é um conjunto de documentos ordenados
+pelo grau de similaridade entre cada documento e a consulta. A expressão 3.2
+de similaridade calcula a distância entre o vetor de documento e o vetor da
+consulta.
+Características:
+• a atribuição de pesos aos termos melhora o desempenho
+da recuperação;
+17
+• sua estratégia de comparação (matching) parcial permite a
+recuperação de documentos que se aproximam das
+condições da consulta;
+• a fórmula do co-seno classifica os documentos de acordo
+com seu grau de similaridade com a consulta;
+A principal vantagem do modelo vetorial é a recuperação de
+documentos que satisfazem parcialmente a expressão de busca, trazendo
+também documentos similares como conjunto resposta.
+Segundo Baeza e Ribeiro (1999), uma grande variedade de
+métodos de classificação alternativos vem sendo comparados ao modelo
+vetorial e concluiu-se que, em geral, o modelo clássico vetorial é superior ou
+quase tão bom quanto os métodos alternativos conhecidos. Além disso, é
+simples e rápido o que faz dele um modelo de recuperação popular.

@@ -1,0 +1,91 @@
+As primeiras aplicações nesta área foram realizadas em Bancos de Dados corporativos.
+Os métodos e ferramentas utilizados para realizar este processo foram desenvolvidos com base
+em métodos estatísticos, métodos de Inteligência Artificial e métodos provenientes da área de
+Recuperação de Informações (Information Retrieval
+) [27].
+A partir destas primeiras aplicações surgiu a área conhecida como Descoberta de Conhecimento em Bancos de Dados
+(Knowledge Discovery in Databases - KDD). O principal objetivo
+desta área está relacionado à descoberta de co-relacionamentos e dados implícitos em registros
+de bancos de dados, através do estudo e desenvolvimento de processos de extração de conheci-
+mento. Seu principal objetivo é encontrar conhecimento a partir de um conjunto de dados para
+ser utilizado em algum processo decisório.
+Desta forma,  é importante que o resultado  do processo de
+KDD
+seja compreensível a
+humanos, além de útil e interessante para usuários finais do processo, que geralmente são to-
+Mineração de Textos
+
+madores de decisão.  Os processos de KDD
+devem ser vistos como práticas para melhorar os
+resultados das explorações feitas utilizando ferramentas tradicionais de exploração de dados,
+como os Sistemas de Gerenciamento de Bancos de Dados (SGBD)
+[21].
+Normalmente, o processo de KDDdeve ser feito seguindo alguma metodologia, que por
+sua vez envolve um conjunto de fases (Figura 2).  Estas fases podem ser específicas para uma
+determinada aplicação do processo, ou podem ser genéricas. Geralmente as etapas do processo deKDD
+são  (Figura  2):
+Identificação do problema
+Nesta fase,  um estudo do domínio da aplicação,  e a definição dos objetivos e metas a
+serem alcançados no processo de
+KDD
+são identificados.  O sucesso de todo o processo
+depende, neste momento, do envolvimento e participação de especialistas do domínio, no
+sentido de fornecerem conhecimento sobre a área.
+O conhecimento adquirido nesta fase servirá como insumo para todas as outras etapas.
+A etapa de pré-processamento, poderá auxiliar na escolha do melhor conjunto de dados a
+serem utilizados para extração de padrões.
+A etapa de mineração de dados, poderá auxiliar na escolha de um critério de preferên-
+cia entre os modelos gerados, ou mesmo na geração de um conhecimento inicial a ser
+fornecido como entrada para o algoritmo de mineração.
+Já na etapa de pós-processamento, este conhecimento servirá como critério de avaliação
+das saídas produzidas, no sentido de verificar se o conhecimento extraído pode ser útil
+para o usuário final.
+Pré-processamento
+Mineração de Textos
+4
+Uma vez que dados armazenados em bases de dados normalmente não estão em formato
+adequado para extração de conhecimento, faz-se necessária a aplicação de métodos para
+extração e integração,transformação,limpeza,seleção e redução
+de volume destes dados, antes da etapa de mineração.
+Extração e integração envolvem a obtenção dos dados nas várias bases de dados disponí-
+veis, e sua posterior unificação, formando uma única fonte de dados.
+Transformação é a adequação dos dados para serem utilizados em algoritmos de extração
+de padrões.   Estas transformações variam de acordo com o domínio da aplicação,  por
+exemplo,  aplicações  financeiras  que  necessitam  trabalhar  com  vários  tipos  de  valores
+monetários.
+Uma vez que o processo de coleta de dados pode apresentar problemas, como erros de
+digitação, por exemplo, técnicas de limpeza destes dados se fazem necessárias no sentido
+de garantir a qualidade dos mesmos. Este processo também pode ser utilizado para outros
+fins, como a remoção de valores inválidos para determinados atributos, por exemplo.
+A seleção e redução dos dados, normalmente, é necessária em virtude de restrições de
+espaço em memória ou tempo de processamento. Neste caso, o número de exemplos e de
+atributos disponíveis para análise pode inviabilizar a utilização de algoritmos de extração
+de  padrões.   A  redução  dos  dados  pode  ser  feita  diminuindo  o  número  de  exemplos,
+diminuindo o número de atributos ou diminuindo o número de valores de determinados
+atributos [26].  Segundo Glymour et al.  [9], é importante que esta redução mantenha as
+características do conjunto original de dados, por meio de amostras representativas dos
+mesmos.
+
+Mineração de dados(Data Mining)
+Mineração de Dados é uma área de pesquisa multidisciplinar,  incluindo tecnologia de
+bancos de dados, inteligência artificial, aprendizado de máquina, redes neurais, estatís-
+tica,  reconhecimento de padrões,  sistemas baseados em conhecimento,  recuperação da
+informação, computação de alto desempenho e visualização de dados.  Em seu sentido
+relacionado a banco de dados, trata-se do processo de extração ou mineração de conheci-
+mento a partir de grandes volumes de dados [1].
+De acordo com Fayyad et al. [6], mineração de dados é um
+processoe identificação depadrões válidos,novos, potencialmente úteis e compreensíveis
+disponíveis nos dados.
+Processo quer dizer que mineração de dados envolve diversas etapas, por exemplo, pre-
+paração dos dados, busca por padrões e avaliação do conhecimento.
+Padrão significa alguma abstração de um subconjunto de dados em alguma linguagem
+descritiva de conceitos.
+Válidos denota que os padrões descobertos devem possuir algum grau de certeza, ou seja,
+devem garantir que os casos relacionados ao padrão encontrado sejam aceitáveis.
+Um padrão encontrado deve fornecer informações novas, úteis e compreensíveis sobre os
+dados.  O grau de novidade serve para determinar o quão novo ou inédito é um padrão,
+além disso estes devem ser descritos em alguma linguagem que possa ser compreendida
+por seus usuários.
+Esta etapa deve ser direcionada para o cumprimento dos objetivos definidos na etapa de
+identificação do problema.  Na prática,  envolve a escolha,  configuração e execução de
+um ou mais algoritmos para extração de conhecimento.   Estes algoritmos pode

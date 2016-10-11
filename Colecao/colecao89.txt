@@ -1,0 +1,62 @@
+ Refinando a pesquisa
+Quem ainda não se defrontou com a seguinte situação: o resultado de
+uma busca, especialmente quando são utilizados programas de busca, apresenta
+um número excessivo de respostas, sendo que a maioria delas não tem relação
+com o que se procura. O passo seguinte é conhecido. Gasta-se um tempo
+enorme para se selecionar o que é relevante disponibilizado pelos sites.
+Um modo de contornar este problema é através do uso de
+refinamentos, que são comandos que permitem limitar e controlar a ação das
+ferramentas de busca. Através deles é possível definir melhor o objeto de
+interesse e tornar a pesquisa mais eficiente.
+Quando se digita no campo de busca a expressão comércio exterior,
+por exemplo, a ferramenta localizará em seu banco de dados páginas que
+contenham as duas palavras, mesmo que distantes uma da outra. Se se colocar
+a expressão entre aspas, pode-se obter documentos onde tais palavras
+aparecem exatamente nesta ordem. Através dos refinamentos pode-se localizar
+arquivos de imagem, limitar a busca a um certo domínio ou título, identificar
+palavras com diferentes terminações etc.6
+Combinando diversas formas de refinamentos, pode-se controlar ainda
+mais o campo de ação dos buscadores. Digitando no programa de busca Alta
+Vista7
+ a expressão title:”comércio internacional” url:edu, pode-se obter sites
+com exatamente este título provenientes exclusivamente de instituições de
+ensino.
+O controle da linguagem de busca melhora significativamente a eficiência
+da pesquisa. Mas, cada buscador tem suas próprias características, aceitando
+ou não determinados refinamentos. Assim, é importante o conhecimento das
+particularidades de cada ferramenta para ser capaz de extrair todo o seu
+potencial Elaborar uma estratégia de busca é formular uma tática para recuperar
+informações armazenadas em um banco de dados. Uma estratégia de busca
+será eficiente se as informações recuperadas atenderem às necessidades do
+usuário.
+Oldroyd e Citroen (1977) afirmam que, para planejar a estratégia de
+busca, o usuário deve decidir qual é a melhor base de dados para o seu tema,
+selecionar os termos de busca adequados e formular a estratégia.
+Quando se utiliza um buscador, siogniofica que se está pesquisando
+no banco de dados daquela ferramenta. A maneira como o buscador coleta as
+informações que comporão sua base de dados e a forma como estrutura e
+recupera estas informações têm implicações importantes nos resultados que o
+usuário obterá. Portanto, para definir o banco de dados mais adequado aos
+seus objetivos, o usuário deve conhecer as características das diversas
+ferramentas disponíveis.
+A familiaridade com a forma de funcionamento dos diferentes
+buscadores é um fator necessário mas não suficiente para garantir uma busca
+eficiente. O usuário deve, também, oferecer os elementos necessários para
+que sejam selecionados, a partir da totalidade das informações armazenadas
+no banco de dados, um conjunto de itens que constituam a resposta desejada.
+Apesar do contínuo esforço dos desenvolvedores das ferramentas de
+busca para a criação de sistemas de recuperação amigáveis, com orientação
+através de menus ou oferecendo recursos especiais para usuários inexperientes,
+o processo de busca constitui, ainda, uma questão complexa. O usuário deve
+ser capaz de elaborar a linguagem de busca e a estratégia adequada. Para
+sso, deve avaliar o que conhece a respeito do tópico e o que pretende saber
+e, a partir daí, executar os seguintes passos:
+formular a questão da pesquisa e sua abrangência
+identificar os conceitos importantes dentro da questão
+definir a linguagem de busca que identifique estes conceitos
+considerar sinônimos ou variações da linguagem
+preparar a lógica da busca (refinamentos).
+O QUAD. 3, elaborado pelo UC Berkeley Library, indica algumas
+relações entre os objetivos da pesquisa e lógica de busca. À direita estão
+relacionados os objetivos e, à esquerda, os refinamentos adequados àquela
+necessidade.

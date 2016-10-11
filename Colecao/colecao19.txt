@@ -1,0 +1,36 @@
+Partindo da premissa de que a análise do documento é uma significativa contribuição para a comunicação e o fluxo da informação em 
+qualquer organização e para qualquer sistema de recuperação da informação, o presente artigo, baseado em tese de doutorado defendida no 
+Departamento de Ciência da Informação e Documentação da Universidade de Brasília, trata da comparação entre indexação manual e 
+ferramenta de mineração de textos, por meio da análise do índice de precisão de resposta no processo de busca e recuperação da 
+informação.
+
+
+O estudo de caso escolhido para o desenvolvimento da pesquisa foi o Centro de Referência e Informação em Habitação (Infohab) liderado 
+pela Associação Nacional de Tecnologia do Ambiente Construído (Antac) que tem por finalidade a captação, seleção e divulgação de toda a 
+informação acerca da tecnologia do ambiente construído, sobretudo sobre a habitação de interesse social, englobando a sua produção, 
+manutenção e uso.
+
+
+O ambiente construído envolve todas as atividades, recursos, conhecimento, expertises, experiências, tecnologia, equipamentos, 
+instrumentos, mão-de-obra e mercado relacionados à habitação e às políticas públicas sobre saneamento, urbanização, além das questões 
+técnicas que envolvem o estatuto das cidades.
+
+O foco do estudo de caso incidiu sobre uma das competências do Infohab, a manutenção de uma base de dados atualizada com referências dos 
+resultados de pesquisas, legislação federal, estadual/municipal, normas pertinentes, levantamentos governamentais e demais tipologias de 
+documentação.
+
+
+O universo da pesquisa foi representado por 1.520 documentos da Caixa Econômica Federal (Caixa) inseridos na base de dados do Infohab e, 
+como amostra, o acervo de teses e dissertações inseridas no Infohab pela Centralizadora de Documentação e Informação (Cedin), vinculada 
+à Gerência Nacional de Marketing Interno da Caixa (Gemac) (tabela 1, a seguir). A amostra contou com 56 itens bibliográficos, e a sua 
+escolha deveu-se a três fatores:
+todas as teses e dissertações que compõem a amostra são o resultado final de pesquisas realizadas pelo pessoal da Caixa nas áreas de 
+saneamento, desenvolvimento urbano e habitação, sendo, portanto, uma amostra fiel dos assuntos de especialização do universo do 
+trabalho: o ambiente construído. Correspondem também à documentação do capital intelectual* de uma das mais importantes áreas-fim da 
+Caixa, o Desenvolvimento Urbano;
+
+
+• a amostra corresponde ao terceiro tipo de bibliografia mais numeroso na base de dados do acervo Caixa no Infohab, conforme a tabela 1;
+
+• universo relativamente “fácil”, em comparação a outros tipos de documentos disponíveis na organização.
+

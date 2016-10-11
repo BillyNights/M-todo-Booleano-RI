@@ -1,0 +1,10 @@
+O tema Recuperação de Informação sempre foi um tema bastante explorado
+na academia e no mercado. A forma com que os eventos acadêmicos são
+conduzidos demonstra uma maturidade grande da área, inclusive com uma ligação
+forte com o mercado. Inúmeros livros sobre este tema já foram publicados. No entanto,
+são poucos os livros publicados em português. Este texto tenta preencher esta
+lacuna apresentando uma introdução sobre o tema Recuperação de Informação, abordando:
+as principais definições e conceitos da área; os principais modelos que regem
+o desenvolvimento dos Sistemas de Recuperação de Informação; algumas tendências,
+e; os métodos usualmente empregados na avaliação de Sistemas de Recuperação de
+Informação.

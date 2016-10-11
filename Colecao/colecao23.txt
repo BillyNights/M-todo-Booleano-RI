@@ -1,0 +1,9 @@
+Operação de Consulta - envolve a especificação de um conjunto de termos, associados ou não por operadores booleanos, que representa a necessidade de informação do usuário.
+Operação de Indexação - envolve a criação de estruturas de dados associados aos documentos de uma coleção. Uma estrutura de dados bastante utilizada são as listas invertidas de termos/documentos.
+Pesquisa e Ordenação - envolve o processo de recuperação de documentos de acordo com a consulta do usuário e sua ordenação através de um grau de similaridade entre o documento e a consulta.
+Para calcular uma classificação, o sistema de RI usualmente adota um modelo para representar os documentos e a consulta do usuário. Muitos modelos ou abordagens para a computação da classificação tem sido propostos ao longo dos anos, sendo três modelos considerados clássicos:
+
+o modelo booleano,
+o modelo vetorial e modelo probabilístico, e
+O modelo semântico.
+Atualmente, vários outros modelos baseados em argumentos probabilísticos também foram propostos. Apesar desse desenvolvimento, ainda existe uma grande necessidade por novos arcabouços que permitam o aumento da qualidade das respostas a uma consulta do usuário.

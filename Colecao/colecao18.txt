@@ -1,0 +1,96 @@
+A estrutura sintática de uma sentença é obtida através do processamento morfosintático,
+sendo a representação desta estrutura é regidas por leis gramaticais – definidas
+em uma gramática. Outras informações necessárias a esta etapa, como as categorias
+morfológicas das palavras, são encontradas em um léxico.
+O mapeamento da estrutura sintática da sentença em sua forma lógica é
+realizado pelo processamento semântico e, nele, o léxico também exerce papel
+fundamental, com informações sobre o significado dos itens lexicais.
+Vimos que a gramática e o léxico são recursos indispensáveis para a
+transformação1
+ da sentença em sua forma lógica. Vamos examiná-los um pouco mais de
+perto.
+2.2. Gramática
+Uma gramática é constituída por um conjunto de regras de boa formação das palavras e
+das sentenças de uma língua. Essas regras permitem dupla função para as gramáticas
+[Bouillon1998]: a função normativa, que define regras de combinação das palavras,
+gerando sentenças corretas; e a função representativa, que associa a uma ou mais frases
+suas representações sintáticas.
+Uma boa gramática deve ser [Allen1995] (a) suficientemente genérica, aceitando
+o maior número possível de sentenças válidas; (b) seletiva, reconhecendo os casos
+identificados como problemáticos; e (c) inteligível, favorecendo o entendimento de suas
+regras, principalmente, pela simplicidade das mesmas.
+Uma gramática é dita gerativa quando consegue traduzir os fatos lingüísticos
+(inclusive os aspectos criativos) da linguagem por meio de regras e processos explícitos,
+precisos e de aplicação automática, obedecendo a condições específicas [Lobato1986].
+Diversos formalismos de representação computacional podem ser usados para
+representar uma gramática [Nunes1999]. Um destes formalismos é o da gramática de
+constituintes imediatos (phrase-structure grammar – PSG), que é definida como uma
+quádrupla
+<T,N,P,S>,
+onde: T representa o conjunto das palavras da língua,
+N representa o conjunto das categorias funcionais e das categorias lexicais,
+P representa o conjunto de regras de produção, e
+S representa o símbolo inicial pertencente a N.
+Não há um formalismo eleito como o melhor. Os modelos que se situam entre as
+gramáticas livres de contexto e aquelas sensíveis ao contexto têm sido propostos pelos
+pesquisadores como os mais indicados [Vieira2001]. De qualquer forma, quanto ao
+PLN, é indispensável o uso de critérios formais para a construção das regras
+gramaticais. Estes vão se aliar a outro recurso do PLN que é o léxico.
+2.3. Léxico
+De forma genérica, o termo “léxico” significa uma relação de palavras com suas
+categorias gramaticais e seus significados. Em relação a uma determinada língua, léxico é o universo de todos os seus itens lexicais, que seus falantes utilizam, já
+utilizaram ou poderão vir a utilizar [Scapini1995].
+Alguns autores argumentam que o termo “dicionário” carrega tipicamente
+impresso o significado de vocabulário (wordbook) para leitores humanos [Guthrie1996].
+Em alguns casos, utiliza-se o termo “léxico” para identificar o componente de um
+sistema de PLN com informações semânticas e gramaticais sobre itens lexicais.
+Também, usa-se a expressão “base de dados lexical” como sendo uma coleção de
+informações lexicais, apresentadas em formato estruturado e acessível a sistemas de
+PLN.
+De qualquer forma, o propósito dos dicionários (ou léxicos) é prover uma grande
+gama de informações sobre palavras, como etimologia, pronúncia, morfologia, sintaxe,
+entre outras. Eles fornecem definições de seus sentidos e, em decorrência disso,
+produzem conhecimento não apenas sobre a linguagem, mas sobre o próprio mundo
+[Guthrie1996].
+Quanto ao conteúdo, podemos classificar os dicionários em cinco categorias
+[Wertheimer1995]: (a) convencionais, com verbetes em ordem alfabética; (b)
+analógicos, que organizam os itens lexicais de acordo com seu significado; (c)
+etimológicos, que se ocupam exclusivamente da origem das palavras; (d) morfológicos,
+que apresentam as formas flexionais dos lexemas; e (e) de sinônimos e antônimos, com
+listagens de palavras semelhantes ou opostas em significado.
+Quanto ao objetivo a que se destinam, os dicionários podem ser classificados,
+também, em cinco tipos [Wilks1966]: (a) dicionários padrão, que explicam os
+significados das palavras; (b) thesauri, que apontam relacionamentos entre os itens
+lexicais; (c) dicionários bilíngües, que buscam relacionar dois idiomas em nível de
+equivalência de sentidos das palavras; (d) dicionários de estilo, que dão orientações
+sobre o bom uso das regras gramaticais; e (e) dicionários de concordância, que são
+essencialmente ferramentas escolares.
+No contexto do PLN surgem ainda os dicionários (ou léxicos) com capacidade
+de serem legíveis e tratáveis por máquina [Wilks1996]. Espera-se que informações
+lexicais em larga escala possam ser extraídas automaticamente através do que tem sido
+denominado de “dicionário legível por máquina” (machine-readable dictionarie —
+MRD), melhorando, assim, a uniformidade e a consistência da informação. A
+capacidade das máquinas de tratar dicionários, entretanto, vai além dos MRDs, com o
+surgimento dos “dicionários tratáveis por máquina” (machine-tractable dictionaries —
+MTDs). Os MTDs, contendo um grande conjunto de informações lingüísticas,
+viabilizam a conversão de um dicionário existente em uma forma apropriada para PLN.
+Entre os modelos de dicionários com potencial para processamento pelo
+computador, encontra-se o Explanatory Combinatorial Dictionary (ECD)
+[Mel’cuk1992], que adota o modelo Meaning-Text Model (MTM). Este modelo
+descreve uma linguagem natural como um dispositivo lógico que associa os significados
+aos textos, com quatro níveis lingüísticos de representação: (a) semântico; (b) sintático;
+(c) morfológico; e (d) fonético ou ortográfico.
+Outro exemplo é o WordNet [Fellbaum1998], descrito por seus autores como
+uma base de dados lexical legível por máquina e organizada por significado. Ela está
+dividida em grupos de substantivos, verbos, adjetivos e advérbios. Os itens lexicais são
+apresentados através de suas definições, seus diversos sentidos e suas relações com
+outros itens lexicais. Usa o conceito de synset, ou seja, conjunto de sinônimos, para
+construir o relacionamento semântico básico no WordNet, que é a sinonímia (relação
+entre sinônimos). Através de synsets relacionados é formada uma hierarquia lexical,
+pela hiponímia (relação entre um hiperônimo, mais genérico, e um hipônimo, mais
+específico) entre eles, como {robin, redbreast } {bird} {animal, animate_being}
+ {organism, life_form, living_thing} ({tordo, pisco-de-peito-ruivo} {pássaro}
+{animal, ser_animado} {organismo, forma-de-vida, ser-vivo}).
+Contando, então, com bases de dados lexicais e regras gramaticais, a
+transformação da sentença em sua forma lógica é iniciada pelo processamento morfosintático,
+discutido a seguir.

@@ -1,0 +1,29 @@
+De qualquer modo, é necessário ter em mente que o processo de
+indexação visa dar destaque ao que vem a (ou possa) ser informação
+relevante ao usuário, objetivando o que será armazenado e
+posteriormente recuperado pelo mesmo. Esta relevância deve ser
+observada através de questionamentos: Para quê? Para quem? Quando?
+Como? Entre outros. É essencial saber quem é o usuário e quais as
+(possíveis) necessidades do mesmo para que o processo seja eficaz.
+Todavia, como prever quem é o usuário e quais suas necessidades,
+considerando suas diferenças? Aqui se adentram outras discussões, o que
+não se pretende no trabalho, mas sabe-se que estudos de usuários tanto
+são possíveis quanto podem dar retornos positivos para o resultado final
+do trabalho de armazenamento do que é informativo.
+Novas técnicas têm sido desenvolvidas para tentar atender de forma
+mais efetiva este problema: a relevância para o usuário. Há estudos
+totalmente voltados a novos sistemas de classificação e indexação,
+sempre buscando considerar o usuário dos SRIs. Estes estudos não têm
+se restringido apenas aos bancos e bases de dados acadêmicos, mas,
+também, à Internet como um todo. Como exemplo, tem-se a folksonomia:
+sistema de indexação livre, em que o próprio usuário indexa, por meio de
+tags, os materiais de acordo com seu porto de vista. Mesmo que essa
+técnica possa dar a sensação de que as necessidades do usuário sejam
+contempladas, há percepções de problemas nesse sistema, sendo um
+deles o "caos" informativo (CATARINO; BAPTISTA, 2007). Isso se dá pelo
+fato de que os usuários não utilizam termos, no sentido das linguagens
+documentárias e nem uma normalização do uso das palavras, do senso
+comum, escolhidas por eles. Estas palavras utilizadas deixam abertos os
+espaços para a polissemia ou mesmo polifonia. Outro aspecto é que cada
+usuário (pode) faz(er) uso de palavras diferentes para representarem o
+mesmo assunto. 

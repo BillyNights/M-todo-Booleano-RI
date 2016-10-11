@@ -1,0 +1,75 @@
+ Introdução Há muitos anos os homens preocupam-se em criar meios eficientes de localizaçãode informações, para que possam 
+ recuperá-las assim que sejam necessárias. Desde asépocas mais remotas, quando surgiram as primeiras bibliotecas, pessoas 
+ eramencarregadas de estruturar e organizar as informações para que outros pudessemencontrá-las, sem ter que ler e compreender, 
+ documento por documento, até que osdados que estavam procurando fossem localizados.Já naqueles tempos o que os encarregados 
+ pelas informações faziam era aindexação, a organização por assuntos ou tópicos, e a elaboração de hierarquias. Assim,não é 
+ necessário ler todos os documentos para que a informação desejada sejaencontrada, mas sim, determinar seu contexto e estudar 
+ somente aqueles documentosque pertencem ao mesmo assunto.Com o tempo estas técnicas foram sendo aprimoradas, e são utilizadas 
+ até hoje.Com a informatização do processo de armazenamento e manipulação das informaçõestodas estas técnicas foram adotadas. 
+ Apesar, com as facilidades oferecidas pelatecnologia a quantidade de informações que passou a ser manipulada chega a 
+ níveismuito elevados. Com isso, é necessário refinar as técnicas antigas ou elaborar técnicasmais novas capazes de atender a 
+ nova demanda.Segundo Calvin Moores [GUP97] o termo “Recuperação de Informações”identifica o ato intelectual, realizado pelo 
+ usuário, de especificação e de descrição dainformação de que ele necessita. O termo abrange também os sistemas, as técnicas e 
+ asmáquinas utilizadas neste processo de busca de informações relevantes para o usuário.Na época, 1950, Calvin imaginava somente 
+ informações textuais (documentos), edurante muitos anos esta foi a abrangência da área: um pequeno mercado onde a maiorparte 
+ das aplicações eram os bancos de dados bibliográficos. No entanto, a evoluçãotecnológica mais uma vez alterou os rumos da 
+ ciência, oferecendo uma série defacilidades para o manuseio dos dados, tais como meios de armazenamento mais rápidoscom maior 
+ capacidade, e equipamentos de digitalização e obtenção de informaçõesdiversas.Com isto, novos tipos de informação surgiram e a 
+ área passou a preocupar-se,também, com outras fontes de informação. Obviamente, recuperar informações já nãosignifica mais 
+ buscar documentos, mas sim também sons, imagens, vídeos e outros tiposde dados que surgem a cada momento.Com o surgimento de 
+ novos tipos de informação, novas técnicas de manipulaçãode dados precisaram ser criadas. Hoje em dia, facilidades antes 
+ consideradasimpraticáveis, devido a capacidade dos sistemas, já não são mais novidade. É comumobservar nos sistemas 
+ características como a utilização de linguagem natural, linguagensde consulta, resultados por ordem de relevância ao usuário e 
+ assistentes de formulaçãode consulta. Neste caso a área de passou preocupar-se, também, em otimizar alocalização, recuperando a 
+ maior quantidade de itens relevantes no menor tempopossível, com o mínimo de esforço e com a máxima eficiência. Isso torna a 
+ áreacomplexa, exigindo estudos em outras áreas tais como a Teoria da Informação,probabilidade, técnicas de otimização, 
+ reconhecimento de padrões e modelagemmatemática.
+Isso mostra que a área da recuperação de informações é uma área extremamentedependente da evolução tecnológica. Enquanto houver e
+evolução, haverá a necessidadede novos estudos a fim de adaptar ou criar novos métodos. Métodos estes que atendam ademanda dos 
+novos tipos de dados ou dos novos equipamentos que manipulam estesdados. Isso pode ser considerado um problema, e é um dos dos 
+fatores que maismotivam os estudos na área, já que as técnicas anteriores precisam ser repensadas erefinadas de acordo com as 
+novas tendências.Atualmente a informação não só é dinâmica como também é volumosa, o queocasiona um novo problema. A quantidade 
+de informações com que o homem vemtrabalhando já não é mais a mesma do que a de alguns anos atras. O grande número debancos de 
+dados, disponíveis
+
+on-line, faz com que o volume de informações ao alcancede qualquer pessoa torne-se grandioso, e não há alguém capaz de assimilar 
+tamanhaquantidade.É o que ocorre naInternet 
+onde as fontes de informações são muito numerosas edinâmicas. A Internet é uma grande rede de informações heterogêneas e 
+distribuídas,que estão interligadas através dos chamados
+links(elos). Estas informações sãomantidas e utilizadas por pessoas do mundo inteiro. Cada uma destas pessoas possui suacultura, 
+sua necessidade e seu modo de ver as coisas. Isso gera um ambiente totalmentedesestruturado, o que dificulta a localização de 
+informações tornando-a uma tarefacomplicada. Segundo [CAT96], o usuário necessita localizar a informação de seuinteresse 
+navegando pelas ligações existentes entre estas inúmeras fontes de informação,realizando uma verdadeira garimpagem, o que pode 
+gerar uma sobrecarga cognitiva edesorientação.Em [KUO96] comenta-se que isso ocorre porque os métodos tradicionais 
+sãoinadequados para este tipo de estrutura, havendo então uma necessidade por melhorestécnicas de acesso. Segundo [CRO95], estas 
+técnicas devem ser capazes de guiar ousuário por entre esse emaranhado de informações, mostrando-lhe somente àquelas quesão 
+realmente importantes, de acordo com sua necessidade.Além dos problemas da dinâmica da informação é necessário solucionar 
+tambémos problemas relacionados a sua integração. Não adianta criar métodos que solucionemsomente os problemas relacionados a um determinado tipo de informação. Quandoalguém está procurando informações sobre determinado assunto, é esperado que todasas 
+
+informações relacionadas a este assunto, independente de sua forma, sejamretornadas. Esta não é uma tarefa trivial pois cada informação tem sua estrutura.A integração de pessoas através da
+rede é um fato necessário e de grande utilidadepara todos. A Internet é um dos únicos meios de comunicação que consegue 
+tamanhadiversidade, já que há uma certa liberdade de utilização, de expressão e dedisponibilização das informações desta rede. É 
+devido à toda esta diversidade que torna-se trabalhoso o processo de localização de informações. Chega a ser irônico o fato deum 
+meio tão poderoso e irrestrito de comunicação não possuir meios de acesso rápido àsinformações de que o usuário necessita.Este é 
+mais um dos motivos que tornam as pesquisas na área tão importantes, jáque as soluções ainda não são eficientes. É claro que a 
+Internet não é a únicapreocupação da área. Há ainda as Bibliotecas Digitais, cujo papel também é proverinformações. Este tipo de 
+estrutura facilita muito a educação, e tem, portanto, muitautilidade.
+ 
+As Bibliotecas Digitais são o futuro da informação eletrônica, onde o materialbásico é o texto, podendo conter gráficos, 
+imagens, sons e vídeos. Neste caso osmesmos problemas citados anteriormente podem ser encontrados. Isso porque não háuma 
+estrutura comum e existe muita redundância. Os fatores segurança e privacidadetambém não devem ser deixados de lado.Estes são os 
+motivos que geraram o estudo apresentado neste trabalho. Naspróximas seções buscar-se-á abordar as técnicas utilizadas no 
+processo de recuperaçãode informações, já que tudo indica que a informação deverá tornar-se um dos maioresrecursos da humanidade 
+nas próximas décadas.O objetivo deste trabalho é realizar um levantamento bibliográfico, a fim dedemonstrar as principais 
+técnicas e modelos envolvidos no processo de recuperação deinformações textuais. Porém, sempre que possível, buscar-se-á 
+abstrair as idéias básicasdo processo possibilitando sua utilização em quaisquer outros tipos de informação, compequenas 
+adaptações.No primeiro capítulo,
+Conceitos, descrever-se-á o paradigma envolvido noprocesso de Recuperação de Informações, incluindo o formalismo necessário 
+pararealizar o mapeamento das informações, possibilitando assim sua posterior localização.Além disto, serão apresentados alguns 
+conceitos básicos necessários para uma melhorcompreensão da área e dos capítulos seguintes.O capitulo seguinte,
+Recuperação de informações textuais, desenvolve oparadigma, descrevendo como este é aplicado na busca de informações textuais. 
+Lá podeser encontrado também um pequeno
+tutorial sobre as técnicas envolvidas no processo deindexação de informações textuais.No Capítulo 3, apresentar-se-á os modelos 
+de recuperação de informaçõesutilizados pela maioria dos sistemas de recuperação de informações. Já no Capitulo 4serão 
+discutidas algumas ferramentas de apoio à recuperação de informaçõesencontradas na literatura, cujo objetivo é melhorar a 
+eficiência dos sistemas e minimizaros problemas inerentes ao processo de recuperação de informações.Finalmente são apresentadas algumas considerações e conclusões sobre o trabalhorealizado, descritas no Capítulo

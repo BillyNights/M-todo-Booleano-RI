@@ -1,0 +1,75 @@
+A Recuperação da Informação é um tema
+investigado tanto pela Ciência da Informação
+quanto pela Ciência da Computação. A
+Recuperação da Informação tem sido estudada
+pela Ciência da Informação desde a sua origem,
+quando essa área apontou como sua finalidade a
+tarefa de tornar acessível um acervo crescente de
+registros de conhecimentos (DUQUE, 2005).
+Segundo Cardoso (2007), a Recuperação
+da Informação é uma área da Ciência da
+Computação que lida com armazenamento
+automático e recuperação de documentos, que
+são de grande importância devido ao uso
+universal da linguagem para comunicação.
+Grande parte das informações
+armazenadas pelo homem se encontra,
+atualmente, em formato digital. Uma das
+preocupações dos pesquisadores da área da
+Recuperação da Informação está em como
+organizar e representar as inserções de novos
+documentos neste acervo, bem como facilitar a
+busca aos documentos, em uma posterior
+recuperação (MIORELLI, 2001).
+Três conceitos fundamentais são
+utilizados para avaliação de sistemas de
+Recuperação de Informação. O primeiro deles é
+o conceito de relevância. Um documento
+relevante é aquele que atende a necessidade do
+usuário, a qual foi submetida como uma
+pesquisa à base.
+O conceito de revocação refere-se à
+medida que avalia o quanto foi possível abranger
+os documentos relevantes da base de dados em
+uma pesquisa.
+Por fim, o conceito de precisão associase
+à medida que avalia o quanto o resultado da
+consulta foi efetivamente útil (CÂMARA
+JÚNIOR, 2007).
+Os conceitos abordados anteriormente
+relativos à relevância, revocação e precisão são
+demonstrados na Figura 1. 
+A Inteligência Artificial é a parte da Ciência da
+Computação que estuda o desenvolvimento de
+sistemas computacionais com características que
+podem ser associadas à inteligência no
+comportamento humano, tais como:
+compreensão da linguagem, aprendizado,
+raciocínio, resolução de problemas, etc.
+(FERNANDES, 2003).
+ Segundo Vinhaes (2005), a Inteligência
+Artificial é uma ciência nova, iniciada na década
+de quarenta, baseada em pesquisas que
+estudavam o funcionamento do cérebro com o objetivo de formalizar seu comportamento. Mas
+somente a partir de 1956, a Inteligência
+Artificial foi reconhecida como uma ciência. Ela
+se baseou em várias áreas do conhecimento
+humano, tais como: neurociência (que fornece
+conhecimentos sobre o funcionamento do nosso
+cérebro), filosofia (estuda como é o pensamento
+humano), entre outras. Entre estas e outras áreas,
+a linguística é essencial para o desenvolvimento
+da PLN, pois além de fornecer formas de
+representar o conhecimento, ela propicia todos
+os conhecimentos necessários para o
+desenvolvimento de um sistema que seja capaz
+de processar alguma Linguagem Natural.
+ Em 1950, Alan Turing, propôs um teste
+para fornecer uma definição operacional do que
+seria inteligência. Para Turing, uma máquina
+poderia ser considerada inteligente se ela fosse
+capaz de responder perguntas feitas por um
+interrogador, e que o mesmo não saberia se as
+respostas estavam vindo de uma pessoa ou não.
+Uma máquina para passar neste teste teria que
+ter as seguintes capacidades: 

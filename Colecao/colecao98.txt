@@ -1,0 +1,34 @@
+É sabido que a sociedade vem passando por profundas transformações e os vários estudos e pesquisas sobre o desenvolvimento 
+econômico e social apontam que, dos três fatores básicos de produção - o trabalho, o capital e o conhecimento -, a importância 
+relativa entre eles vem historicamente se deslocando do primeiro, passando pelo segundo e se concentrando, nos últimos tempos, 
+no terceiro - o conhecimento, que se apóia em infra-estrutura de informações amplas e instantâneas (Ciência e Tecnologia, 1994).
+Os avanços da Tecnologia da Informação reforçam as mudanças econômicas e sociais que estão revolucionando os negócios e a 
+sociedade. A nova espécie de economia - baseada na informação - está emergindo onde o comércio e o investimento são globais e 
+empresas competem com conhecimento, redes eletrônicas e agilidade.
+O volume crescente de informações e os vários meios de armazenagem fizeram com que as organizações responsáveis pelo 
+tratamento/armazenamento/ recuperação criassem mecanismos para possibilitar o uso dessa grande "massa de dados", acoplando as 
+tecnologias de automação e propiciando, dessa forma, as bases de dados com acesso on-line e/ou em cd-rom. A tecnologia vem 
+subsidiando também o progresso das redes de comunicação de dados, o que possibilita o acesso significativo às informações 
+disponíveis em nível mundial e atende aos variados requisitos da comunidade usuária.
+No entanto, em função da existência de diversos tipos e arquiteturas de redesI para intercâmbio de dados, a necessidade de 
+ordenar este desenvolvimento forçou a criação de modelos ou padrões para assegurar os investimentos feitos pelos fabricantes e 
+usuários. As características e os tipos de serviços de comunicação, associados à qualidade dos serviços à clientela, determinam 
+as funções de rede; são numerosos os caminhos de alocação dessas funções para níveis diferentes de protocolosII partilhados 
+entre nós de usuáriosIII e nós de comutação de dados (Alves, 1992). As mais importantes redesIV, atualmente em funcionamento, 
+foram desenvolvidas de acordo com as principais arquiteturas e recomendações disponíveis: OSI, SNA, TCP/IP e outrasV.
+Como os computadores em geral, a tecnologia de redes está mudando drasticamente em termos de rapidez e tamanho, como resultado 
+não somente do desenvolvimento tecnológico, mas também da distribuição desses recursos e acesso encontrado nos programas 
+políticos e econômicos. Historicamente, a Internet vinha sendo utilizada apenas pelos meios acadêmicos e de pesquisa, mas 
+pressões para a sua expansão têm crescido enormementeVI.
+Membros da comunidade de serviços de informação estão sendo constantemente alertados, por meio de eventos e publicações 
+especializadas, que essa rede, ou qualquer outra escolha de Web globalVII de redes de comunicação entre computadores, é 
+virtualmente importante para o futuro das bibliotecas e serviços de informação. A Internet é agora um canal para disseminar e 
+procurar informação, para comunicar, para aprender e ensinar, e para conduzir negócios e comércio (Tennant, 1993). O acesso à 
+rede pode ser efetuado com o protocolo TelnetVIII, FTPIX ou através de aplicações cliente/servidorX, como, por exemplo, o http 
+para o WWW11, GopherXI, WAISXII e ainda com aplicações que utilizam a norma Ansi/Niso Z39.50, cuja explanação mais detalhada, 
+objetivo desse texto, encontra-se a seguir.Z39.50 é um protocolo de comunicação entre computadores desenhado para permitir 
+pesquisa e recuperação de informação - documentos com textos completos, dados bibliográficos, imagens, multimeios - em redes de 
+computadores distribuídos. Baseado em arquitetura cliente/servidor e operando sobre a rede Internet, o protocolo permite um 
+número crescente de aplicações. E como esse ambiente é muito dinâmico, no qual o protocolo é aplicado, é preciso que a norma 
+seja constantemente analisada e atualizada para proporcionar as mudanças de que os criadores, provedores e usuários de 
+informação necessitam (Moen, 1995).

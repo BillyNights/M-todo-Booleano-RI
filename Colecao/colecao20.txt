@@ -1,0 +1,163 @@
+A popularidade obtida pela Internet nos últimos
+anos ocasionou um aumento na quantidade de
+informações disponíveis na web, facilitando assim o
+processo de disseminação do conhecimento.
+Entretanto, este mesmo fenômeno trouxe, como
+consequência, uma sobrecarga de informação que faz
+com que encontrar informação relevante geralmente
+envolva a análise de uma grande quantidade de dados
+textuais [1] [2]. Neste contexto, a maior parte dos
+dados disponíveis está armazenada em documentos na
+forma de textos escritos em linguagem natural.
+Com a finalidade de resolver problemas de
+descoberta de conhecimento em bases de texto, surge a
+mineração de textos ou text mining, oferecendo um
+conjunto de métodos que permite a navegação,
+organização e descoberta inteligente de informação em
+bases de dados não estruturadas. Minerar dados do
+tipo texto é um método interdisciplinar que envolve as
+áreas de recuperação de informação, aprendizagem de
+máquina, estatística, linguística computacional e
+mineração de dados. Cada uma dessas áreas, ou a
+intersecção das mesmas, é usada para transformar o
+texto em um formato que a máquina consiga processá-
+lo e entendê-lo [3]. A principal diferença entre o processo de
+mineração de dados tradicional e a mineração de
+textos é que, enquanto a abordagem convencional
+trabalha exclusivamente com dados estruturados, a
+mineração de textos lida com dados em linguagem
+natural e que, portanto, possui pouca ou nenhuma
+estrutura [4] [5]. Os sistemas de mineração de textos
+não podem simplesmente submeter um conjunto de
+textos desestruturados para os algoritmos de
+descoberta de conhecimento [6] [7]. Para tal, técnicas
+de processamento de linguagem natural (PLN) são
+amplamente empregadas visando preparar os dados
+textuais, dos quais se busca algum tipo de
+conhecimento.
+Assim, o PLN visa promover um nível mais alto de
+compreensão da linguagem natural através do uso de
+recursos computacionais, com o emprego de técnicas
+para o rápido processamento de texto [3]. O
+Processamento de Linguagem Natural surgiu devido à
+necessidade de compreensão automática e
+comunicação em geral do ser humano com o
+computador. Trata-se de um mecanismo criado não
+somente para extrair as informações de textos, mas
+também para facilitar a entrada de dados nos sistemas
+e a estruturação desses dados [8].
+Segundo Aranha [6], o PLN é o campo da Ciência
+da Computação e da Linguística que abrange um
+conjunto de métodos formais para analisar textos e
+gerar frases em um idioma humano através do uso de
+programas computacionais. Segundo Bulegon [8], o
+Processamento de Linguagem Natural envolve quatro
+etapas: análise morfológica, análise sintática, análise
+semântica e análise pragmática, que são realizadas
+nesta mesma ordem.
+A análise morfológica é responsável por definir
+artigos, substantivos, verbos e adjetivos,
+armazenandoos em um tipo de dicionário. Depois de
+construído o dicionário, a análise sintática faz uso dele
+procurando mostrar relacionamento entre as palavras
+e, num segundo momento, verifica sujeito, predicado,
+complementos nominais e verbais, adjuntos e apostos.
+Na análise semântica, ocorre o encontro de termos
+ambíguos, de sufixos e afixos, ou seja, questões de
+significado associados aos morfemas componentes de
+uma palavra, o sentido real da frase ou palavra.
+Para a junção e visualização de todas as etapas, a
+análise pragmática faz a conexão de todo o mecanismo
+e mostra visualmente o resultado. Para este caso,
+existem algoritmos que disponibilizam o texto em
+forma de árvore apresentando todos os passos
+seguidos até a conclusão do processamento. Segundo
+Passos e Aranha [13], considerando em particular o
+processo de descoberta de conhecimento, as práticas
+de PLN são meios agregadores de valores semânticos
+ao texto, capazes de gerar diversos benefícios na busca
+por padrões específicos. Mas qual seria a melhor
+técnica de PLN para minerar textos?
+Na verdade, considerando a popularidade da web,
+apontada no início desta seção, pode-se observar que a
+grande quantidade de dados textuais disponíveisatualmente se dá principalmente pela interação entre
+indivíduos na rede, especialmente em ambientes
+sociais, como fóruns e sites de relacionamento (redes
+sociais, em outras palavras).
+Os sites de redes sociais são serviços web que
+permitem que os indivíduos i) construam um perfil
+público ou semi-público; ii) articulem uma lista de
+amigos com os quais eles compartilham uma conexão;
+iii) que possam “navegar” pelas listas de seus amigos
+buscando novos possíveis amigos para sua própria
+rede [9]; iv) que troquem mensagens; v) compartilhem
+conteúdos e; vi) agreguem conteúdos de sites parceiros
+[10].
+Sendo assim, no contexto das redes sociais, qual
+seria a melhor abordagem de PLN para minerar
+textos? Uma maneira de responder estas questões é
+aplicar o método de mapeamento sistemático da
+literatura, que sendo um método secundário de
+pesquisa, tem o propósito de identificar estudos
+disponíveis e relevantes sobre uma determinada
+questão de pesquisa, com o intuito de apresentar
+informações exploratórias sobre uma determinado
+tema de pesquisa [11] [12]. O mapeamento sistemático
+é um tipo estudo secundário que traz como resultado
+uma ampla visão acerca de um determinado contexto
+de uma área. Permite assim, que seja identificada, por
+exemplo, a quantidade e distribuição dos estudos
+relevantes disponíveis em um determinado período, a
+frequência de publicação dos trabalhos, região e
+grupos de pesquisa de cada publicação, buscando
+aumentar o conhecimento sobre o estado de uma área
+ou tópico específico [11] [15].
+No entanto, Kitchenham, Dybå e Jørgensen [14],
+pioneiros do desenvolvimento de estudos secundários
+na engenharia de software, defendem que uma
+pesquisa secundária só deve ser conduzida se a busca
+inicial por estudos empíricos retornar um número
+considerável de pesquisas que possam ter seus
+resultados analisados. Considerando que os tópicos
+abordados até agora (mineração de textos, PLN e redes
+sociais) tem uma conexão relativamente nova, pode-se
+imaginar que a literatura atual dispõe de um número
+considerável de pesquisas empíricas sobre o uso de
+PLN em mineração de textos, para que um estudo
+completo sobre esses elementos no contexto das redes
+sociais seja realizado.
+Neste sentido, esta pesquisa realizou um
+mapeamento prévio, em um número reduzido de bases
+(duas bases de dados conceituadas), visando
+identificar se a literatura já apresenta estudos
+suficientes na área de PLN e Mineração de Textos que
+viabilize a realização de uma pesquisa secundária
+maior, que vise identificar técnicas de PLN para
+minerar dados de fóruns e redes socais. Assim, este
+estudo busca por evidências para responder as
+seguintes perguntas de pesquisas preliminares:
+RQ1: Na literatura, existe um número considerável
+de pesquisa que utilizaram PLN em problemas de
+mineração de textos? 
+RQ2: Quais técnicas de PLN estão sendo aplicadas
+na mineração de textos e qual a técnica mais
+recorrente?
+RQ3: Quais são as vantagens e as limitações de
+cada técnica observadas e discutidas pelos
+pesquisadores em seus trabalhos?
+Este artigo segue organizado em cinco seções, a
+partir desta introdução. A segunda seção apresenta
+informações conceituais acerca do assunto. Na seção
+subsequente são apresentados os procedimentos
+metodológicos adotados para realização do trabalho.
+Logo após, na quarta seção, os resultados do estudo
+são apresentados e discutidos e, por fim, a quinta
+seção trata das considerações finais.
+Os resultados preliminares encontrados nesta
+pesquisa foram defendidos e aprovados como um
+trabalho de conclusão do curso de sistemas de
+informação e seu resultado mostra a viabilidade da
+realização de um mapeamento maior, contemplando
+mais bases de dados e que estenda esses resultados,
+para a escolha de uma técnica de PLN adequada para
+minerar textos de uma rede social colaborativa. 

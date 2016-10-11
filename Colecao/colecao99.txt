@@ -1,0 +1,82 @@
+Sabe-se que o cérebro é composto de bilhões de
+neurônios. Um neurônio é uma célula formada por três
+seções com funções específicas e complementares: corpo,
+dendritos e axônio. Os dendritos captam os estímulos
+recebidos em um determinado período de tempo e os
+transmitem ao corpo do neurônio, onde são processados.
+Quando tais estímulos atingirem determinado limite, o
+corpo da célula envia novo impulso que se propaga pelo
+axônio e é transmitido às células vizinhas por meio de
+sinapses. Este processo pode se repetir em várias camadas
+de neurônios. Como resultado, a informação de entrada
+é processada, podendo levar o cérebro a comandar reações
+físicas. A figura 1 ilustra de forma simplificada as partes
+de um neurônio.
+A habilidade de um ser humano em realizar funções
+complexas e principalmente a sua capacidade de aprender
+advêm do processamento paralelo e distribuído da rede
+de neurônios do cérebro. Os neurônios do córtex, a
+camada externa do cérebro, são responsáveis pelo
+processamento cognitivo. Um novo conhecimento ou
+uma nova experiência pode levar a alterações estruturais
+no cérebro. Tais alterações são efetivadas por meio de um
+rearranjo das redes de neurônios, reforçando ou inibindo
+algumas sinapses. De uma forma simplificada, a recuperação de informação
+lida com documentos, termos de indexação e as
+expressões de buscas dos usuários. Pode-se dizer que,
+em um sistema de recuperação de informação, de um
+lado estão as expressões de busca, do outro lado estão os
+documentos e no centro estão os termos de indexação.
+Essa estrutura pode ser vista como uma rede neural de
+três camadas: a camada de termos de busca seria a camada
+de entrada da rede neural, a camada de documentos seria
+a saída, e a camada de termos de indexação seria uma
+camada central. A figura 4 mostra um exemplo genérico
+da aplicação das redes neurais na recuperação de
+informação.Os termos de busca (t
+1
+, t7
+, t3
+, t9
+) iniciam o processo de
+inferência mediante a ativação dos respectivos termos
+de indexação. Alguns termos da expressão de busca
+podem não fazer parte do conjunto de termos de
+indexação, como é o caso do termo t
+7
+ e t
+9
+. Nesse caso,
+esses termos não ativarão nenhum termo de indexação
+e, portanto, não serão considerados durante o processo
+ativação da rede. Os termos de indexação ativados pelos
+de termos de busca enviam sinais para os documentos.
+Estes sinais serão multiplicados pelos pesos de cada
+ligação (p1,1, p1,2, ..., pn,m ). Os documentos ativados enviam
+sinais que são conduzidos de volta aos termos de
+indexação. Ao receberem estes estímulos, os termos de
+indexação enviam novos sinais aos documentos,
+repetindo o processo. Os sinais tornam-se mais fracos a
+cada iteração, e o processo de propagação eventualmente
+pára. O resultado final de uma busca será um conjunto
+dos documentos que foram ativados, cada qual com um
+nível ativação que pode ser interpretado como o grau de
+relevância do documento em relação à busca do usuário.
+Entre os documentos resultantes, podem aparecer alguns
+que não estão diretamente relacionados aos termos
+utilizados na expressão de busca, mas que foram inferidos
+durante a pesquisa e possuem certo grau de relacionamento
+com a necessidade de informação do usuário. A ativação
+do termo de indexação t1, por exemplo, ativou a conexão
+com o documento d1. O documento d1, por sua vez, ativou
+o termo t2, que não fazia parte do conjunto de termos de
+busca. O termo t2 poderá ativar o documento dm, que,
+dependendo do seu grau de ativação, pode vir a fazer parte
+do conjunto de documentos recuperados.
+Mozer (1984) foi o pioneiro na utilização de técnicas de
+redes neurais na recuperação de informação. Ele utilizou
+uma arquitetura bastante simples que não empregava uma
+das principais características das redes neurais, que é a
+capacidade de aprender. A figura 5 mostra um exemplo
+apresentado por Ford (1991, p.108), que utiliza a
+arquitetura de rede neural idealizada por Mozer.

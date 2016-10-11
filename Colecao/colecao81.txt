@@ -1,0 +1,25 @@
+A recuperação da informação pode ser entendida como uma área da ciência que se dedica ao estudo de técnicas de armazenamento de 
+documentos e de recuperação de informação neles contidas, utilizando ou não metadados que os descrevem. Nos dias atuais em que as 
+ferramentas de busca na Internet tornaram possível pesquisar documentos produzidos pelo mundo inteiro, o acesso à informação 
+relevante torna a precisão na recuperação da informação uma demanda que ganha cada vez mais importância. Da necessidade do 
+Tribunal de Contas da União de melhorar os resultados da precisão e da revocação da sua pesquisa textual jurisprudencial nasceu 
+a motivação para o presente trabalho. A precisão é o percentual de documentos relevantes em relação ao número de documentos 
+retornados na consulta [Kent et al., 1955]. A revocação é o percentual de documentos relevantes em relação ao número de 
+documentos relevantes do corpus de documentos [Kent et al., 1955]. Os mecanismos de recuperação da informação devem ser capazes 
+de auxiliar o usuário que, em geral, não tem conhecimento da forma exata em que ocorrem os termos nos documentos que contém a 
+informação que procura. Um esforço que tem sido feito no sentido de contornar esse problema é a utilização de ontologias ou 
+tesauros para ampliar a consulta solicitada pelo usuário [Miller, 1990]. No entanto, essa alternativa envolve um esforço em 
+recursos humanos, financeiro e tempo muito grande para a construção dessas estruturas. Nessa pesquisa é proposta a utilização de 
+um modelo estatístico da linguagem, derivado da tradução estatística da linguagem [Brown et al.,1993], para ampliar a consulta 
+solicitada pelo usuário. Nessa abordagem é utilizado um algoritmo de EM (do inglês, Expectation Maximization) [Dempster, Laird & 
+Rubin, 1977] para estimar índices de similaridades entre termos dos documentos. Nesta abordagem, cada consulta retorna os 
+documentos contendo os termos nela contidos e os termos que são similares àqueles. Com essa metodologia, espera-se melhorar a 
+precisão sem reduzir a revocação. Para permitir uma avaliação experimental com corpus com milhares de documentos, o algoritmo EM 
+foi alterado para permitir a manipulação de matrizes esparsas e gerência de memória virtual. Foram introduzidas alterações na 
+ferramenta aberta de recuperação de informação Terrier [Ounis et al. 2006] visando permitir que a indexação e recuperação 
+considerem similaridades. Os experimentos realizados consideram corpora em língua inglesa (Medline e CFC) para permitir utilizar 
+a metodologia de avaliação da TREC (Text Retrieval Conference). Foram também realizados experimentos em língua portuguesa (
+corpus CETEN-Folha) mas para eles não foi possível aplicar a metodologia de avaliação internacional. Os resultados obtidos até o 
+momento são iniciais e não permitem afirmar que a utilização da metodologia proposta no sistema de recuperação de textos do TCU 
+possa superar o desempenho do sistema atual. No entanto, espera-se uma melhora potencial visto que os resultados obtidos com os 
+corpora da TREC são relativamente próximos aos obtidos com os melhores algoritmos de recuperação implementados no Terrier.

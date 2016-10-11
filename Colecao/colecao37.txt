@@ -1,0 +1,37 @@
+Sistemas de recuperação da informação x
+precisão
+O que se almeja ao fazer uma busca
+numa base de dados é encontrar
+documentos que sejam úteis para
+satisfazer a uma necessidade de
+informação, e evitar a recuperação de
+itens inúteis.
+Fonte: LANCASTER (2004, p. 4)
+Sistemas de recuperação da informação x
+qualidade
+Nos sistemas de informação, a
+recuperação está condicionada às
+condições de armazenagem. A eficiência
+de um sistema de recuperação de
+informação depende muito da qualidade
+da indexação tanto dos documentos
+quanto das questões.
+Fonte: FUJITA (2012, p. 18)
+Sistemas de recuperação da informação x
+precisão
+São vários os fatores que determinam se a
+busca numa base de dados é ou não bem
+sucedida:
+ cobertura da base de dados;
+ política de indexação;
+ prática na indexação e na elaboração de
+resumos;
+qualidade do vocabulário controlado;
+qualidade das estratégias de busca
+Fonte: LANCASTER(2004, p. 4)
+Sistemas de recuperação da informação x
+precisão
+Revocação: capacidade de recuperar
+documentos úteis Precisão: capacidade de evitar
+documentos inúteis
+Fonte: LANCASTER (2004, p. 4)

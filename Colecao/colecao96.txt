@@ -1,0 +1,111 @@
+A indexação diz respeito à identificação do conteúdo do
+documento por meio do processo de análise de assunto e à
+representação desse conteúdo por meio de conceitos. Esses
+conceitos, por sua vez, serão representados ou traduzidos
+em termos advindos de uma linguagem documentária, com
+vistas à intermediação entre o documento e o usuário no
+momento da recuperação da informação, seja em índices,
+catálogos ou bases de dados.Os autores divergem quanto ao número de etapas da
+indexação, porém, elas tratam basicamente das mesmas
+operações:análise: leitura e segmentação do texto para identificação
+e seleção de conceitos;
+síntese: construção do texto documentário com os conceitos
+selecionados. Está relacionada especificamente à
+elaboração de resumos;
+representação: por meio de linguagens documentárias.
+Sobre o assunto, Fujita (1999) afirma que os processos
+de análise e síntese sugerem que os textos passam por uma
+espécie de “desestruturação” para a construção de outro
+texto, o documentário. Ou seja, para análise, o texto é segmentado,
+os conceitos são identificados e selecionados; e
+para a síntese há um processo de condensação do texto e a
+elaboração de um texto documentário que é um resumo,
+não somente no sentido da produção de um conjunto de
+frases e enunciados sintetizando o documento, como palavras-chave
+e notações de classificação.
+A etapa inicial da indexação é a análise de assunto, que
+é realizada por meio da leitura documentária feita pelo indexador,
+que procura compreender de maneira geral o documento
+para identificar e selecionar os termos que o representarão
+para efeito de recuperação.
+A análise de assunto realizada durante a catalogação
+deverá ser norteada por princípios de política de indexação
+que devem fazer parte de um manual de indexação da instituição
+e sobre a qual o bibliotecário deve ter conhecimento
+e domínio.
+Esses princípios deverão influenciar o bibliotecário na
+sua decisão sobre a determinação de conceitos cujo resultado
+será observado pelo usuário na recuperação da informação.
+São eles: especificidade, exaustividade, revocação e
+precisão.
+Neste capítulo, portanto, apresentamos os resultados
+obtidos em um estudo com bibliotecários indexadores e
+usuários de bibliotecas universitárias com o objetivo de
+contribuir para a elaboração de política de indexação com
+diretrizes para a elaboração de catálogos coletivos nesse tipo
+de biblioteca.
+A seguir, verificaremos cada um desses elementos, a
+forma como eles influenciam a análise de assunto realizada
+pelos bibliotecários e como a recuperação da informa-
+ção pelos os usuários é afetada.A indexação é reconhecidamente um processo imbuí-
+do de subjetividade, uma vez que é realizado por seres humanos
+que usam seu conhecimento prévio (da linguagem
+do sistema, da estrutura textual, do assunto e até de mundo)
+e acionam estratégias durante a leitura documentária a
+fim de que seu objetivo seja atingido: identificação e sele-
+ção de conceitos de um documento.
+Para que a subjetividade seja minimizada e os termos
+identificados sejam os que melhor representem o documento,
+a indexação decompõe-se em um passo a passo
+amplamente estudado e divulgado na literatura e em normas
+nacional e internacional.
+Junta-se a isso uma política de indexação bem definida
+que irá nortear com diretrizes e critérios o trabalho do bibliotecário,
+reunidos em um manual de indexação.
+A política de indexação deve ser compreendida como
+uma decisão administrativa que reflita os objetivos da biblioteca,
+identificando condutas teóricas e práticas das
+equipes envolvidas no tratamento da informação da biblioteca
+para definir um padrão de cultura organizacional
+coerente com a demanda da comunidade acadêmica interna
+e externa. Além disso, a política de indexação deve estar
+descrita e registrada em manuais de indexação, para Interessa-nos, neste momento, os seguintes elementos
+que dizem respeito à indexação: exaustividade, especificidade,
+capacidade de revocação e capacidade de precisão do sistema
+(Carneiro, 1985). Nosso interesse se deve ao fato de
+que todos esses aspectos encontram-se intrinsecamente
+relacionados, uma vez determinado um desses elementos,os outros serão diretamente influenciados e, consequentemente,
+a recuperação da informação pelo usuário.
+A exaustividade diz respeito ao número de termos atribuídos
+como descritores do assunto do documento, ou seja,
+em que medida todos os assuntos discutidos no documento
+são reconhecidos durante a indexação e traduzidos na
+linguagem documentária da biblioteca. Quanto mais
+exaustiva for a indexação, mais termos ela vai empregar. É
+indicada, por exemplo, em bibliotecas de público variado
+e de diferentes perfis, que podem buscar a mesma informa-
+ção com termos diferentes.
+Algumas bibliotecas determinam um número mínimo
+e número máximo de descritores que poderão ser utilizados.
+Além disso, algumas ainda adotam parâmetros diferentes
+de acordo com o documento. Exemplo: para livros
+– mínimo de dois termos, máximo de cinco; para tese –
+mínimo de quatro termos, máximo de nove.
+A especificidade está relacionada ao nível de abrangência
+que a biblioteca e a linguagem documentária permitem
+especificar os conceitos identificados documento. Exemplo:
+um livro cujo assunto seja especificamente sobre
+“tilápias” será indexado sob o assunto “peixes”. Essa situa-
+ção é característica de bibliotecas que optam por uma baixa
+especificidade nos assuntos que, por sua vez, trará como
+resultados na recuperação uma alta revocação.
+A capacidade de revocação diz respeito ao número de
+documentos recuperados e pode ser mensurada por meio
+da relação entre o número de documentos relevantes sobre
+determinado tema, recuperados pelo sistema de busca, e o
+número total de documentos sobre o tema, existentes nos
+registros do mesmo sistema.
+A capacidade de precisão, ou relevância, está relacionada
+ao número de documentos recuperados para atendimento
+das solicitações encaminhadas pelo usuário. Também
+pode ser mensurada por meio da relação entre os documento.

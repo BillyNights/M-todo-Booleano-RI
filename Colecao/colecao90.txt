@@ -1,0 +1,86 @@
+Algumas estratégias de busca são pouco eficientes e, portanto, devem
+ser evitadas:
+· Exploração de catálogos. Recuperar documentos tentando
+combinar o assunto pesquisado com a categoria mais geral de uma hierarquia
+de assuntos. A partir daí, o usuário escolhe subcategorias que possam levá-lo
+ao objetivo pretendido. A principal dificuldade consiste em determinar sob
+qual categoria o assunto está classificado. Corre-se o risco de, após inúmeras
+tentativas, descobrir-se que o assunto procurado não está sob aquela
+classificação. A categoria saúde, por exemplo, pode conter documentos sobre
+medicina, homeopatia, psiquiatria e esporte em determinado catálogo. Em
+outro catálogo, medicina pode incluir saúde, saúde mental e medicina alternativa
+e esporte pode estar classificado na categoria estilo de vida.
+· Palavras-chave simples em bancos de dados amplos, como os
+programas de busca. Pesquisar com palavras-chave simples é buscar uma ou
+mais palavras, separadas por espaços, nas ferramentas de busca. Desta forma
+pode-se recuperar todos os endereços do banco de dados que contenham a
+palavra ou palavras pesquisadas. Em banco de dados extensos tal
+procedimento gera excesso de documentos sendo que, grande parte deles
+não têm são relevantes. Neste caso é aconselhável utilizar técnicas mais
+avançadas de pesquisa, controlando a linguagem de busca. Nos bancos de
+dados menores e em catálogos por assunto, entretanto, pesquisas utilizando
+palavras chaves simples podem fornecer uma boa aproximação.
+Dessa forma, conclui-se a apresentação dos conceitos básicos dos
+mecanismos de busca: o que são, como funcionam, diferenças existentes na
+construção das bases de dados e controle da linguagem. As ferramentas de
+busca que serão apresentadas a seguir, embora tragam algumas novidades,
+podem ser enquadradas em uma das duas categorias já descritas: catálogos
+por assunto ou programas de busca.Diferentemente dos mecanismos de busca genéricos, que armazenam
+informações sobre qualquer assunto, os buscadores especializados ou
+temáticos restringem-se a documentos de um campo específico. Suas bases
+de dados são compostas de informações pertencentes a uma única categoria
+como, por exemplo, comércio exterior, computação, medicina etc.
+O número de buscadores especializados na Internet vem aumentando
+diariamente e cobrem quase todos os assuntos. Cada um deles tem conteúdo
+e abordagem únicos. A vantagem destas ferramentas sobre pesquisadores
+genéricos consiste em que, por serem especializados, apresentam resultados
+mais relevantes, num tempo de pesquisa menor.
+Como os genéricos, estas ferramentas especializadas podem compilar
+seus bancos de dados através de robôs (como os programas de busca) ou
+utilizando editores que classificam os sites em tópicos (como os catálogos).
+No caso dos programas de busca especializados, seu criador seleciona
+sites voltados para um assunto específico e o robô percorre os links a partir
+destes sites. Por exemplo, para elaboração de um banco de dados
+especializado em decoração, selecionam-se sites de qualidade sobre o assunto
+decoração e o robô percorre os links indicados por estes sites. Somente aqueles
+selecionados e as páginas indicadas farão parte do banco de dados do programa
+de busca. Veja, por exemplo, o MedHunt (http://www.hon.ch/MedHunt) cuja
+base de dados é criada a partir de sites selecionados da área médica ou,
+ainda, o MP3.com (http://www.mp3.com) especializado na localização de
+músicas no formato MP3.
+Nos catálogos especializados o banco de dados é compilado da mesma
+forma que nos catálogos genéricos. Os editores buscam novos sites e revisam
+as submissões apresentadas, classificando as informações em categorias.
+Um catálogo especializado terá, provavelmente, mais sites sobre o
+assunto subdivididos em um número maior de categorias que os genéricos.
+Um exemplo é o catálogo Advertising World (http://advertising.utexas.edu/
+world), especializado em marketing ou o Global Edge (http://
+globaledge.msu.edu/ibrd/ibrd.asp), que coleciona sites voltados para o
+desenvolvimento de negócios internacionais.
+Podemos localizar buscadores especializados digitando-se, no campo
+de busca a expressão “specialized search engines” ou o assunto de interesse
+acompanhado de uma das seguintes expressões: “subject guides”, “subject
+directories”, “web directories”. Existem, ainda, catálogos que compilam,
+exclusivamente, buscadores especializados. Coletam programas de busca e
+catálogos especializados e os classificam em categorias. Veja, por exemplo:
+· http://www.internets.com, catálogo onde os mecanismos de busca
+especializados estão classificados em 43 categorias;
+· SearchIQ (http://www.zdnet.com/searchiq/subjects), guia de
+mecanismos de busca especializados organizado em 25 categorias e várias
+subcategorias,
+· Fossik.com (http://www.fossick.com) lista mais de 3 mil pesquisadores
+especializados classificados em nove categorias e aproximadamente 50
+subcategorias.
+Finalmente, há na Web sites que oferecem uma coleção de links sobre
+um assunto específico. Pode-se dizer que estas coleções deram origem aos
+buscadores especializados e que são sua versão reduzida, características que
+não diminuem sua importância. São, geralmente, compilados por especialistas
+e seu conteúdo é selecionado cuidadosamente obedecendo critérios objetivos.
+Bons exemplos podem ser encontrados em http://lib.itg.be/biblinks.htm
+que oferece links selecionados para área de saúde, no http://
+www.soemadison.wisc.edu/ccbc/hplinks.htm que inclui links selecionados sobre
+o personagem Harry Porter ou, ainda, no endereço http://www.rurallinks.com.br
+que coleta informações na Web sobre agronegócios. Para localizar estes sites
+deve-se digitar o assunto de interesse e uma das seguintes expressões: links,
+selected links, bookmarks, webligraphies ou índices (ou seus correspondentes
+em português).

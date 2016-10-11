@@ -1,0 +1,91 @@
+No decorrer de sua história, a Ciência da Informação (CI) tem se
+deparado com problemas de difícil tratamento, sendo alguns deles: O que
+é informação? O que é relevante para o usuário? Quem é o usuário final?
+A mesma tem se empenhado na busca de soluções para tais problemas,
+configurando-se, para tanto, como um campo multi, inter e mesmo
+transdisciplinar (SARACEVIC, 1992; 1995; PINHEIRO, 2006). Dessa
+forma, utiliza-se dos conhecimentos desenvolvidos em outras ciências
+para realização de suas atividades. Algumas das áreas que se relacionam
+com a CI são: ciência da computação, ciência cognitiva, biblioteconomia,
+comunicação, entre outras (SARACEVIC, 1992; 1995).
+Um dos objetivos da CI é facilitar o acesso rápido e eficaz, para os
+usuários de Sistemas de Recuperação da Informação (SRI), às
+informações que tais sujeitos julguem ser relevantes. No entanto, as
+subjetividades que envolvem a definição de informação e o conceito de
+relevância dificultam a realização plena desse objetivo. Outro aspecto que
+prejudica a solução do problema observado por Mooers (1951 apud
+SARACEVIC, 1992), a Recuperação da Informação (RI), é a dificuldade em
+definir quem é o usuário do SRI.
+Sabe-se que cada indivíduo é constituído por características sociais,
+históricas, políticas e ideológicas distintas. Dessa forma, e em uma
+sociedade na qual este mesmo indivíduo possui formações diferenciadas
+de seus iguais, como definir o que é informação relevante para o mesmo?
+Como tratar estas diferenças em um sistema, comumente, rígido,
+fechado? Há, atualmente, o conceito de indexação livre, folksonomia, que
+dá mais liberdade para que o usuário determine o que lhe é importante
+em termos de informação. No entanto, há críticas que apontam falhas
+nesse sistema de classificação, referentes a um "caos" informativo
+(CATARINO; BAPTISTA, 2007).
+Quanto às subjetividades que envolvem a definição do termo
+informação, tem-se observado diversas abordagens que buscam
+estabelecer um conceito do mesmo, e o termo conhecimento é
+comumente utilizado como sinônimo daquele. Nesse ínterim, informação
+tem sido considerada como tangível e conhecimento como intangível.
+Todavia, ao ser determinado como informação aquilo que é informativo e
+relevante para o usuário de um SRI, torna-se difícil estabelecer um ponto
+fixo que determine se informação é tangível ou intangível, pois, para o
+usuário, isso pode ser distinto.
+Sendo a CI um campo multi, inter e mesmo transdisciplinar, é
+possível observá-la, através dos mais variados contextos profissionais.
+Assim sendo, busca-se analisá-la, a partir dos museus de arte. Ou seja,
+relaciona-se o conceito de informação com o processo de mediação em
+tais museus e, dessa forma, percebe-se um aumento das dificuldades
+enfrentadas pelo profissional da informação no que tange à definição do 
+que seja informação relevante aos usuários desse ambiente, devido às
+subjetividades que envolvem a definição de Arte.
+Arte, em geral, é definida "como manifestações, técnica ou
+habilidade proveniente de atividades humanas, geralmente ligadas à
+ordem estética, através da expressão de idéias, percepções, sentimentos
+etc., e provocam sentimentos na pessoa que a frui" (RODRIGUES;
+CRIPPA, 2009, p. 3). Tradicionalmente, os produtos considerados Arte são
+as esculturas e as pinturas. Já no contexto das Artes Contemporâneas, a
+utilização de diversos materiais e mesmo tecnologias na constituição dos
+produtos artísticos faz com que não seja possível estabelecer um "material
+particular que desfrute do privilégio de ser imediatamente reconhecido
+como material da arte" (ARCHER, 2001, p. 19). No entanto, o que torna
+as informações subjetivas no contexto do museu de arte é o fato de que o
+significado da obra emerge, em muitos casos, de seu contexto tanto social
+quanto político e mesmo formal (ARCHER, 2001).
+Outro aspecto a ser considerado também é que cada obra "é dotada
+de características peculiares enquanto produtos artísticos produzidos, ou
+escolhidos, por artistas que possuem suas individualidades" (RODRIGUES;
+CRIPPA, 2009, p. 6). Assim sendo, é necessário ao profissional da
+informação um conhecimento mais aprofundado de tais questões, para
+tentar entender o que possa vir a ser relevante e informativo aos usuários
+do museu de arte. Ainda assim, retorna-se a ideia de que cada indivíduo é
+constituído por características sociais, históricas, políticas e ideológicas
+distintas.
+Tratar as informações técnicas de uma obra (nome de autor, data
+da obra, dimensões, técnica utilizada etc.), para Umberto Eco (1981), é o
+mesmo que falar da obra cientificamente e, para o autor, isso não basta.
+As percepções provocadas por uma obra de arte devem ser consideradas
+no momento de coleta das informações para a disponibilização ao usuário.
+Portanto, para trabalhar o processo de mediação cultural de obras de arte,
+é necessário definir quais são as informações artísticas, mas sem se
+esquecer de quem é o usuário que acederá tal obra. Definidas essas
+informações, deve-se atentar, também, para o que é e como se faz a
+mediação das mesmas.
+Quanto à mediação cultural, encontram-se na literatura muitas
+citações do termo. Entretanto, aponta Almeida Júnior (2008), que se tem
+observado pouca discussão que envolve a definição deste termo ou
+mesmo sua aplicação como campo de trabalho, ou, ainda, quem é o
+responsável por este processo: o homem e/ou os dispositivos técnicos?
+Intenta-se, neste trabalho, apresentar algumas das discussões
+empreendidas no âmbito da CI e as abordagens dos problemas por ela
+estudados, bem como algumas das teorias voltadas à definição de
+informação e mediação. Para tanto, serão levantados alguns dos aspectos
+quanto à informatividade, oferta de sentido e RI em CI. Finaliza-se o
+mesmo, observando alguns dos problemas enfrentados pelo profissional
+da informação, quando este exerce a função de mediador no campo do
+museu de arte, além de buscar estabelecer as relações entre a CI e o
+campo artístico museológico através da mediação cultural. 
