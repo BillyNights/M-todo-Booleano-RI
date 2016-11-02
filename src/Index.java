@@ -29,8 +29,8 @@ Ambiente de Desenvolvimento Diego
 
 
 Objetivo do arquivo:
-Este programa, tem como objetivo receber uma coleção  de arquivos e realizar pesquisar neste arquivos utilizando metodo booleano.
-
+1-Este programa, tem como objetivo receber uma coleção  de arquivos e realizar pesquisar neste arquivos utilizando metodo booleano.
+2-E encontrar a similaridade dos documentos através do modelo vetorial.
 */
 
 import java.io.BufferedReader;
@@ -47,8 +47,8 @@ import javax.swing.JOptionPane;
 
 public class Index {
 
-	static boolean DEGUG = false;
-	public static int qtdArquivos = 120;
+	static boolean DEGUG = true;
+	public static int qtdArquivos = 4;
 	public static HashSet<Palavra> hashList = new HashSet<Palavra>();
 	static final String caminhoPasta = "Colecao/colecao";
 
@@ -77,7 +77,7 @@ public class Index {
 						teste = st.nextToken().toUpperCase();
 
 						/* Captura palavras meiores ou igual a 5 caracter */
-						if (teste.length() >= 5) {
+						if (teste.length() >= 3) {
 							impressao += teste + "\n";
 						}
 					}
@@ -137,19 +137,18 @@ public class Index {
 
 	}
 
-	public void saidaHash(HashSet<Palavra> hashList) throws IOException {
-
-		OutputStreamWriter bufferOut = new OutputStreamWriter(new FileOutputStream("Palavras_Chave_Hash.txt"), "UTF-8");
-		String texto = "";
-
-		for (Palavra palavra : hashList) {
-			texto += palavra.getNome() + "\n";
-		}
-		bufferOut.write(texto);
-		System.out.println("Arquivo hash Criado.");
-		bufferOut.close();
-
-	}
+	/*
+	 * public void saidaHash(HashSet<Palavra> hashList) throws IOException {
+	 * 
+	 * OutputStreamWriter bufferOut = new OutputStreamWriter(new
+	 * FileOutputStream("Palavras_Chave_Hash.txt"), "UTF-8"); String texto = "";
+	 * 
+	 * for (Palavra palavra : hashList) { texto += palavra.getNome() + "\n"; }
+	 * bufferOut.write(texto); System.out.println("Arquivo hash Criado.");
+	 * bufferOut.close();
+	 * 
+	 * }
+	 */
 
 	/**
 	 * Cria Tabela Hash Abrindo arquivo Palavras_Chave.txt passado por
@@ -244,8 +243,9 @@ public class Index {
 				br.close();
 
 				if (temPalavra) {
-					palavra.insereDocumento(new Documento("D" + i, repeticao));
+					palavra.insereDocumento(new Documento("D" + i, repeticao, 0, 0));
 				}
+				repeticao = 0;
 				arquivo = caminhoPasta;
 				temPalavra = false;
 			}
@@ -292,16 +292,19 @@ public class Index {
 		int op;
 		String consult = null;
 		String imprime = null;
-
+		boolean sair;
 		do {
 
-			opcao = (String) JOptionPane.showInputDialog(null, "============= Menu de Opções ==============\n"
-					+ " 1 - Realizar ConsultaBooleana.                  \n" + " 0 - Sair                   \n");
+			opcao = (String) JOptionPane.showInputDialog(null,
+					"============= Menu de Opções ==============\n"
+							+ " 1 - Realizar Consulta - Booleana.                  \n"
+							+ " 2 - Realizar Consulta - Modelo Vetorial.                  \n"
+							+ " 0 - Sair                   \n");
 
 			op = Integer.parseInt(opcao);
 			switch (op) {
 			case 1:
-				boolean sair = false;
+				sair = false;
 				do {
 					consult = JOptionPane.showInputDialog(null, " Informe sua consulta - ou digite sair \n");
 
@@ -319,6 +322,28 @@ public class Index {
 				} while (!sair);
 				break;
 
+			case 2:
+				sair = false;
+				do {
+					consult = JOptionPane.showInputDialog(null, " Informe sua consulta - ou digite sair \n");
+
+					if (consult.equals("sair")) {
+						sair = true;
+					} else {
+
+						ModeloVetorial m = new ModeloVetorial();
+						imprime = m.similaridade(consult.toUpperCase());
+						if (imprime == "") {
+							imprime = "Nenhum documento encontrado !";
+						}
+						JOptionPane.showMessageDialog(null, "Similaridade dos Documentos :\n" + imprime);
+
+					}
+
+				} while (!sair);
+
+				break;
+
 			}
 
 		} while (op != 0);
@@ -328,7 +353,7 @@ public class Index {
 		Index i = new Index();
 
 		/* Cria arquivos com todas as palavras */
-		// i.leAnalisa(caminhoPasta);
+		i.leAnalisa(caminhoPasta);
 
 		/*
 		 * Cria tabela hashSet e o Arquivo de Saída com as palavas sem
@@ -337,8 +362,8 @@ public class Index {
 		 * Varre Todos os arquivos e identifica os documentos e insere na lista.
 		 */
 
-		i.criaTabelaHash("Palavras_Chave_Hash.txt");
-
+		i.criaTabelaHash("Palavras_Chave.txt");
+		// i.saidaHash(hashList);
 		i.varrerArquivo(caminhoPasta);
 
 		/*

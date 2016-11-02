@@ -3,10 +3,14 @@ public class Documento {
 
 	private String nome;
 	private int repeticoes;
+	private float tf;
+	private float idf;
 
-	public Documento(String nome, int repeticoes) {
+	public Documento(String nome, int repeticoes, float tf, float idf) {
 		this.nome = nome;
 		this.repeticoes = repeticoes;
+		this.tf = tf;
+		this.idf = idf;
 	}
 
 	/**
@@ -81,6 +85,36 @@ public class Documento {
 			return false;
 		}
 		return true;
+	}
+
+	/**
+	 * @return the tf
+	 */
+	public float getTf() {
+		return tf;
+	}
+
+	/**
+	 * @param tf
+	 *            the tf to set
+	 */
+	public void setTf(float tf) {
+		this.tf = tf;
+	}
+
+	/**
+	 * @return the idf
+	 */
+	public float getIdf() {
+		return idf;
+	}
+
+	/**
+	 * @param idf
+	 *            the idf to set
+	 */
+	public void setIdf(float idf) {
+		this.idf = idf;
 	}
 
 }
