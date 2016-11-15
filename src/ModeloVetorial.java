@@ -114,14 +114,19 @@ public class ModeloVetorial {
 	public float vetorCalc(ArrayList<String> palaConsulta) {
 		int cont = 0;
 		float somatorioVET = 0;
-
-		if (palaConsulta.get(0).equals(palaConsulta.get(1))) {
-			cont = 2;
+		if (palaConsulta.size() == 2) {
+			if (palaConsulta.get(0).equals(palaConsulta.get(1))) {
+				cont = 2;
+			} else
+				cont = 1;
 		} else
 			cont = 1;
 
 		for (String string : palaConsulta) {
-			vet_Consulta.add(new VetCosult(string, calcVetorConsult(cont, consultaQtd(string))));
+			if (consultaQtd(string) != 0) {
+				vet_Consulta.add(new VetCosult(string, calcVetorConsult(cont, consultaQtd(string))));
+			} else
+				vet_Consulta.add(new VetCosult(string, 0.0));
 		}
 
 		for (VetCosult v : vet_Consulta) {
@@ -177,9 +182,7 @@ public class ModeloVetorial {
 		float tf_idf;
 
 		for (Palavra p : Index.hashList) {
-
 			if (v.getPalavra().equals(p.getNome())) {
-				i = 1;
 				ArrayList<Documento> d = p.getDocumentos();
 				for (Documento documento : d) {
 					if (documento.getNome().equals("D" + i)) {
@@ -187,7 +190,6 @@ public class ModeloVetorial {
 						return tf_idf * v.getValor();
 					}
 				}
-
 			}
 		}
 		return 0;

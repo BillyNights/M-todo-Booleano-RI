@@ -2,12 +2,17 @@
 public class VetCosult {
 
 	private String palavra;
-	private Float valor;
+	private float valor;
 
 	public VetCosult(String palavra, Float valor) {
-		super();
 		this.palavra = palavra;
 		this.valor = valor;
+
+	}
+
+	public VetCosult(String palavra, double valor) {
+		this.palavra = palavra;
+		this.valor = (float) valor;
 	}
 
 	/**
